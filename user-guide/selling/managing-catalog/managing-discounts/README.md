@@ -1,6 +1,6 @@
 # Managing Discounts
 
-![](<../../../../.gitbook/assets/51839844 (5) (5) (3).png>)
+![](<../../../../.gitbook/assets/51839844 (5) (5).png>)
 
 Discounts and vouchers play an important role in your daily relationships with your customers. Typically, customers like two things when shopping:
 

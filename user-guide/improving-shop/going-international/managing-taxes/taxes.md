@@ -8,7 +8,7 @@ This page lists all the taxes already created in your shop. It allows you to als
 
 At the bottom of the page is the "Tax options" section. These options apply to the whole shop and to all of the orders.
 
-![](<../../../../.gitbook/assets/64225615 (4) (4) (3).png>)
+![](<../../../../.gitbook/assets/64225615 (4) (4) (2).png>)
 
 * **Enable tax**. Whether or not taxes are included in each purchase.
 * **Display tax in the shopping cart**. You might prefer the customer not to be aware of the taxes that are applied to the order. In that case, disable this option.

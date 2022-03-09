@@ -9,4 +9,4 @@ The stock management page consists of two tabs: "Stock" and "Movements".
 
 By default, when you open the stock management page, the "Stock" tab is the opened tab. Inside this tab, you can have an overview of the stock of products in your catalog and manage their quantities. The "Movements" tab gives you an history of all the changes in quantities.
 
-![](<../../../../.gitbook/assets/54266288 (3) (5) (2).gif>)
+![](<../../../../.gitbook/assets/54266288 (3) (5) (3).gif>)

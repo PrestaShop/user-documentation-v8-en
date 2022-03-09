@@ -14,7 +14,7 @@ This feature is especially useful if you are in one of the following cases:
 
 ## Enabling the multistore feature <a href="#managingmultipleshops-enablingthemultistorefeature" id="managingmultipleshops-enablingthemultistorefeature"></a>
 
-![ ](<../../.gitbook/assets/image (46).png>)
+![ ](<../../.gitbook/assets/image (44).png>)
 
 1. Go to the **Shop Parameters > General** page.
 2. Enable the multistore feature and save.

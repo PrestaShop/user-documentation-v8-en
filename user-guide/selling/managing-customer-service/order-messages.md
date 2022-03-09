@@ -4,7 +4,7 @@ When you have to send a message to your customers using the PrestaShop interface
 
 To do this, go to the "Order Messages" page under the "Customer Service" menu. One default message is already saved: "Delay".
 
-![](<../../../.gitbook/assets/23038637 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/23038637 (3) (3).png>)
 
 ## Creating a new message <a href="#ordermessages-creatinganewmessage" id="ordermessages-creatinganewmessage"></a>
 

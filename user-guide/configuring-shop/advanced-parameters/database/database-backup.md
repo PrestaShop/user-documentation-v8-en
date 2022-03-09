@@ -49,4 +49,4 @@ At the bottom of the screen, two options are available:
     By default, PrestaShop backups all tables, but if you are short on disk space on your web server, change this option to "Yes".
   * **Drop existing tables during import**. When importing a backup file, the system can either overwrite the existing live tables with the content of the ones that were backed up, or delete all existing in order to replace them with the content of the backup. The first case can result in doubles, which is why this option is enabled by default.\
     \
-    ![](<../../../../.gitbook/assets/45580384 (4) (4) (3).png>)
+    ![](<../../../../.gitbook/assets/45580384 (4) (4) (1).png>)

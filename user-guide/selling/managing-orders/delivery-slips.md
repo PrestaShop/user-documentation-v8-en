@@ -3,7 +3,7 @@
 A delivery slip is a notification of delivery. It can also be called "delivery note" or "advice note".\
 It is supposed to be put in the shipped package, along with the ordered products. It will have your shop's logo, and indicate the content. On receiving the package, the customer will be able to use the delivery slip in order to double-check the content of the package, see that nothing is missing from the order.
 
-![](../../../.gitbook/assets/51839199.png)
+![](<../../../.gitbook/assets/51839199 (3) (3) (3).png>)
 
 Getting a delivery slip is exactly like getting an invoice. Select the dates, as well as the options you would like, and then confirm them to create your documents.
 
@@ -11,7 +11,7 @@ You can get a PDF file of several delivery slips depending only by date, which i
 
 ## Delivery Slips Options <a href="#deliveryslips-deliveryslipsoptions" id="deliveryslips-deliveryslipsoptions"></a>
 
-![](<../../../.gitbook/assets/51839200 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839200 (3) (3) (1).png>)
 
 The three options are the same as for the invoice options:
 

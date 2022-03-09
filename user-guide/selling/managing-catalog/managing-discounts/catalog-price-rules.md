@@ -14,7 +14,7 @@ The creation form page has two sections, enabling you to precisely build new rul
 
 The first form is easy to understand.
 
-![](../../../../.gitbook/assets/51839309.png)
+![](<../../../../.gitbook/assets/51839309 (3) (3) (3).png>)
 
 This is where you set who should benefit from the rule, what the discount should be, and other details.
 
@@ -38,7 +38,7 @@ The "Conditions" section is where you set the products to which the category pri
 
 If no conditions are set, the price rule will apply to ALL products of your catalog. Be careful not to forget the conditions!
 
-![](<../../../../.gitbook/assets/51839310 (3) (3) (2).png>)
+![](<../../../../.gitbook/assets/51839310 (3) (3) (1).png>)
 
 Conditions are built around condition groups, meaning that your data from the "Catalog price rule" section above can be applied to many different ranges of products. Conditions are grouped in an inclusive manner: all conditions of the group have to apply for the catalog price to apply. Hence the "AND". Meanwhile, condition groups are exclusive: only one group has to apply for the catalog price to apply. Hence the "OR".
 

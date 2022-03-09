@@ -4,7 +4,7 @@ PrestaShop enables you to centralize all the customer requests within its confin
 
 In practice, the contact form of your shop, available under the "Contact us" link in the footer, presents the customer with two contacts by default: "Customer Service" and "Webmaster". The customer only has to choose who to contact, and then fill the rest of the fields. The message is then recorded in PrestaShop's customer service tool.
 
-![](<../../../.gitbook/assets/51839870 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839870 (3) (3) (1).png>)
 
 Discussion threads are only included in the customer service tool if the contact has the "Save messages?" option enabled. You can change this setting, or add more contacts, by going to the "Contact" page, under the "Shop Parameters" menu. You will find the option when editing the existing contacts.
 
@@ -36,7 +36,7 @@ Finally, the bottom of the page features the "Customer service options" section,
 
 Each conversation with a customer can be entirely handled through PrestaShop's complete interface, without having to use an email client such as Outlook or Thunderbird.
 
-![](<../../../.gitbook/assets/51839871 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839871 (3) (3) (1).png>)
 
 In the conversation list, click on a row to view the conversation's details:
 
@@ -58,13 +58,13 @@ To reply to this thread, simply use the form with your default message (as set i
 
 At the bottom of the page, the "Orders and messages timeline" gives you a clear chronological view of the events pertaining to this discussion thread. When it is tied to an order, you will also have the order details.
 
-![](../../../.gitbook/assets/23789570.png)
+![](<../../../.gitbook/assets/23789570 (3) (3) (3).png>)
 
 ## Customer Service Options <a href="#customerservice-customerserviceoptions" id="customerservice-customerserviceoptions"></a>
 
 This section basically enables you to precisely configure PrestaShop's access to your email server through its IMAP interface. You should make sure all fields are filled, in order for the customer service tool to work properly. Most of this information should be provided by your web host.
 
-![](<../../../.gitbook/assets/51839872 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839872 (3) (3) (1).png>)
 
 * **IMAP URL**, **IMAP port**, **IMAP user** and **IMAP password**. Essential details to access the email server using the IMAP protocol.
 * **Delete messages**. If enabled, messages on the server will be deleted as soon as PrestaShop has retrieved them. Use with caution: this would make your messages unavailable to other e-mail clients.

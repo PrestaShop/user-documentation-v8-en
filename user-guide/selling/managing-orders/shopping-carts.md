@@ -5,7 +5,7 @@ PrestaShop contains some very powerful marketing features that enable you to see
 1. Go to the "Customers" page in the "Customers" menu, find the customer you are looking for, and view his or her customer profile. In that profile, scroll down to the "Carts" section, where you can see all the carts created by this customer.
 2. Go to the "Shopping carts" page in the "Orders" menu. The carts are sorted by ID. Find the customer you are looking for.
 
-![](<../../../.gitbook/assets/38469730 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/38469730 (3) (3).png>)
 
 In both cases, you can click the "View" icon to see the content of your client's cart, and use this information to improve your commercial performance.
 

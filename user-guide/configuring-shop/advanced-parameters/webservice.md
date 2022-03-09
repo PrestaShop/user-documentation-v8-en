@@ -6,7 +6,7 @@ A web service is a method of communication between two electronic devices over a
 
 The page starts by listing the currently existing webservice keys in a table, if there is any. A webservice key is a unique access that you grant to a developer, which can be used to tie a tool to your shop. Share them sparingly, as you might not always want everyone to access your data.
 
-![](<../../../.gitbook/assets/43417629 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/43417629 (4) (4).png>)
 
 Not any app can access your shop through the PrestaShop webservice: you decide which can, and what they are allowed to do. Every app has a unique connection key, with specific access rights.
 
@@ -21,7 +21,7 @@ The "Add new webservice key" button takes you to the webservice key creation for
 
 Click "Save" when you your key is ready.
 
-![](../../../.gitbook/assets/43417631.png)
+![](<../../../.gitbook/assets/43417631 (4) (4) (4).png>)
 
 ## Configuration <a href="#webservice-configuration" id="webservice-configuration"></a>
 
@@ -32,4 +32,4 @@ The webservice configuration is pretty easy:
 * **Enable PrestaShop's webservice**. If you do not want anyone to access your shop through third-party tools and applications, just keep it disabled.
 * **Enable CGI mode for PHP**. The CGI mode is a special setting for the Apache server, where you tell it to use PHP as a CGI script rather than an Apache module. While the CGI mode has a reputation of being more secure, it has been found to have a security flaw as recently as May 2012. Ask your web host for advices.
 
-![](../../../.gitbook/assets/43417632.png)
+![](<../../../.gitbook/assets/43417632 (4) (4) (4).png>)

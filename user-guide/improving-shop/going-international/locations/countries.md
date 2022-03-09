@@ -8,13 +8,13 @@ By default, only your own country is enabled in the country list. You should ena
 
 At the bottom of the list, the "Country options" section makes it possible to only display on your front office the countries that your carriers cover. We recommend that you enable this setting as it prevents customers from having to scroll through all the country names to find their own.
 
-![](<../../../../.gitbook/assets/51839946 (4) (4) (3).png>)
+![](<../../../../.gitbook/assets/51839946 (4) (4) (1).png>)
 
 ## Adding a New Country <a href="#countries-addinganewcountry" id="countries-addinganewcountry"></a>
 
 Normally, PrestaShop comes with all current countries in the database. But in the case new ones are created, you would need to add a new country.
 
-![](<../../../../.gitbook/assets/51839947 (4) (4) (3).png>)
+![](<../../../../.gitbook/assets/51839947 (4) (4) (1).png>)
 
 * **Country**. The official name of the country that you would like to add, in all supported languages. Check the country's Wikipedia page if unsure about the name.
 * **ISO code**. The country's ISO-3166 code, which you can find on the official ISO page: [http://www.iso.org/iso/country\_codes/iso\_3166\_code\_lists/country\_names\_and\_code\_elements.htm](http://www.iso.org/iso/country\_codes/iso\_3166\_code\_lists/country\_names\_and\_code\_elements.htm).

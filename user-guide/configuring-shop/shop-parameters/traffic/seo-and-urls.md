@@ -18,7 +18,7 @@ Friendly URLs only work with a server setup that supports URL rewriting (through
 
 In order to change the homepage meta tags, you simply need to open the "SEO & URLs" page and click on "index" to reach the page's settings and freely edit its important SEO information.
 
-![](../../../../.gitbook/assets/64225660.png)
+![](<../../../../.gitbook/assets/64225660 (4) (4) (4).png>)
 
 A few tips:
 
@@ -35,7 +35,7 @@ Friendly URLs are to be set in the configuration page of each product, category,
 
 Make sure to fill the fields for all the available languages on your shop: not only is it immensely useful to local users, but some search engines can even make use of this local information.
 
-![](../../../../.gitbook/assets/64225660.png)
+![](<../../../../.gitbook/assets/64225660 (4) (4) (4).png>)
 
 Click the "Add new page" button to reach the friendly URL creation form. It has a handful of fields:
 
@@ -82,7 +82,7 @@ In this section, you can view and edit some of the default server settings:
 
 Most of the time, we recommend not to touch these fields without knowing exactly what you are doing. Indeed, a single mistake can sometimes break your shop.
 
-![](<../../../../.gitbook/assets/64225662 (4).png>)
+![](<../../../../.gitbook/assets/64225662 (3).png>)
 
 ## Schema of URLs <a href="#seoandurls-schemaofurls" id="seoandurls-schemaofurls"></a>
 
@@ -100,7 +100,7 @@ Once your fields updated, do not forget to save your changes!
 
 _New since 1.7.5.1!_ PrestaShop now allows you to enable the display of your product's attributes in its meta title.
 
-![](<../../../../.gitbook/assets/64225663 (2) (1) (3).png>)
+![](<../../../../.gitbook/assets/64225663 (2) (1) (4).png>)
 
 ## Robots file generation <a href="#seoandurls-robotsfilegeneration" id="seoandurls-robotsfilegeneration"></a>
 
@@ -110,7 +110,7 @@ PrestaShop's `robots.txt` generation tool simply creates a file with exclusion d
 
 Clicking on the "Generate robots.txt" button replaces any existing `robots.txt` file with a new one. Therefore, if you want to add your own rules, do it after PrestaShop has generated its version of the file.
 
-![](<../../../../.gitbook/assets/64225665 (4) (4).png>)
+![](<../../../../.gitbook/assets/64225665 (4).png>)
 
 Video - 4 Tips to Well start SEO for your Ecommerce site
 

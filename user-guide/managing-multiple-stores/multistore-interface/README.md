@@ -42,7 +42,7 @@ When the multistore feature is enabled, you can apply changes to either **all st
 
 The drop-down selector at the top of each page of the back office indicates the context you are working on (All stores, group, or single store).
 
-![](<../../../.gitbook/assets/57081980 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/57081980 (4) (4) (2).png>)
 
 #### The header (from version 1.7.8.0)
 

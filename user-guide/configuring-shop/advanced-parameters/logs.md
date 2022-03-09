@@ -18,7 +18,7 @@ These explanations are the official ones from the PHP manual. Read more: [http:/
 The error levels also serve as values for the "Logs by email" feature.\
 PrestaShop adds one last value, 5, which indicates that the administrator does not want to receive any notification, either for minor or major errors.
 
-![](<../../../.gitbook/assets/23789888 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/23789888 (4) (4) (1).png>)
 
 The error logging tool enables you to receive an email notification when an error occurs. Notifications are sent to the shop owner's email address, and you can configure the degree of importance at which you should start receiving such e-mails:
 

@@ -2,11 +2,11 @@
 
 The social title tool helps you better define your customers: in the customers list, you can choose to only display customers having a given social title. Modules may also rely on social titles for certain features.
 
-![](<../../../../.gitbook/assets/23789579 (4) (3) (3).png>)
+![](<../../../../.gitbook/assets/23789579 (4) (3) (2).png>)
 
 Clicking on the "Add new social title" button brings you to a form:
 
-![](<../../../../.gitbook/assets/30670853 (4) (4) (3).png>)
+![](<../../../../.gitbook/assets/30670853 (4) (4).png>)
 
 * **Social title**. You can choose anything, from the very common ("Sir", "Lady", "Gentleman", etc.) to the very unusual ("Jedi", "Magnificent One", "Money carrier"...). The important thing when departing from the commonly accepted titles is to reflect your shop's true identity.
 * **Gender**. Some titles may apply to both male and female customers, or to neither. In that last case, be sure then to set that option to "Neutral".

@@ -12,4 +12,4 @@ You do not have to be a PrestaShop expert to start shopping for add-ons: have a 
 
 Visit [http://addons.prestashop.com](http://addons.prestashop.com)!
 
-![](<../.gitbook/assets/51839807 (3) (1) (3).png>)
+![](<../.gitbook/assets/51839807 (3) (1) (6).png>)

@@ -2,7 +2,7 @@
 
 This very simple preference page will be invaluable when you want to make changes to your shop without your customers noticing. For instance, when you are adding several new products at once, or when you want to change the theme and make several tests before making it available to the world.
 
-![](../../../../.gitbook/assets/51839965.png)
+![](<../../../../.gitbook/assets/51839965 (4) (4) (4).png>)
 
 This page only has three options:
 

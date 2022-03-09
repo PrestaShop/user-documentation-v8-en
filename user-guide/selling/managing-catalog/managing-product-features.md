@@ -16,7 +16,7 @@ You can set the features' order using the arrows in the "Position" column. The "
 
 Click on "Add new feature". A very simple form appears. This is where you name the feature itself: for example, the types of headphones provided with a music player.
 
-![](<../../../.gitbook/assets/64225514 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/64225514 (3) (3).png>)
 
 Give a name to this new feature, an URL and define its meta title. If you want to make this feature available for the Faceted Search module, select its indexation. Save your new feature to return to the attributes list.
 
@@ -24,7 +24,7 @@ Give a name to this new feature, an URL and define its meta title. If you want t
 
 Click on "Add new feature value". Another form appears.
 
-![](<../../../.gitbook/assets/64225515 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/64225515 (3) (3) (1).png>)
 
 Fill out the form:
 

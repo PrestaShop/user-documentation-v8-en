@@ -1,6 +1,6 @@
 # Browsing the front office
 
-![](<../.gitbook/assets/recent updates.png>)
+![](../.gitbook/assets/recent-updates.png)
 
 :arrow\_right:[Contribute](https://prestashop.gitbook.io/howtocontribute/)
 
@@ -18,7 +18,7 @@ If you want to change your theme, you can choose one among the large choice of t
 
 ## The default theme
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](../.gitbook/assets/image-8-.png)
 
 PrestaShop comes with a default theme that uses a simple, clean, gray and white design. This minimalism makes it suitable for almost any industry. It was designed to be easy to browse, ergonomic, standard-compliant, and adapted to all screen sizes and devices.
 
@@ -32,7 +32,7 @@ The header is divided into two parts.&#x20;
 
 The upper part of the header contains:
 
-![Upper part of the header](<../.gitbook/assets/image (28).png>)
+![Upper part of the header](<../.gitbook/assets/image (29).png>)
 
 * **A link to the contact page**&#x20;
 * **A language selector:** if more than one language is available on the store, customers can choose in which language they want to see the store.&#x20;
@@ -42,7 +42,7 @@ The upper part of the header contains:
 
 The lower part of the header is larger, it contains:
 
-![Lower part of the header](<../.gitbook/assets/image (29).png>)
+![Lower part of the header](<../.gitbook/assets/image (25).png>)
 
 * **The store logo:** by clicking on this logo, customers will be automatically redirected to the homepage of the store. Don't forget to change the default logo by adding your own from the Design > Theme & Logo page of the back office!
 * **The menu:** by default, the categories "Clothing", "Accessories" and "Art" are displayed, and subcategories appear on mouseover. To customize the menu with your own categories, you must configure the "Main Menu" module.&#x20;
@@ -68,11 +68,11 @@ You can also customize a banner or add a text block. Feel free to have a look at
 
 The footer is divided into two parts.
 
-![The footer](<../.gitbook/assets/image (30).png>)
+![The footer](<../.gitbook/assets/image (27).png>)
 
 :arrow\_right:The upper part of the footer contains a subscription block for your newsletter, allowing customers to receive special offers. This subscription form is managed by the "Newsletter subscription" module.
 
-![Newsletter subscription block](<../.gitbook/assets/image (31).png>)
+![Newsletter subscription block](<../.gitbook/assets/image (28).png>)
 
 {% hint style="info" %}
 Please note that sending the newsletter is your responsibility. With the "Newsletter" module you can generate a .csv file containing all registered customers and their e-mails. You will then be able to import this file into any emailing system.
@@ -125,7 +125,7 @@ The lower part of the footer contains 4 blocks giving access to very useful page
 
 #### The left column
 
-![In red, the "Category" block. In blue, the "Filter by" block.](<../.gitbook/assets/image (34).png>)
+![In red, the "Category" block. In blue, the "Filter by" block.](<../.gitbook/assets/image (9).png>)
 
 A category is a hierarchical way of sorting products: it can contain an unlimited number of subcategories, which allows you to easily switch from general listings to more specific products by following a logical path.&#x20;
 
@@ -145,7 +145,7 @@ Filtering their search allows customers to find the product they are looking for
 
 #### The category header
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (30).png>)
 
 Categories have a header image and a description. You can configure this header from your back office on the Catalog > Categories page.&#x20;
 
@@ -158,13 +158,13 @@ All product lists are identical on PrestaShop, regardless of the nature of the p
 * The name of the product
 * The price of the product
 
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 This presentation in a grid allows customers to see the main product information at a glance, therefore speeding up the decision-making process.
 
 On mouseover, customers can click on the magnifying glass to access a quick overview of the product. They will then have access, in addition to the information previously stated, to the product description, and will be able to add the product to their cart after having selected the attributes (if any) and entered the desired quantity.
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 #### Products sorting
 
@@ -172,7 +172,7 @@ Products can be sorted by price (high to low or low to high), name (A to Z or Z 
 
 ### The product page
 
-![](<../.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/image (34).png>)
 
 The product page presents the information you entered from the Catalog > Products page of your back office. Depending on the theme used, a product page can be very complete, with detailed information, or simply present the essential information.
 
@@ -194,7 +194,7 @@ For more information on the configuration of the product page, please visit the 
 
 From the header, customers can see how many items are in their cart. By clicking on the "Cart" button, customers can access the content of the cart and finalize their order.
 
-![The "Cart" page](<../.gitbook/assets/image (40).png>)
+![The "Cart" page](<../.gitbook/assets/image (32).png>)
 
 A summary of the content of the cart is displayed. After checking that the content of the order is correct, customers can click on the "Proceed to checkout" button. They are then redirected to the checkout page.
 

@@ -42,7 +42,7 @@ To set a URL for a store**:**
 
 **URL options:**
 
-![](<../../../.gitbook/assets/image (53).png>)
+![](<../../../.gitbook/assets/image (51).png>)
 
 * **Shop:** Selected the store on which you want to set the URL.
 * **Main URL:** Switch the button to "Yes" if you want all the URLs of the store to redirect to the main URL.
@@ -50,7 +50,7 @@ To set a URL for a store**:**
 
 **Shop URL:**
 
-![](<../../../.gitbook/assets/image (52).png>)
+![](<../../../.gitbook/assets/image (50).png>)
 
 *   **Domain:** Enter the store's domain name. You can indicate a sub-domain if needed. Just make sure it doesn't contain '`http://`', or any '`/`'.&#x20;
 

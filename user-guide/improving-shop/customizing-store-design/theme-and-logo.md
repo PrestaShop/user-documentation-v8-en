@@ -38,7 +38,7 @@ The first section of the page serves as a reminder of which theme you are curren
   \
 
 
-![](<../../../.gitbook/assets/64225588 (4) (4).png>)
+![](<../../../.gitbook/assets/64225588 (4) (3).png>)
 
 ### Configure your page layouts <a href="#themeandlogo-configureyourpagelayouts" id="themeandlogo-configureyourpagelayouts"></a>
 
@@ -70,7 +70,7 @@ In multistore mode, you cannot apply a theme to all your stores or a group of st
 
 You can import a theme and install it (and its attached modules) thanks to the "Add new theme" button. By clicking it, a new screen will open. This screen presents you with 3 methods to install a new theme. A final button leads you to the theme creation form, presented in the next section.
 
-![](<../../../.gitbook/assets/64225589 (4) (2) (3).png>)
+![](<../../../.gitbook/assets/64225589 (4) (2).png>)
 
 Whatever the method, the process remains the same: indicate the location of the theme's Zip archive, then click on the "Save" button. Here, the only thing that changes is the source of the Zip file:
 
@@ -104,7 +104,7 @@ Click on the part of the page you want to modify to know which module(s) need to
 
 See the GIF below to see an example of how to modify your homepage slider.&#x20;
 
-![](<../../../.gitbook/assets/Pages Configuration • Les chaussettes de l'archiduchesse (2).gif>)
+![](../../../.gitbook/assets/pages-configuration-les-chaussettes-de-larchiduchesse-2-.gif)
 
 {% hint style="info" %}
 Please note that the "Theme Customization" module only works with the PrestaShop default theme and with PrestaShop built-in modules.&#x20;
@@ -124,11 +124,11 @@ Using a child theme can be a bit technical. To see how you can use a child theme
 
 First, you need to have the theme you want to use as a parent in your store `/themes` folder. Then you can create a new folder with a very minimal theme, containing only the following files, which you can copy directly from the Parent theme:
 
-![](<../../../.gitbook/assets/51839422 (6) (7) (3).png>)
+![](<../../../.gitbook/assets/51839422 (6) (7).png>)
 
 Once you have this, you will specify in your child theme `theme.yml` which theme should be used as a parent (in the example below, we chose PrestaShop's default theme, Classic). The value must be the theme technical name (ie: the theme folder name). Add the following information the `theme.yml` file:
 
-![](../../../.gitbook/assets/64225412.png)
+![](<../../../.gitbook/assets/64225412 (4) (4).png>)
 
 You can now use this theme in your back office and edit it as you wish.
 

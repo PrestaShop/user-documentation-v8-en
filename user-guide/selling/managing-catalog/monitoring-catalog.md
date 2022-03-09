@@ -2,7 +2,7 @@
 
 The "Monitoring" page lists the sections of your shop to which you must pay the most attention in order to best manage your catalog, and make sure nothing goes out of control.
 
-![](<../../../.gitbook/assets/51839837 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839837 (3) (3).png>)
 
 Seven sections are shown:
 

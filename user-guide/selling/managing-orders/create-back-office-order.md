@@ -6,7 +6,7 @@ description: >-
 
 # Creating a back office order
 
-![](<../../../.gitbook/assets/recent updates.png>)
+![](../../../.gitbook/assets/recent-updates.png)
 
 :arrow\_right: [Contribute](https://prestashop.gitbook.io/howtocontribute/)
 

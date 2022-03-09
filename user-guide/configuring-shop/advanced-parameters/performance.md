@@ -6,7 +6,7 @@ This page combines many tools and tips that might help you improve your shop's p
 
 Smarty is the name of the template language used by PrestaShop's themes. You can learn more about it at [http://www.smarty.net/](http://www.smarty.net).
 
-![](../../../.gitbook/assets/51839999.png)
+![](<../../../.gitbook/assets/51839999 (4) (4) (4).png>)
 
 There are several options:
 
@@ -24,7 +24,7 @@ There are several options:
 
 When in debug mode, you can choose to lessen the impact of certain features on PrestaShop, in order to best pinpoint where an error comes from:
 
-![](<../../../.gitbook/assets/51840000 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/51840000 (4) (4).png>)
 
 * **Disable non PrestaShop modules**. PrestaShop's own module are heavily tested and should present no issue whatsoever. If you enable this setting, you will be able to tell if the problem comes from PrestaShop's own code (core or module), or from a third-party module.
 * **Disable all overrides**. Many features in PrestaShop can be overridden. If you enable this settings, all overriding code will be disabled, and you will be able to tell if the problem comes from PrestaShop's own code, or from a third-party override.
@@ -38,7 +38,7 @@ If your catalog currently has products which make use of these features, then yo
 
 You can disable the following features:
 
-![](<../../../.gitbook/assets/43417621 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/43417621 (4) (4).png>)
 
 * **Combinations**. Product combinations enable you to have a whole product line out of a single product: varying size, colors, capacity, etc.
 * **Features**. Product features enable you to indicate the product's specific information: weight, material, country of origin, etc.
@@ -50,7 +50,7 @@ CCC is a set of tools aimed at minimizing server load and theme loading time.
 
 It does what it says: it combines textual files of the same type into one bigger file, which makes for fewer files to download; it then compresses the file using the common Zip algorithm, which makes for faster downloads; finally, it caches the compressed file, so that the server does not have to do this process every time a page is loaded, which relieves the burden on the server's processor.
 
-![](<../../../.gitbook/assets/51840001 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/51840001 (4) (4) (1).png>)
 
 * **Smart cache for CSS**. CSS files are text-based, and can be safely combined and compressed.
 * **Smart cache for JavaScript**. JavaScript files are also text-based, but their combination can sometimes prove problematic. Make sure to test everything before leaving that setting enabled.
@@ -60,7 +60,7 @@ It does what it says: it combines textual files of the same type into one bigger
 
 This section enables you to redirect part of your traffic (image and video files, for instance) to other servers under your control, through other domains or sub-domains – most often, the files are hosted on a CDN (Content Delivery Network). By default, PrestaShop supports one media server.
 
-![](<../../../.gitbook/assets/51840002 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/51840002 (4) (4) (2).png>)
 
 Putting your store's domain name in this field is not the proper way to get fantastic performance. That being said, it is easy to set up a media server, and the benefits are real and almost immediate. Here is how:
 
@@ -97,7 +97,7 @@ Most of the time, you should first check with your web host about this setting, 
 
 This section enables you to choose to enable caching, and then choose the caching method:
 
-![](<../../../.gitbook/assets/23789856 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/23789856 (4) (4) (2).png>)
 
 * **Memcached**. A distributed caching system. Very effective, above all with multiple servers, but you need to make sure that your servers/hosts support it – most probably, if your PHP configuration features the Memcached PECL extension, you are good to go (you can download it here: [http://pecl.php.net/package/memcache](http://pecl.php.net/package/memcache)). You can add Memcached servers by clicking on the "Add server" link.
 * **APC**. Alternative PHP Cache is free, open and robust, but only works with one server – which is the usual case when you start your online business. Again, check for the availability of the APC PECL extension on your server: [http://pecl.php.net/package/APC](http://pecl.php.net/package/APC).

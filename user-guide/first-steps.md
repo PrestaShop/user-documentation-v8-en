@@ -12,7 +12,7 @@ We will consider that you are still within the first hour following your install
 
 Deactivating your shop means making sure that no one can access it while you are busy making changes, creating products, settings prices and taxes, installing payment modules and a new theme, setting carriers... This is called "putting your shop in maintenance mode".
 
-![](<../.gitbook/assets/51185217 (3) (3) (2).png>)
+![](<../.gitbook/assets/51185217 (3) (3) (1).png>)
 
 In your back office, go the "Shop Parameters / General" page. Maintenance options are on the second tab and it features three simple settings:
 
@@ -27,13 +27,13 @@ If you have already decided what your theme and products are, you can simply put
 
 You can activate the Catalog mode by going to the "Shop Parameters / Products Settings" page, where it is the first option.
 
-![](../.gitbook/assets/51185218.png)
+![](<../.gitbook/assets/51185218 (3) (3) (3).png>)
 
 ### Delete the content of the default shop <a href="#firststepswithprestashop1.7-deletethecontentofthedefaultshop" id="firststepswithprestashop1.7-deletethecontentofthedefaultshop"></a>
 
 The default installation features a handful of products – mainly women's clothing. Their only use is to help you explore the organization of a real store. After you've learned the intricacies of the ties between products, categories, orders and customers, you should delete all these items in order to start your shop with a clean slate.
 
-![](<../.gitbook/assets/51185219 (3) (3) (2).png>)
+![](<../.gitbook/assets/51185219 (3) (3).png>)
 
 You must therefore delete all the default data, which means:
 
@@ -95,13 +95,13 @@ The "Where to find it" column enables you to see where you can find the interfac
 
 PrestaShop is able to work with many languages, both in the front office and the back office. As soon as more than one language is enabled in your back office, each back office text-field is accompanied with a language code selector, which indicates the current language, and which you can click in order to choose another language in which to write that field's content.
 
-![](<../.gitbook/assets/23038241 (1) (3).png>)
+![](<../.gitbook/assets/23038241 (1) (2).png>)
 
 The product page is functioning a bit differently. You won't find a language selector for each text field, but rather a general language selector at the top of the page. Once you've selected a language you can then change the all the contents in this language. Make sure you're editing the right one!
 
 By default, PrestaShop is installed with two languages: the one used when installing the software, and the one attached to the default country at installation (if different). To manage the currently installed languages, go to the "Localization / Languages" page from the "International" menu. It presents you with a table of the available languages.
 
-![](<../.gitbook/assets/51185233 (3) (3) (2).png>)
+![](<../.gitbook/assets/51185233 (3) (3) (1).png>)
 
 The currently enabled language(s) have a green check mark, while the others have a red cross. Click on a checkmark to disable the selected language; click on a cross to enable it back.
 
@@ -122,7 +122,7 @@ To assign permissions to an employee account, you must use the "Profile" option 
 
 You can edit these permissions this way: go to the "Permissions" tab, and select the profile you want to change. A long list of permissions appears: edit them at will. Your changes are saved automatically.
 
-![](../.gitbook/assets/23038245.png)
+![](<../.gitbook/assets/23038245 (3) (3) (3).png>)
 
 ### Configure your payment methods <a href="#firststepswithprestashop1.7-configureyourpaymentmethods" id="firststepswithprestashop1.7-configureyourpaymentmethods"></a>
 

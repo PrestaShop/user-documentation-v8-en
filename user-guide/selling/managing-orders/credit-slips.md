@@ -2,11 +2,11 @@
 
 Following your agreement on a product return, you should receive a package from the customer. Once you have received that package, you **must** create a credit slip from the order's page. It can also be called "credit note" or "credit memo". Credit slips are not created in the "Credit Slips" page but only listed there. This page is also used to generate a PDF of your credit slips.
 
-![](<../../../.gitbook/assets/51839192 (3) (7) (5).png>)
+![](<../../../.gitbook/assets/51839192 (3) (7).png>)
 
 ## Credit Slips Options <a href="#creditslips-creditslipsoptions" id="creditslips-creditslipsoptions"></a>
 
-![](<../../../.gitbook/assets/51839194 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839194 (3) (3).png>)
 
 There is only one option on the page:
 
@@ -30,12 +30,12 @@ Below the "Products" table, do the following:
 
 Once you have selected all the options you want, confirm by clicking on "Return products."
 
-![](../../../.gitbook/assets/57081971.png)
+![](<../../../.gitbook/assets/57081971 (3) (3) (3).png>)
 
 The credit slip is now created and will be available in the Order Details well as in the "Credit Slips" page. From there, you can click the link to download the PDF file. The customer will see the slip in his or her "Account" section.
 
 If you have created a voucher, customers will see it in the "Vouchers" section of their account. If they click on it, it should look something like this:
 
-![](<../../../.gitbook/assets/51839708 (3) (1) (5).png>)
+![](<../../../.gitbook/assets/51839708 (3) (1) (6).png>)
 
 The amount of the returned item(s) is added to the voucher. The customer can use the discount code (listed in the far left of the column) next time he or she places an order.

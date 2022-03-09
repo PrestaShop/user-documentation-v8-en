@@ -27,4 +27,4 @@ The "General" page features a handful of specific settings that could not fit in
   You can read more about PrestaShop's multistore feature by reading the "Managing multiple shops" chapter of this guide.
 * **Main Shop Activity**. You might have set the wrong shop activity when installing PrestaShop. You can choose the correct activity here.\
   \
-  ![](<../../../../.gitbook/assets/51839963 (4) (4) (3).png>)
+  ![](<../../../../.gitbook/assets/51839963 (4) (4) (2).png>)

@@ -6,7 +6,7 @@ The "Administration" page contains general options and settings on the way Prest
 
 This section is for the more general settings:
 
-![](<../../../.gitbook/assets/43089940 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/43089940 (4) (4) (2).png>)
 
 * **Automatically check for module updates**. You can ask PrestaShop to regularly check if there are new versions of your modules available from the Addons website. If so, the "Modules" page will display a "Update" button for installed modules, right next to their "Uninstall" button.
 * **Check the cookie's IP address**. This is an added security measure: you can tell PrestaShop to check that the user comes from the IP stored in his or her browser's cookie.
@@ -17,7 +17,7 @@ This section is for the more general settings:
 
 This section helps you define the authorized size of uploaded files from your own team – not from your customers.
 
-![](<../../../.gitbook/assets/43089941 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/43089941 (4) (4) (1).png>)
 
 There are three options, one being general and the two others being more specific:
 
@@ -31,7 +31,7 @@ Notifications are displayed at the very top of any administration page when you 
 
 When clicking on the bell icon, if will open a small table with the various kinds of notifications.
 
-![](../../../.gitbook/assets/43089943.png)
+![](<../../../.gitbook/assets/43089943 (4) (4) (4).png>)
 
 You can choose not to receive them for some content types:
 

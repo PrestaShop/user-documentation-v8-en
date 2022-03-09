@@ -2,7 +2,7 @@
 
 The "Customers" page bring together specifically customer-related options, most notably the B2B mode.
 
-![](../../../../.gitbook/assets/51839976.png)
+![](<../../../../.gitbook/assets/51839976 (4) (4) (4).png>)
 
 * **Re-display cart at login**. If the customer had a cart that was not checked-out, display it once he or she logs back in.
 * **Send an email after registration**. You can have PrestaShop send an e-mail to any newly-created customer with a summary of his account information (email, password) after registration.

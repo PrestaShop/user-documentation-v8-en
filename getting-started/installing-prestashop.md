@@ -117,7 +117,7 @@ Some hosts prefer to have customers use a graphic control panel, such as cPanel,
 
 Connect to phpMyAdmin using your account credentials, which your host provided you with. It should be accessible through a standard URL, tied to your domain name, or host's domain name.
 
-![](<../.gitbook/assets/54264239 (1).png>)
+![](../.gitbook/assets/54264239.png)
 
 In the left column, you can see the databases currently available on your MySQL server. Some of them should be left alone, because they are either used by phpMyAdmin or by the host: `phpmyadmin`, `mysql`, `information_schema`, `performance_schema` and others. Read your host's documentation to know if one of these can be used as a default database.
 
@@ -178,7 +178,7 @@ This page checks that everything is OK with your server configuration: PHP setti
 
 If anything goes wrong, the installer stops you here, enabling you to see the few technical details that need fixing, be it changing the PHP configuration or updating the file permissions.
 
-![](<../.gitbook/assets/39125010 (5) (1).png>)
+![](<../.gitbook/assets/39125010 (5).png>)
 
 Here is a list of the checks that are performed during this third step:
 
@@ -247,7 +247,7 @@ Do not use a colon in your store's name, as it might prevent some feature from w
 
 You can replace the colon with a dash if you need to have two sections in the title. For instance, use "MyStore – The best place for items to buy" instead of "MyStore: The best place for items to buy".
 
-![](<../.gitbook/assets/53641237 (1).png>)
+![](../.gitbook/assets/53641237.png)
 
 This is also where you choose the password to log in to the administration panel of your shop - choose wisely so that you will remember it, but make sure it is secure too!
 
@@ -292,7 +292,7 @@ Once it is done, your shop is installed and ready to be configured!
 
 As you can read right on the final page of the installation process, there are a couple of last actions to perform before you can leave the installer.
 
-![](<../.gitbook/assets/39125016 (4) (4) (3).png>)
+![](<../.gitbook/assets/39125016 (4) (4).png>)
 
 An easy way to improve your installation's security is to delete some key files and folders. This is done using your FTP client, directly on the server. The items to delete are:
 

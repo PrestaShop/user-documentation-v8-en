@@ -2,7 +2,7 @@
 
 PrestaShop enables you to assign specific duties and rights to each employee who helps you manage the online shop. For example, the administrator will have access to the entire store, without restriction, while an employee can only have access to the catalog or orders.
 
-![](<../../../../.gitbook/assets/43089950 (4) (4) (3).png>)
+![](<../../../../.gitbook/assets/43089950 (4) (4) (1).png>)
 
 By default, PrestaShop has 4 profiles ready to use:
 
@@ -21,7 +21,7 @@ There should be at least one employee with a SuperAdmin profile.
 
 You can add as many profiles as needed.
 
-![](<../../../../.gitbook/assets/43089952 (4) (4) (3).png>)
+![](<../../../../.gitbook/assets/43089952 (4) (4) (2).png>)
 
 Adding a new profile is pretty straightforward: simply click the "Add new profile" button, enter a unique name for the new profile, and save.
 

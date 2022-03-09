@@ -2,7 +2,7 @@
 
 On this page, you can install, uninstall, configure and update each of your modules. This chapter simply explains how you can manage your modules from the "Installed modules" tab.
 
-![](<../../../../.gitbook/assets/51185201 (5) (3) (3).png>)
+![](<../../../../.gitbook/assets/51185201 (5) (3).png>)
 
 ## The modules list <a href="#installedmodules-themoduleslist" id="installedmodules-themoduleslist"></a>
 
@@ -16,7 +16,7 @@ It is divided into 3 sections:
 
 If you want to quickly find a module, you can search for a specific module, or filter down modules until you find the one you are looking for.
 
-![](<../../../../.gitbook/assets/51185200 (5) (2) (3).png>)
+![](<../../../../.gitbook/assets/51185200 (5) (2) (4).png>)
 
 * **Search field**. Search for a module with its name, author or with keywords.
 * **Sort selectors**. The list automatically reloads when you make a selection, and displays modules according to all the current settings.

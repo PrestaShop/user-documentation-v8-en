@@ -1,6 +1,6 @@
 # Customizing your store design
 
-![](<../../../.gitbook/assets/51839891 (4) (4) (3).png>)How your shop looks plays a big part in shaping your brand's identity and is essential for the experience of your customers. More than just shapes, fonts and colors, the design of your online shop is also about the content you offer and how it's all organized.
+![](<../../../.gitbook/assets/51839891 (4) (4).png>)How your shop looks plays a big part in shaping your brand's identity and is essential for the experience of your customers. More than just shapes, fonts and colors, the design of your online shop is also about the content you offer and how it's all organized.
 
 This chapter contains the following sections:
 

@@ -6,11 +6,11 @@ In PrestaShop, a supplier is a company which provides you with a product. Even i
 
 Just as for brands, your site's visitors can have rapid access to all of a supplier's products. This makes navigating around your site easier for them. In terms of visibility, filling out these fields will improve your position in search engines.
 
-![](<../../../.gitbook/assets/51839840 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839840 (3) (3) (1).png>)
 
 Click on "Add new supplier", and a creation form appears.
 
-![](<../../../.gitbook/assets/51839842 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839842 (3) (3).png>)
 
 Fill out all of the fields:
 

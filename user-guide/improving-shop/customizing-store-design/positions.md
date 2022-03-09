@@ -14,7 +14,7 @@ The position of a module in your theme can be changed, because you might want on
 
 The "Positions" page displays all the available hooks and their attached modules. Many are empty by default, but some of the most useful ones can have a dozen of modules.
 
-![](<../../../.gitbook/assets/64225563 (8).png>)
+![](<../../../.gitbook/assets/64225563 (6).png>)
 
 At the top of the page, a drop-down menu enables you to only display the module in which you are interested. Alternatively, you can also search for a specific hook. By default, this page only displays the hooks on which you can position functions. Checking the "Display non-positionable hooks" box below displays all the hooks, even the invisible ones, that are linked to an action for an instance.
 
@@ -57,7 +57,7 @@ The transplanting process has its own interface:
    \
 
 
-![](<../../../.gitbook/assets/51839907 (4) (8).png>)
+![](<../../../.gitbook/assets/51839907 (4) (3).png>)
 
 The "Transplant to" drop-down menu gives you a good idea where modules can be placed.
 

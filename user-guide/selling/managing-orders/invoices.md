@@ -25,7 +25,7 @@ When your customers ask for their invoices, you can redirect them to the "Order 
 
 You can choose whether or not invoices should be available to your customers as soon as the order is made, as well as the Invoice prefix and the invoice number you want listed on the printed version of the invoice. This feature can help you simplify the management of your account.
 
-![](../../../.gitbook/assets/51839180.png)
+![](<../../../.gitbook/assets/51839180 (3) (7) (7).png>)
 
 * **Enable invoices**. When disabled, your customer will not receive an invoice after their purchase. You will be responsible for handling the invoices, if your customers ask for one.
 * **Enable tax breakdown**. When enabled, the invoice lists all the various taxes that were applied to the order, instead of just one percentage.

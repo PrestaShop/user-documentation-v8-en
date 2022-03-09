@@ -4,7 +4,7 @@ A lot of you visitors will come from search engines. In order to know what they 
 
 This page presents a table of all the search engines that your installation of PrestaShop supports – meaning that PrestaShop is able to recognize it, and to extract the query that the visitor from that given search engine used to find your shop.
 
-![](<../../../../.gitbook/assets/23789937 (4) (4) (3).png>)
+![](<../../../../.gitbook/assets/23789937 (4) (4) (2).png>)
 
 While Google has the biggest share of search engines users, there are many other search engines that people could use to find your website. Therefore, you have to be able to retrieve their search requests too. When an unknown search engine is starting to bring regular visitors, it is high time that you add it to your database – otherwise, those visitors would be marked in your statistics as coming from "Other search engines", which is not helpful at all.
 
@@ -12,7 +12,7 @@ While Google has the biggest share of search engines users, there are many other
 
 It is very simple to add a new search engine to your list.
 
-![](../../../../.gitbook/assets/23789939.png)
+![](<../../../../.gitbook/assets/23789939 (4) (4) (4).png>)
 
 Let's say you want to add DuckDuckGo, a search engine that emphasizes its respect for data privacy:
 

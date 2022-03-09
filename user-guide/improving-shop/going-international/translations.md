@@ -78,7 +78,7 @@ You can edit the text version of your email directly in the text field.
 Make sure to keep the variables (for example `{lastname}` or `{shop_name}`) in your translations. They will be replaced with the right value when the email is sent.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (51).png>)
+![](<../../../.gitbook/assets/image (49) (1).png>)
 
 ## Resetting translations
 
@@ -94,7 +94,7 @@ To add or update a language, select the language you want from the list and clic
 
 ## Exporting a language
 
-![](<../../../.gitbook/assets/image (48).png>)
+![](<../../../.gitbook/assets/image (47).png>)
 
 You can create your own language pack using this tool, either as a way of making a backup of your translations or sharing them.
 
@@ -112,7 +112,7 @@ Once you are done, click on the "Export" button.
 
 ## Copying translations from one language to another
 
-![](<../../../.gitbook/assets/image (59).png>)
+![](<../../../.gitbook/assets/image (50) (1).png>)
 
 You can copy the content of one language to another. This is especially useful when you want to replace a theme's language with the same language from another theme.
 

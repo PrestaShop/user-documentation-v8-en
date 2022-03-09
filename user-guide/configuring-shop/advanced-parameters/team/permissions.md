@@ -12,7 +12,7 @@ When you click any profile (except SuperAdmin), the two tables appear to give yo
 * On the left, menu-related permissions: you can decide what the profile can do with menus. In effect, you could prevent a profile from editing the content of a page, or even hide the menu entirely.
 * On the right, module-related permissions: while you might allow some profiles to see the available modules, you might prefer that only the most trustworthy employees should be able to configure some key modules.&#x20;
 
-![](<../../../../.gitbook/assets/43417612 (2) (1) (3).png>)
+![](<../../../../.gitbook/assets/43417612 (2) (1) (4).png>)
 
 For each of the menu criteria, you have 5 options:
 

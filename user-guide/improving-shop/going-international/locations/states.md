@@ -3,7 +3,7 @@
 By "States", PrestaShop calls first-level administrative divisions of a country. In the United-States, they are called _states_; in Italy, it is _regioni_ (singular: _regione_); in France, it is _régions_; in the United-Kingdom, it is _regions_. \
 By default, PrestaShop provides you with a set of states: 54 US states and territories, 31 Mexican _estados_, 13 Canadian provinces and territories, 34 Indonesian _provinsi_, 24 Argentinian _provincias_, 47 Japanese _todōfuken_, and 110 Italian _province_ (singular: _provincia_).
 
-![](<../../../../.gitbook/assets/23789709 (4) (4) (3).png>)
+![](<../../../../.gitbook/assets/23789709 (4) (4).png>)
 
 Having states properly defined in your database helps better represent the delivery possibilities of your carriers. These states can also be essential for tax rates calculation, depending on the country. It is therefore important to enter all of a given country's administrative divisions if they are important to your carriers. You can find a list of such divisions on this Wikipedia page: [http://en.wikipedia.org/wiki/Table\_of\_administrative\_divisions\_by\_country](http://en.wikipedia.org/wiki/Table\_of\_administrative\_divisions\_by\_country).
 
@@ -13,7 +13,7 @@ The PrestaShop address form currently only lists states which are available for 
 
 Let's create a new state. Click the "Add new state" button to get to the creation form.
 
-![](<../../../../.gitbook/assets/23789711 (4) (3) (3).png>)
+![](<../../../../.gitbook/assets/23789711 (4) (3).png>)
 
 * **Name**. The name of the state, as it should be displayed on invoices and the package. It should therefore be in the language of the state's country.
 * **ISO code**. The state's ISO-3166-2 code:

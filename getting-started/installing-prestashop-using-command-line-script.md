@@ -20,7 +20,7 @@ $ php index_cli.php
 
 This will display the various available options.
 
-![](<../.gitbook/assets/54264260 (1) (3).png>)
+![](<../.gitbook/assets/54264260 (1) (5).png>)
 
 All the options from the regular in-browser installer are available, with their default value listed. Almost all default values can be left as is, because you can edit them all from the PrestaShop back office once the installation is done. Note that the e-mail and password are the ones used to create the administrator's back office account...
 
@@ -38,7 +38,7 @@ For instance:
 $ php index_cli.php --domain=example.com --db_server=sql.example.com --db_name=prestashop --db_user=root --db_password=123456789
 ```
 
-![](<../.gitbook/assets/53641264 (4).png>)
+![](<../.gitbook/assets/53641264 (6).png>)
 
 If you also set the `--email` value to your own address, a recap e-mail will be sent to you once the installation is done.
 

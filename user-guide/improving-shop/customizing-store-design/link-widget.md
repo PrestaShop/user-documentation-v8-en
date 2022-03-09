@@ -2,15 +2,15 @@
 
 This page is tied to the module "Link list", which allows you to manage the various links and blocks of links available on your shop. It works with blocks that are attached to hooks and provide links to your static pages (from the "Pages" section).&#x20;
 
-This page is closely related to hooks, so it is recommended to be at ease with hooks before attempting any modification. ![(smile)](<../../../.gitbook/assets/smile (6) (6) (4).svg>)
+This page is closely related to hooks, so it is recommended to be at ease with hooks before attempting any modification. ![(smile)](<../../../.gitbook/assets/smile (6) (6) (5).svg>)
 
 By default, and if you are still using the default theme Classic, you have one block for the footer:
 
-![](<../../../.gitbook/assets/64225498 (2).png>)
+![](<../../../.gitbook/assets/64225498 (2) (1) (1).png>)
 
 There are two child blocks in the footer block, "Products" and "Our company" and they represent to the first two columns of links displayed in the footer of your shop. The block names are the titles of these two columns.
 
-![](<../../../.gitbook/assets/51839456 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/51839456 (4) (4).png>)
 
 ## Managing blocks <a href="#linkwidget-managingblocks" id="linkwidget-managingblocks"></a>
 
@@ -24,7 +24,7 @@ Within a parent block, several actions are possible
 
 If you need a new set of links within your shop, click "New block" to create a block. It will open a creation form which you should fill out.
 
-![](<../../../.gitbook/assets/64225499 (3) (1) (3).png>)
+![](<../../../.gitbook/assets/64225499 (3) (1) (2).png>)
 
 * **Name of the link block**. This is the title of your link block, as it will appear on your shop. Make it simple and clear.
 * **Hook**. Select to which hook the block should be transplanted. All the available hooks are displayed.

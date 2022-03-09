@@ -12,7 +12,7 @@ You will see the login page for your shop's control panel.
 
 Enter the e-mail address and password that you registered with when installing PrestaShop. Click in the "Log In" button, and you are taken to the back office's dashboard, a sort of welcome page for this control panel.
 
-![](<../.gitbook/assets/63406125 (4) (4) (3).png>)
+![](<../.gitbook/assets/63406125 (4) (4).png>)
 
 From this step onward, you can begin to configure your shop and sell products to your customers.
 

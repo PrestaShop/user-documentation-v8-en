@@ -41,7 +41,7 @@ The "Help" section gives you some precious indications on how to best configure 
 
 The referrer settings are mostly tools to help you make the best of your affiliate program.
 
-![](<../../../../.gitbook/assets/43089934 (4) (4) (3).png>)
+![](<../../../../.gitbook/assets/43089934 (4) (4) (2).png>)
 
 There are three possibilities:
 

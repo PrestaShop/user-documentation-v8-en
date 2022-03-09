@@ -17,7 +17,7 @@ The settings from the "Orders" preference page apply to the orders that your cus
 
 ## Gift options <a href="#orderspreferences-giftoptions" id="orderspreferences-giftoptions"></a>
 
-![](<../../../../.gitbook/assets/43614325 (2) (4).png>)
+![](<../../../../.gitbook/assets/43614325 (2) (3).png>)
 
 * **Offer gift wrapping**. Have PrestaShop suggest gift-wrapping to customer, and the possibility of adding a printed a message. It is always a nice feature for people who want to send gifts through your shop.
 * **Gift-wrapping price**. Sets the price of your gift-wrapping service.

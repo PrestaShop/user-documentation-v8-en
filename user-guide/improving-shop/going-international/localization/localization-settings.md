@@ -17,7 +17,7 @@ This section provides you with an extensive list of existing localization packs 
 
     You should select this option only if you are importing a localization pack for the default country of your shop, as it could change the tax display methods for all groups and all countries.
 
-    ![](<../../../../.gitbook/assets/64225597 (2).png>)
+    ![](<../../../../.gitbook/assets/64225597 (2) (1) (1).png>)
 
 As you can see, these additional data are optional: you can choose to import the currency and language for a given country, and not its taxes, for instance. While you should not add too many local data for fear of overwhelming both yourself and your customers with it, it may be useful to import the localization pack for your most visited countries (according to your stats).
 
@@ -37,13 +37,13 @@ The "Default language" and "Default country" settings each have an additional se
 * For "_Default language_": **Set language from browser**. PrestaShop will set the store's language depending on the language of the visitor's browser's locale code (for instance: fr\_CA gives French)
 * For "_Default country_": **Set default country from browser language**. PrestaShop will set the store's country depending on the territory of the visitor's browser's locale code (for instance, fr\_CA gives Canada).
 
-![](<../../../../.gitbook/assets/64225598 (3) (1) (3).png>)
+![](<../../../../.gitbook/assets/64225598 (3) (1) (4).png>)
 
 ## Local units <a href="#localizationsettings-localunits" id="localizationsettings-localunits"></a>
 
 The physical units presented in this section (weight, distance, volume, dimension) are used both in your product sheets and for your own packaging needs – and ultimately, is essential in your relationship with your carrier.
 
-![](<../../../../.gitbook/assets/64225599 (4) (4).png>)
+![](<../../../../.gitbook/assets/64225599 (4) (3).png>)
 
 These values can be set when you import the localization package for a country, but you can edit manually them afterwards. For instance, if you would rather have centiliters instead of liters for the volume unit, change the default "L" to "cL". The values should be unit symbols from the International System of Units: [http://en.wikipedia.org/wiki/International\_System\_of\_Units](http://en.wikipedia.org/wiki/International\_System\_of\_Units).
 
@@ -56,6 +56,6 @@ This last section asks you to set your server's local language and country, as I
   \
 
 
-![](<../../../../.gitbook/assets/64225600 (4) (2) (3).png>)
+![](<../../../../.gitbook/assets/64225600 (4) (2) (1).png>)
 
 These values can be set when you import the localization package for a country, but you can edit them manually at any time.

@@ -8,7 +8,7 @@ You cannot directly apply a tax to a product; you can only apply tax rules. Ther
 
 A few sample taxes rules are already in place, which depends on the country you chose for your shop during the installation of PrestaShop. The tax rules are set for each tax: the rules actually serve as a kind of country filter, limiting the use of that tax to a specific set of countries.
 
-![](../../../../.gitbook/assets/51839958.png)
+![](<../../../../.gitbook/assets/51839958 (4) (4) (4).png>)
 
 You should edit a couple of the presented rules in order to get a better grasp of how tax rules can be set.
 
@@ -22,7 +22,7 @@ Creating a new tax rule is done in two steps:
    * Click on the "Add new tax rules group" button.
    * In the form that appears, name the rule. Use a telling name: use the tax rule's country code, its name, maybe even its rate, so as to find it again easily. If PrestaShop already has tax rules for the target country, use their name as inspiration so as to have some consistency.\
      \
-     ![](<../../../../.gitbook/assets/51839959 (1) (4).png>)\
+     ![](<../../../../.gitbook/assets/51839959 (1) (3).png>)\
      \
 
    * Select whether the rule should be enabled from the get-go or not. You can enable it later if needed.
@@ -34,7 +34,7 @@ Creating a new tax rule is done in two steps:
      \
 
 
-![](<../../../../.gitbook/assets/51839960 (4) (4) (3).png>)
+![](<../../../../.gitbook/assets/51839960 (4) (4) (1).png>)
 
 *
   *

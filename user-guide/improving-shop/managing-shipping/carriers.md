@@ -15,7 +15,7 @@ It is up to you to remove these default carriers and add new ones for your custo
 
 Video - 6 tips for creating a delivery policy that attracts customers and builds loyalty
 
-[![](<../../../.gitbook/assets/51839792 (7) (7) (4).png>)](https://www.youtube.com/watch?v=QhTU\_eSrm7o\&list=PLyZYn1MMU7-xT-L\_zUyGnRBJmAuP6uc-c\&index=26)
+[![](<../../../.gitbook/assets/51839792 (7) (7) (2).png>)](https://www.youtube.com/watch?v=QhTU\_eSrm7o\&list=PLyZYn1MMU7-xT-L\_zUyGnRBJmAuP6uc-c\&index=26)
 
 \
 Adding a Carrier using a recommended Carrier Module <a href="#carriers-addingacarrierusingarecommendedcarriermodule" id="carriers-addingacarrierusingarecommendedcarriermodule"></a>
@@ -98,7 +98,7 @@ Click "Next" to reach the third panel.
 
 ### Panel 3: Size, weight and group access <a href="#carriers-panel3-size-weightandgroupaccess" id="carriers-panel3-size-weightandgroupaccess"></a>
 
-![](<../../../.gitbook/assets/51839922 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/51839922 (4) (4) (1).png>)
 
 This panel presents two sets of options:
 
@@ -109,7 +109,7 @@ Click "Next" to reach the fourth and final panel.
 
 ### Panel 4: Summary <a href="#carriers-panel4-summary" id="carriers-panel4-summary"></a>
 
-![](<../../../.gitbook/assets/51839923 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/51839923 (4) (4) (1).png>)
 
 This last panel gives you an overview of your settings for this carrier.
 

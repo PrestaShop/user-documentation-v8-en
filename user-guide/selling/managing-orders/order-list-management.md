@@ -7,7 +7,7 @@ description: >-
 
 # Order list management
 
-![](<../../../.gitbook/assets/recent updates.png>)
+![](../../../.gitbook/assets/recent-updates.png)
 
 :arrow\_right:[Contribute](https://prestashop.gitbook.io/howtocontribute/)
 

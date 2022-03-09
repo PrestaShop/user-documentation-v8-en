@@ -24,7 +24,7 @@ This tab will help you become familiar with the General Data Protection Regulati
 
 In this tab, you will first find the list of modules installed in your store that are GDPR compliant.
 
-![](<../.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (53) (1).png>)
 
 If you consider that one or several modules collect personal data and that they don’t appear on this list, please make sure that you have access to the latest version of these modules to fully benefit the GDPR update.If they are still not displayed in the list, we invite you to contact their respective developers to have [more information](http://build.prestashop.com/howtos/module/how-to-make-your-module-compliant-with-prestashop-official-gdpr-compliance-module) about these modules.Next, you can search for a customer and an unknown or guest user who has given his email address or phone number in your database and view all of his data collected by the PrestaShop solution and the GDPR-compliant modules installed in your store. To search for a user, please enter the first letters of the name, email address or phone number:
 
@@ -62,4 +62,4 @@ In this tab, you can view all your customers' actions related to their personal 
 
 In this tab, you will find a list of questions frequently asked by our merchants as well as answers provided by our module and GDPR experts.
 
-![](<../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (49).png>)

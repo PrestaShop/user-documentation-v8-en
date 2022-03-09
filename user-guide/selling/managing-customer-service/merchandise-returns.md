@@ -4,7 +4,7 @@ The "Merchandise Returns" page gives you a list of all the RMA process (Return M
 
 At the bottom of the page, you have the possibility of enabling customers to send products back to you ("Enable returns" option). Simply make a choice, indicate the number of days during which a return request can be made, and save your settings: customers now have the ability to ask for a return authorization. You can also edit the prefix for the return number, or chose not to have any.
 
-![](../../../.gitbook/assets/38109196.png)
+![](<../../../.gitbook/assets/38109196 (3) (3) (3).png>)
 
 ## Return process: how the customer sees it <a href="#merchandisereturns-returnprocess-howthecustomerseesit" id="merchandisereturns-returnprocess-howthecustomerseesit"></a>
 
@@ -17,7 +17,7 @@ Once you have activated the returns option in your back office, the customer can
 5. (optional) In the "Merchandise return" section, add an explanation, in order for the shop team to better understand why the customer wants to return this product.
 6. Click on "Request a return".
 
-![](<../../../.gitbook/assets/51839875 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839875 (3) (3).png>)
 
 When is it possible to return an order?
 
@@ -34,13 +34,13 @@ Statuses can be edited on the "Statuses" tab under the "Orders setting" page of 
 
 Once the form is complete, the customer clicks on "Request a return", and the request is sent to the store manager (you). The request appears as "Waiting for confirmation" in the customer's "Merchandise Returns" page, accessible from the account page.
 
-![](../../../.gitbook/assets/51839876.png)
+![](<../../../.gitbook/assets/51839876 (3) (3) (3).png>)
 
 ## Return process: how you see it <a href="#merchandisereturns-returnprocess-howyouseeit" id="merchandisereturns-returnprocess-howyouseeit"></a>
 
 The return request appears in your back office in the "Merchandise Returns" page. At first, the return request has the "Waiting for confirmation" status.
 
-![](../../../.gitbook/assets/23038598.png)
+![](<../../../.gitbook/assets/23038598 (3) (3) (3).png>)
 
 The refund process can take several steps, which are indicated by the return status. It can be either:
 
@@ -50,7 +50,7 @@ The refund process can take several steps, which are indicated by the return sta
 * Return denied.
 * Return completed.
 
-![](<../../../.gitbook/assets/51839877 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839877 (3) (3).png>)
 
 It is now up to you to accept it or deny it:
 
@@ -71,7 +71,7 @@ The action buttons change depending on the order's status. For instance, once th
 
 Product returns are not activated by default. To activate it, go to the "Merchandise returns" page under the "Customer Service" menu, and activate the option in the options section at the bottom of the page. This will apply to all products and all orders.
 
-![](<../../../.gitbook/assets/51839878 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839878 (3) (3).png>)
 
 * **Return products**. To be used only when the customer has effectively returned products: once the returned product has been received, you can mark it as returned directly in the order form. \
   Click the "Return products" button and a new column will appear in the product list, titled "Return". Check the box of the affected products, indicate the number of items that were returned, and click the "Return products" at the bottom of the table.

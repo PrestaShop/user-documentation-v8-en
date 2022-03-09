@@ -6,7 +6,7 @@ If you have been using PrestaShop previous versions, pages and static content ar
 
 This page presents you all the content pages that were previously created on your shop, for the currently selected page category (by default, the home page is the only category).
 
-![](<../../../.gitbook/assets/46170138 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/46170138 (4) (4).png>)
 
 Do not forget to translate each page for each of your supported languages! As usual, click on the language selector for each field in order to change the language.
 
@@ -37,7 +37,7 @@ In order to create sub-categories, simply change the "Parent category" option fr
 
 _New since PrestaShop 1.7.6!_ You can now benefit from the dynamic preview of your search engine results.
 
-![](<../../../.gitbook/assets/64225645 (8).gif>)
+![](<../../../.gitbook/assets/64225645 (1).gif>)
 
 Click the "Add new page" button to reach the page creation form:
 

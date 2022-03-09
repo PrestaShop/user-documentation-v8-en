@@ -4,7 +4,7 @@ This page contains the preferences pertaining to how your products are to be han
 
 ## General preferences <a href="#productsettings-generalpreferences" id="productsettings-generalpreferences"></a>
 
-![](<../../../.gitbook/assets/64225486 (4).png>)
+![](../../../.gitbook/assets/64225486.png)
 
 * **Catalog mode**. Enabling catalog mode turns your shop into a simple gallery of products, with no way to buy the items whatsoever.
 * **Number of days for which the product is considered 'new'**. When you add a product to your shop, it is considered new and it is available on the "New products" page. The field allows you to specify how many days the product will remain visible on this page. With this feature, you choose how to display and update your shop's novelties. The "New products" page is usually most accessed by your regular customers.
@@ -15,7 +15,7 @@ This page contains the preferences pertaining to how your products are to be han
 
 ## Pagination preferences <a href="#productsettings-paginationpreferences" id="productsettings-paginationpreferences"></a>
 
-![](<../../../.gitbook/assets/64225489 (4) (1) (3).png>)
+![](<../../../.gitbook/assets/64225489 (4) (1) (4).png>)
 
 * **Products per page**. Indicate how many products are displayed on the pages of your categories.
 * **Default order by**. Indicate the order of products in your shop's categories. 6 choices are available:
@@ -31,7 +31,7 @@ This page contains the preferences pertaining to how your products are to be han
 
 ## Product page preferences <a href="#productsettings-productpagepreferences" id="productsettings-productpagepreferences"></a>
 
-![](<../../../.gitbook/assets/64225488 (3).png>)
+![](<../../../.gitbook/assets/64225488 (3) (1) (1).png>)
 
 * **Display available quantities on the product page**. By enabling this feature, your visitors can see the quantities of each product available in stock. Displaying this information can be used to stimulate sales in the case where the quantity in stock is low. The quantities displayed are the selected attributes and combination.
 * **Display remaining quantities when quantity is lower than**. You can choose to display an alert when the remaining available stock for a product gets below a certain level. This option is particularly useful for promoting purchases. The text and placement of the alert depend on the theme; in the default theme, it is "Last items in stock", and is placed next to the "Add to cart" button.
@@ -44,7 +44,7 @@ This page contains the preferences pertaining to how your products are to be han
 
 ## Products stock preferences <a href="#productsettings-productsstockpreferences" id="productsettings-productsstockpreferences"></a>
 
-![](<../../../.gitbook/assets/64225490 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/64225490 (4) (4).png>)
 
 * **Allow ordering of out-of-stock products**. If a product does not have any available stock anymore, the customer can still order it.
 * **Enable stock management**. This option gives you access to basic stock management options and features: you can set the current quantity of product, and have PrestaShop lower it for each order, and "re-stock" for each canceled or returned order. By default you should leave this feature enabled, as disabling it affects the entire inventory management of your shop. Only if you do not have any physical inventory should you disable it – for instance, if you only have virtual products.

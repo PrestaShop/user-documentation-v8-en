@@ -5,13 +5,13 @@ For some of the stats, a complete explanation is given, helping you understand t
 
 Video - 4 simple steps to optimize your online shop’s performance
 
-[![](<../../.gitbook/assets/51839795 (6) (6) (3).png>)](https://www.youtube.com/watch?v=0acJfI8fn-0\&list=PLyZYn1MMU7-xT-L\_zUyGnRBJmAuP6uc-c\&index=23)
+[![](<../../.gitbook/assets/51839795 (6) (6) (2).png>)](https://www.youtube.com/watch?v=0acJfI8fn-0\&list=PLyZYn1MMU7-xT-L\_zUyGnRBJmAuP6uc-c\&index=23)
 
 ## Main interface <a href="#understandingyourstatistics-maininterface" id="understandingyourstatistics-maininterface"></a>
 
 By default, the page displays the Stats Dashboard, an overview of the main numbers gathered by PrestaShop stat system since you launched your online shop.
 
-![](<../../.gitbook/assets/51839882 (3) (3) (2).png>)
+![](<../../.gitbook/assets/51839882 (3) (3) (1).png>)
 
 At the top of the page is a single bar which helps you choose the period of time for the currently displayed statistics. Three sets of options are available:
 
@@ -42,7 +42,7 @@ The dashboard contains 8 sections:
 
 Most of the statistical data can be downloaded as CSV files, by clicking on the "CSV Export" button at the bottom of the page.
 
-![](<../../.gitbook/assets/23789935 (3) (3) (2).png>)
+![](<../../.gitbook/assets/23789935 (3) (3) (1).png>)
 
 * **Available quantities**. This section gives you an overview of the value of your current stock.
 * **Best categories**. This section presents your shop's performance by category. You can find out how many products in each category have been sold, the revenue generated, and the number of pages viewed. Make sure to regularly check the consistency of your results between different categories in order to adjust your shop's cohesiveness.

@@ -12,11 +12,11 @@ We have created this chapter in order to help you make the most of your discover
 
 Take the time to review the Dashboard – that is, the first page you see when logging into your back office. Not only does it present you with a summary of everything you need to know about your shop at any given time, along with quick links to the main action page, but as a first-timer in PrestaShop, it also gives you tips about what you should have a look at.
 
-![](<../.gitbook/assets/56688733 (4) (5) (8).png>)
+![](<../.gitbook/assets/56688733 (4) (5) (2).png>)
 
 ### The top bar
 
-![](<../.gitbook/assets/56688734 (4) (4) (3).png>)
+![](<../.gitbook/assets/56688734 (4) (4).png>)
 
 At the top of the back office is a white bar containing a handful of information and links:
 
@@ -44,7 +44,7 @@ In PrestaShop 1.7, the menu has been reorganized in three main sections, from th
 
 ****[**Sell**](selling/)****
 
-![](<../.gitbook/assets/56688735 (4) (4) (3).png>)
+![](<../.gitbook/assets/56688735 (4) (4) (1).png>)
 
 It’s all about your day-to-day activity. Orders, customers, catalog, etc. This section presents the essence of your business, where you go each day to get your business going.
 
@@ -141,14 +141,14 @@ Choosing an option updates all the blocks of content that are on the Dashboard s
 
 In order to choose a period of time, you can either click the first and last date of that period in the calendar (the clicking order does not matter), or you can type the dates in the YYYY-MM-DD format in the text boxes. Click "Apply" to see the Dashboard change according to your settings.
 
-![](<../.gitbook/assets/51839816 (4).png>)
+![](<../.gitbook/assets/51839816 (2).png>)
 
 You can also compare two periods of time together by checking the "Compare To" box. Select the second period as would do for the first one (the two can even overlap), then click on the "Apply" button. \
 When comparing two periods, some of the content blocks will update to indicate the evolution of the data (see for instance the main "Dashboard" block, which presents data from the Dashboard Trends module).
 
 ### The left column
 
-![](<../.gitbook/assets/56688737 (4) (4) (3).png>)This column presents you with data from the **Dashboard Activity module**, which gives the main figures from your database in a quick glance:
+![](<../.gitbook/assets/56688737 (4) (4).png>)This column presents you with data from the **Dashboard Activity module**, which gives the main figures from your database in a quick glance:
 
 * Online visitors in the last 30 minutes.
 * Active shopping carts in the last 30 minutes.
@@ -165,17 +165,17 @@ By default, there are three blocks of content in this column, which are handled 
 
 * **Dashboard** (Dashboard Trends module). This is the main block of information on the dashboard. With its various graphics, it really helps you see if your shop is headed in the right direction or not. Click on one of the graphic types to display it. Additionally, when comparing two time periods, it displays the evolution of each figure in percentages. Hover the graphic with your mouse to see the details.\
   \
-  ![](<../.gitbook/assets/51839818 (3).png>)\
+  ![](<../.gitbook/assets/51839818 (3) (1) (1).png>)\
   Clicking on its configuration icon (top right) open a new page where you can set various expenses that your shop has (bank wire fee, average shipping fee, hosting expenses, etc.), in order to better indicate your trends.
 * **Your Forecast** (Dashboard Goals module). This block presents you with the goals you have for the coming months, and how your shop is doing as compared to them. Hover the graphic with your mouse to see the details.
 
-![](<../.gitbook/assets/51839819 (4).png>)\
+![](<../.gitbook/assets/51839819 (4) (1) (1).png>)\
 \
 Depending on your monthly results, you should update your forthcoming goals. You can set your goals in the block's configuration form (top right of the block), and fill in your expectations month per month in terms of traffic, conversion rate, and average cart value. The "Sales" column will be updated according to the goals set in the other columns (for instance, for a 1000 visitors with a 2% conversion rate and a $10 average cart, you would get 1000\*(2/100)\*10 = $200). You can change the currency in the "Currencies" page under the "Localization" menu.
 
 * **Products and sales** (Dashboard Products module). This block presents you with a table of your latest orders and a ranking of your products: best sellers, most viewed and top searches (as searched in your shop's search form, not from search engines).
 
-![](../.gitbook/assets/51839820.png)\
+![](<../.gitbook/assets/51839820 (4) (4) (4).png>)\
 \
 You can set the number of items to display in each by opening the block's configuration form
 

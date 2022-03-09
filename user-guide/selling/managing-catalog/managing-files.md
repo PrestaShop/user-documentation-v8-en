@@ -6,7 +6,7 @@ Each product can have files, which can be individually set in the "Options" tab,
 
 You can also upload files on their own, before associating them with products. This is done from the "Files" page, under the "Catalog" menu.
 
-![](<../../../.gitbook/assets/51839283 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839283 (3) (3) (1).png>)
 
 The process to register a new file to your shop is straightforward:
 

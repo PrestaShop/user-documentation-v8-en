@@ -8,7 +8,7 @@ _New in 1.7.6!_ Before emails were retrieved from your server, they are now gene
 
 This page is divided into three parts. The first parameters to indicate is the email theme you want to have by default. Natively, there are two templates available: "Classic" and "Modern" (available since version 1.7.6 only). It means that depending on the template you select, your next emails will look different.
 
-![](<../../../.gitbook/assets/64225568 (4) (3) (3).png>)
+![](<../../../.gitbook/assets/64225568 (4) (3) (4).png>)
 
 ## Generate emails <a href="#emailtheme-generateemails" id="emailtheme-generateemails"></a>
 

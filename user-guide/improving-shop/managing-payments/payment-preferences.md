@@ -27,7 +27,7 @@ If you change the default currency after having configured some first products, 
 
 You can limit the choice of available payment methods depending on the group of customers: you can have a set number of customer groups where people can have access to more payment methods than regular customers.
 
-![](<../../../.gitbook/assets/64225553 (2).png>)
+![](<../../../.gitbook/assets/64225553 (2) (1) (1).png>)
 
 For instance, you could choose to have regular customers pay with PayPal, Skrill, and Hipay, while professionals would only be able to pay by bank wire. Depending on the type of customers and on your choices, customers will only pay using the methods that match with your decisions.
 
@@ -35,7 +35,7 @@ For instance, you could choose to have regular customers pay with PayPal, Skrill
 
 You can limit the choice of payment methods according to your customer's country of origin. For instance, you could choose to accept all payment methods for customers from France, Spain and Germany, while customers from Italy, the United Kingdom and Switzerland would only be able to pay by bank wire.
 
-![](<../../../.gitbook/assets/64225554 (3) (8).png>)
+![](<../../../.gitbook/assets/64225554 (3) (5).png>)
 
 The table lists all the known countries. If one is missing, you can add it using the "Countries" page, under the "Zones" menu.
 
@@ -51,4 +51,4 @@ Find the country you are looking for in the alphabetical list, and check the box
 
 You can limit the choice of available payment methods depending on your carriers.
 
-![](<../../../.gitbook/assets/64225554 (3) (8).png>)
+![](<../../../.gitbook/assets/64225554 (3) (5).png>)

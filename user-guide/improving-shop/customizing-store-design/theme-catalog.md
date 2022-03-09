@@ -1,6 +1,6 @@
 # Theme Catalog
 
-![](<../../../.gitbook/assets/51839899 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/51839899 (4) (4).png>)
 
 &#x20;If you are looking for a new theme, PrestaShop Addons is where you should go! Thanks to this page, you can browse through most popular designs available on Addons to get inspired. If you wish to see more themes, click "Discover all of the themes" to be directed to the full selection of PrestaShop themes, as available on our official marketplace, PrestaShop Addons.
 

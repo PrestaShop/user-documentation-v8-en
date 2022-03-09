@@ -8,7 +8,7 @@ This page displays the outstanding report for some of your customers, meaning th
 
 When the B2B mode is enabled (Shop Parameters > Customers Setting page), three fields are added to the customer creation form:
 
-![](<../../../.gitbook/assets/51839331 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839331 (3) (3).png>)
 
 * **Allowed outstanding amount**. The maximum amount of money this customer can use as an outstanding.
 * **Maximum number of payment days**. The maximum number of days the customer can go before having to pay his outstanding.

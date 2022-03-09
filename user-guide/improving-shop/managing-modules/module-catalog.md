@@ -4,7 +4,7 @@ PrestaShop comes bundled with more than 100 modules. Even though it can sound li
 
 There are many more modules available on the PrestaShop Addons website ([http://addons.prestashop.com](http://addons.prestashop.com)), PrestaShop's official marketplace. Some are free, others are for-pay, and you are sure to find something that suits your needs! Once you are a seasoned module developer/theme designer, you can even submit your own creations, and sell them on Addons!
 
-![](<../../../.gitbook/assets/57606466 (4) (4) (3).png>)
+![](<../../../.gitbook/assets/57606466 (4) (4).png>)
 
 The "Modules Catalog" page gives you quick and easy access to the online Addons database of modules and themes. Its interface is pretty straightforward:
 

@@ -10,7 +10,7 @@ Attributes are configured on a per-product basis, from the "Products" page under
 
 This page presents a list of all your currently registered attributes. You can edit or delete each one using the actions on the right of the table, or display their values by clicking on the "View" action, which opens a new table.
 
-![](<../../../.gitbook/assets/51839263 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/51839263 (3) (3) (1).png>)
 
 You can also set the attributes front office presentation order by clicking on the arrow icons, or by drag-and-dropping each row when the mouse hovers the "Position" column.
 
@@ -18,7 +18,7 @@ You can also set the attributes front office presentation order by clicking on t
 
 To add an attribute, or in other words, to add a group of variation possibilities (colors, capacity, material, etc.), click on "Add new attribute". A new page appears.
 
-![](<../../../.gitbook/assets/64225526 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/64225526 (3) (3).png>)
 
 Fill out the form:
 
@@ -35,7 +35,7 @@ Save your new attribute to return to the attributes list. You must now add value
 
 Click on "Add new value". A new page appears.
 
-![](<../../../.gitbook/assets/64225527 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/64225527 (3) (3).png>)
 
 Fill out the form:
 

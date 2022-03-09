@@ -16,13 +16,13 @@ New brands are automatically disabled. You must enable them in order to have the
 
 By entering information about the brands, your site's visitors can have rapid access to all of a given brand's products. This makes navigating around your site easier for them. In terms of visibility, filling out these fields will improve your position in search engines.
 
-![](../../../.gitbook/assets/64225535.png)
+![](<../../../.gitbook/assets/64225535 (3) (3) (3).png>)
 
 ## Creating a brand <a href="#managingbrands-creatingabrand" id="managingbrands-creatingabrand"></a>
 
 Click on the "Add new brand" button, and a creation form appears.
 
-![](<../../../.gitbook/assets/64225536 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/64225536 (3) (3).png>)
 
 Fill out all of the fields:
 
@@ -45,6 +45,6 @@ Save your changes in order to be taken back to the brand's list. From there, you
 
 At the bottom of the "Brands" page is an "Addresses" section. Each brand can have its own address registered with PrestaShop. This serves mainly as a reminder for yourself: this way, you'll always have the contact address for a brand available directly within PrestaShop. Click on the "Add new brand address" button to open the creation form.
 
-![](<../../../.gitbook/assets/64225538 (3) (3) (2).png>)
+![](<../../../.gitbook/assets/64225538 (3) (3).png>)
 
 Make sure to choose the correct brand, and to fill as many fields as possible.
