@@ -6,7 +6,7 @@ Just like PrestaShop itself, the [documentation](https://docs.prestashop-project
 
 GitBook and GitHub are synchronized: if you change the content of any page on GitBook, your edits will be pushed to the GitHub repository. Conversely, commits pushed to GitHub are imported on GitBook.&#x20;
 
-This means that both interfaces are open to contributions..
+This means that both interfaces are open to contributions.
 
 ### Contributing on GitBook ![](<.gitbook/assets/image (53).png>)
 
