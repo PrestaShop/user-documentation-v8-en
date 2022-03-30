@@ -13,7 +13,7 @@
   * [Customizing your shop](user-guide/customizing-shop.md)
   * [Connecting to the PrestaShop back office](user-guide/connecting-back-office.md)
   * [Discovering the Administration Area](user-guide/discovering-administration-area.md)
-  * [First steps with PrestaShop 1.7](user-guide/first-steps.md)
+  * [First steps with PrestaShop V.8](user-guide/first-steps.md)
   * [Selling with PrestaShop](user-guide/selling/README.md)
     * [Managing your Orders](user-guide/selling/managing-orders/README.md)
       * [Order list management](user-guide/selling/managing-orders/order-list-management.md)

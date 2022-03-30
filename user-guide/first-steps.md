@@ -1,6 +1,6 @@
-# First steps with PrestaShop 1.7
+# First steps with PrestaShop V.8
 
-## First steps with PrestaShop 1.7 <a href="#firststepswithprestashop1.7-firststepswithprestashop1.7" id="firststepswithprestashop1.7-firststepswithprestashop1.7"></a>
+## First steps with PrestaShop V.8 <a href="#firststepswithprestashop1.7-firststepswithprestashop1.7" id="firststepswithprestashop1.7-firststepswithprestashop1.7"></a>
 
 You have to make sure every part of your future online store is properly set up, secured, validated and ready for business.
 
