@@ -61,7 +61,7 @@ To add new languages to your shop, go to the International section. You can eith
       *
         *
           * **Sales**. Redirects you to the "Product detail" page of the statistics dashboard ("Stats" menu), which gives you a graphic of both the visits to this product's page and also its sales.
-          * **Product list**. _New in PrestaShop 1.7_. Displays a list of all your products to allow you to quickly navigate from a product to another.
+          * **Product list**. Displays a list of all your products to allow you to quickly navigate from a product to another.
           * **Help**. Opens the contextual help in a column, with the page from the User Guide corresponding to the product page.
 
 At the bottom of the page, several actions are possible:

@@ -1,6 +1,6 @@
 # Discovering the Administration Area
 
-Now that you have installed PrestaShop 1.7 and that you are properly logged-in to your administration area, you should make sure to easily find your way through its administration interface, understand its notifications and know where to find one specific bit of information.
+Now that you have installed PrestaShop V.8 and that you are properly logged-in to your administration area, you should make sure to easily find your way through its administration interface, understand its notifications and know where to find one specific bit of information.
 
 The design of the administration area has been partially revamped with version 1.7 of PrestaShop in order to be more intuitive and ergonomic (like the module and product pages). The navigation and main menu have also been changed compared to 1.6: while the features are the same, you might find it difficult to locate pages as you used to, at first.
 

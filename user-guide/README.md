@@ -12,7 +12,7 @@ Chapters in this guide:
 * [Customizing your shop](customizing-shop.md)
 * [Connecting to the PrestaShop back office](connecting-back-office.md)
 * [Discovering the Administration Area](discovering-administration-area.md)
-* [First steps with PrestaShop 1.7](first-steps.md)
+* [First steps with PrestaShop V.8](first-steps.md)
 * [Selling with PrestaShop](selling/)
   * [Managing your Orders](selling/managing-orders/)
   * [Managing your Product Catalog](selling/managing-catalog/)

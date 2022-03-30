@@ -8,7 +8,7 @@ description: >-
 
 ## Adaptation to Right-to-Left (RTL) languages <a href="#themeandlogo-adaptationtoright-to-left-rtl-languages" id="themeandlogo-adaptationtoright-to-left-rtl-languages"></a>
 
-_New since PrestaShop 1.7.3!_ PrestaShop supports Right-To-Left (RTL) languages. Not only the back office and its themes are now fully RTL compatible, but we are also introducing RTL stylesheet generation for front office themes. This means that any front office theme can now be automatically converted to be RTL-compatible. This is extremely important for selling in countries that speak in RTL languages like Arabic, Hebrew, or Persian.
+PrestaShop supports Right-To-Left (RTL) languages. Not only the back office and its themes are now fully RTL compatible, but we are also introducing RTL stylesheet generation for front office themes. This means that any front office theme can now be automatically converted to be RTL-compatible. This is extremely important for selling in countries that speak in RTL languages like Arabic, Hebrew, or Persian.
 
 ![](<../../../.gitbook/assets/64225586 (2) (1) (3).png>)
 

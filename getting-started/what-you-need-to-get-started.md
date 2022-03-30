@@ -2,7 +2,7 @@
 
 ## Quick set-up instructions
 
-Here is a quick list of what you need to get started with the installation of PrestaShop V.8. Should you not feel comfortable with the lack of details, you will find detailed instructions in the sections following this one.
+Here is a quick list of what you need to get started with the installation of PrestaShop 1.7. Should you not feel comfortable with the lack of details, you will find detailed instructions in the sections following this one.
 
 * System requirements:
   * PHP 7.1 or later.
@@ -165,7 +165,7 @@ You should decide right away where you want to host PrestaShop. There are four p
 * In a sub-domain: [http://store.example.com/](http://store.example.com)
 * In a folder of a sub-domain: [http://clothes.example.com/boutique/](http://clothes.example.com/boutique/)
 
-Note that thanks to the multistore feature, you can have as many stores as necessary with a single installation of PrestaShop V.8, each with its own specific domain name if necessary. You should take that into account when deciding what goes where.\
+Note that thanks to the multistore feature, you can have as many stores as necessary with a single installation of PrestaShop 1.7, each with its own specific domain name if necessary. You should take that into account when deciding what goes where.\
 Whatever your plan is, the default store will always reside where PrestaShop itself is located.
 
 ## Installing PrestaShop
