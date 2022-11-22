@@ -122,6 +122,7 @@
       * [Webservice](user-guide/configuring-shop/advanced-parameters/webservice.md)
       * [Multistore](user-guide/configuring-shop/advanced-parameters/multistore.md)
       * [Experimental features](user-guide/configuring-shop/advanced-parameters/experimental-features.md)
+      * [Security](user-guide/configuring-shop/advanced-parameters/security.md)
   * [Managing multiple stores](user-guide/managing-multiple-stores/README.md)
     * [The multistore interface](user-guide/managing-multiple-stores/multistore-interface/README.md)
       * [Adding a new store](user-guide/managing-multiple-stores/multistore-interface/adding-new-store.md)
