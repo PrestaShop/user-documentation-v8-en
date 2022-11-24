@@ -61,8 +61,8 @@ The possibilities are endless, but here are a few sample queries to help you bui
 
 ### Listing all the products which are active and have a description in French (id\_lang = 4) <a href="#sqlmanager-listingalltheproductswhichareactiveandhaveadescriptioninfrench-id_lang-4" id="sqlmanager-listingalltheproductswhichareactiveandhaveadescriptioninfrench-id_lang-4"></a>
 
-| `SELECT p.id_product,` [`pl.name`](http://pl.name)`, pl.link_rewrite, pl.descriptionFROM ps_product pLEFT JOIN ps_product_lang pl ON (p.id_product = pl.id_product)WHERE p.active = 1AND pl.id_lang = 4` |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `SELECT p.id_product,` [`pl.name`](http://pl.name/)`, pl.link_rewrite, pl.descriptionFROM ps_product pLEFT JOIN ps_product_lang pl ON (p.id_product = pl.id_product)WHERE p.active = 1AND pl.id_lang = 4` |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### Listing all the orders, with details about carrier, currency, payment, total and date <a href="#sqlmanager-listingalltheorders-withdetailsaboutcarrier-currency-payment-totalanddate" id="sqlmanager-listingalltheorders-withdetailsaboutcarrier-currency-payment-totalanddate"></a>
 

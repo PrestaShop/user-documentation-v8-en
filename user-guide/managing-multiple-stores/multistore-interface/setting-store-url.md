@@ -54,7 +54,7 @@ To set a URL for a store**:**
 
 *   **Domain:** Enter the store's domain name. You can indicate a sub-domain if needed. Just make sure it doesn't contain '`http://`', or any '`/`'.&#x20;
 
-    Example: [`www.example.com`](http://www.example.com) or [`kids.example.com`](http://kids.example.com).
+    Example: [`www.example.com`](http://www.example.com/) or [`kids.example.com`](http://kids.example.com/).
 * **Domain SSL:** If your SSL domain is different from your main domain, be sure to indicate it in that field.
 * **Physical URL:** Enter the physical path of your installation on your server. If you installed the store in the root directory, then the physical URL should be `/`. Alternatively, if you installed your store in a sub-folder, the physical URL is the name of the subfolder.
 *   **Virtual URL:** Thanks to URL rewriting, you can use this option if you want to create a store with a URL that doesn't exist on your server, without having to create a sub-folder. For example, if you want your store to be available with the URL `www.example.com/my-store/shoes/`, you have to set `shoes/` in this field, assuming that `my-store/` is your physical URL.&#x20;

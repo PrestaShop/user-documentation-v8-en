@@ -2,7 +2,7 @@
 
 ## Quick set-up instructions
 
-Here is a quick list of what you need to get started with the installation of PrestaShop 1.7. Should you not feel comfortable with the lack of details, you will find detailed instructions in the sections following this one.
+Here is a quick list of what you need to get started with the installation of PrestaShop V.8. Should you not feel comfortable with the lack of details, you will find detailed instructions in the sections following this one.
 
 * System requirements:
   * PHP 7.1 or later.
@@ -47,7 +47,7 @@ PrestaShop is a web application: it needs to be installed on a web server in ord
 
 ### Registering a domain name
 
-Before downloading or installing anything, you need to provide a home for your PrestaShop online store. That is made of two components: a domain name, and a web server. A domain is theonline identifier for your website, such as [`example.com`](http://example.com), [`myonlineshop.net` ](http://myonlineshop.net)or [`agreatbrand.store`](https://agreatbrand.store). It is the public face of your web server, and therefore of your store.
+Before downloading or installing anything, you need to provide a home for your PrestaShop online store. That is made of two components: a domain name, and a web server. A domain is theonline identifier for your website, such as [`example.com`](http://example.com), [`myonlineshop.net` ](http://myonlineshop.net)or [`agreatbrand.store`](https://agreatbrand.store/). It is the public face of your web server, and therefore of your store.
 
 You need to buy a domain name for your store. You might get one when you get your web hosting in place: many web hosts offer a free domain with every new account. They might be free for a year, or for as long as you are a client of that web host. This makes it easy to get the full package (hosting+domain name) in one go. For more information about domains, see the list of independent registrars below or follow the link: [https://www.prestashop.com/en/domain](https://www.prestashop.com/en/domain).
 
@@ -61,10 +61,10 @@ In addition to paying for the domain name registration, you will also have to pa
 
 If you would rather get your domain name from an independent registrar, here are some that you can trust:
 
-* Gandi: [http://en.gandi.net/](http://en.gandi.net)
-* Namecheap: [http://www.namecheap.com/](http://www.namecheap.com)
-* GoDaddy: [https://www.godaddy.com/](https://www.godaddy.com)
-* 1&1 IONOS: [https://www.ionos.com](https://www.ionos.com)
+* Gandi: [http://en.gandi.net/](http://en.gandi.net/)
+* Namecheap: [http://www.namecheap.com/](http://www.namecheap.com/)
+* GoDaddy: [https://www.godaddy.com/](https://www.godaddy.com/)
+* 1&1 IONOS: [https://www.ionos.com](https://www.ionos.com/)
 
 There are many more. Ask your friends about them!
 
@@ -105,10 +105,10 @@ You will need two tools: a text editor, in order to edit text files, and a FTP c
 Here are a few well-known text editors:
 
 * Windows and OS X:
-  * Sublime Text: [http://www.sublimetext.com/](http://www.sublimetext.com)
-  * Atom: [https://atom.io/](https://atom.io)
+  * Sublime Text: [http://www.sublimetext.com/](http://www.sublimetext.com/)
+  * Atom: [https://atom.io/](https://atom.io/)
 * Unix/Linux:
-  * Vim: [http://www.vim.org/](http://www.vim.org)
+  * Vim: [http://www.vim.org/](http://www.vim.org/)
   * Emacs: [http://www.gnu.org/software/emacs/](http://www.gnu.org/software/emacs/)
 
 Do NOT use a word processor when editing text files, such as Microsoft Word or [OpenOffice.org](http://openoffice.org)'s Write.
@@ -117,7 +117,7 @@ Do NOT use a word processor when editing text files, such as Microsoft Word or [
 
 FTP is short for "File Transfer Protocol", meaning the standard way used to transfer files from a computer to a web host
 
-In this guide, we will use Filezilla, which is a great and free FTP client for Windows, Mac OS X, and Linux. Download it from [http://filezilla-project.org/](http://filezilla-project.org) and start its installer. Note: do not download FileZilla Server, only FileZilla Client!
+In this guide, we will use Filezilla, which is a great and free FTP client for Windows, Mac OS X, and Linux. Download it from [http://filezilla-project.org/](http://filezilla-project.org/) and start its installer. Note: do not download FileZilla Server, only FileZilla Client!
 
 Once FileZilla is installed, you will need to configure it with the connection parameters of your web server, which should have been sent to you by your host. If not, ask for them to your host – or check your spam folder.
 
@@ -144,28 +144,28 @@ To add your hosting space to the Site Manager:
 If FileZilla does not suit you, here are a few other well-known FTP clients:
 
 * Windows:
-  * CoreFTP: [http://www.coreftp.com/](http://www.coreftp.com)
-  * WinSCP: [http://winscp.net/](http://winscp.net)
-  * SmartFTP: [http://www.smartftp.com/](http://www.smartftp.com)
+  * CoreFTP: [http://www.coreftp.com/](http://www.coreftp.com/)
+  * WinSCP: [http://winscp.net/](http://winscp.net/)
+  * SmartFTP: [http://www.smartftp.com/](http://www.smartftp.com/)
 * Mac OS X:
-  * Cyberduck: [http://cyberduck.ch/](http://cyberduck.ch)
+  * Cyberduck: [http://cyberduck.ch/](http://cyberduck.ch/)
   * Transmit: [http://www.panic.com/transmit/](http://www.panic.com/transmit/)
   * Fetch: [http://fetchsoftworks.com/fetch/](http://fetchsoftworks.com/fetch/)
 * Unix/Linux:
-  * gFTP: [http://gftp.seul.org/](http://gftp.seul.org)
-  * kasablanca: [http://kasablanca.berlios.de/](http://kasablanca.berlios.de)
+  * gFTP: [http://gftp.seul.org/](http://gftp.seul.org/)
+  * kasablanca: [http://kasablanca.berlios.de/](http://kasablanca.berlios.de/)
   * NcFTP: [http://www.ncftp.com/ncftp/](http://www.ncftp.com/ncftp/)
 
 ## Making a plan
 
 You should decide right away where you want to host PrestaShop. There are four possibilities relating to your domain name:
 
-* At the root of the domain: [http://www.example.com/](http://www.example.com)
+* At the root of the domain: [http://www.example.com/](http://www.example.com/)
 * In a folder: [http://www.example.com/shop/](http://www.example.com/shop/)
-* In a sub-domain: [http://store.example.com/](http://store.example.com)
+* In a sub-domain: [http://store.example.com/](http://store.example.com/)
 * In a folder of a sub-domain: [http://clothes.example.com/boutique/](http://clothes.example.com/boutique/)
 
-Note that thanks to the multistore feature, you can have as many stores as necessary with a single installation of PrestaShop 1.7, each with its own specific domain name if necessary. You should take that into account when deciding what goes where.\
+Note that thanks to the multistore feature, you can have as many stores as necessary with a single installation of PrestaShop V.8, each with its own specific domain name if necessary. You should take that into account when deciding what goes where.\
 Whatever your plan is, the default store will always reside where PrestaShop itself is located.
 
 ## Installing PrestaShop

@@ -9,8 +9,6 @@
   * [Uninstalling PrestaShop](getting-started/uninstalling-prestashop.md)
   * [Misc. information](getting-started/misc-information.md)
 * [User Guide](user-guide/README.md)
-  * [Training](user-guide/training.md)
-  * [Customizing your shop](user-guide/customizing-shop.md)
   * [Connecting to the PrestaShop back office](user-guide/connecting-back-office.md)
   * [Discovering the Administration Area](user-guide/discovering-administration-area.md)
   * [First steps with PrestaShop V.8](user-guide/first-steps.md)

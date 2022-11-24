@@ -8,8 +8,8 @@ You can post all of your questions directly on our forum: [http://www.prestashop
 
 Chapters in this guide:
 
-* [Training](training.md)
-* [Customizing your shop](customizing-shop.md)
+* [Training](broken-reference)
+* [Customizing your shop](broken-reference)
 * [Connecting to the PrestaShop back office](connecting-back-office.md)
 * [Discovering the Administration Area](discovering-administration-area.md)
 * [First steps with PrestaShop V.8](first-steps.md)

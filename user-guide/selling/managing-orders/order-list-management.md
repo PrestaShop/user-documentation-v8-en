@@ -57,7 +57,7 @@ To open the customer page in a new tab, make a right-click on their name, and cl
 
 ## **Changing the order status**
 
-&#x20;    ****     ![](https://lh6.googleusercontent.com/6UrdsTFPXoizMX\_PyjnMDRvnZ7yuqcdqRrboLt3v0W2XXalPe3lTD0Iuv4fbb-mVLzK0alGYtWtMQWmo7W5rlDsl03a42CyJjQgieEvfiV1c9ga1MXtFfiQGgkCLPXd-D9d1-tDa)
+&#x20;    ****     <img src="https://lh6.googleusercontent.com/6UrdsTFPXoizMX_PyjnMDRvnZ7yuqcdqRrboLt3v0W2XXalPe3lTD0Iuv4fbb-mVLzK0alGYtWtMQWmo7W5rlDsl03a42CyJjQgieEvfiV1c9ga1MXtFfiQGgkCLPXd-D9d1-tDa" alt="" data-size="original">
 
 On the “Status” column of the table, click on the order’s status and select the new status from the list.&#x20;
 

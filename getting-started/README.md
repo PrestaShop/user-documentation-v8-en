@@ -1,8 +1,8 @@
 # Getting started
 
-## Getting started with PrestaShop 1.7 <a href="#gettingstarted-gettingstartedwithprestashop1.7" id="gettingstarted-gettingstartedwithprestashop1.7"></a>
+## Getting started with PrestaShop V.8 <a href="#gettingstarted-gettingstartedwithprestashop1.7" id="gettingstarted-gettingstartedwithprestashop1.7"></a>
 
-This guide was written to help you download and install PrestaShop 1.7.
+This guide was written to help you download and install PrestaShop V.8.
 
 Every step of the process is detailed, with tips and indications to help you get the most of PrestaShop. Make sure to read the instructions at least once before proceeding with the installation.
 

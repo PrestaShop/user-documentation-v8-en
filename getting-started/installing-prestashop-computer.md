@@ -8,8 +8,8 @@ Installing any web application locally requires that you first install the adequ
 
 This would require you to be quite technical; luckily there exist many pre-built packages that you can install easily. It does not prevent you from having to get technical here and there, but they do provide a huge help. Since all of the items packaged are open-source, these installers are most of the time free. Here is a selection of free AMP installers:
 
-* EasyPHP: [http://www.easyphp.org/](http://www.easyphp.org) (Windows)
-* MAMP: [http://www.mamp.info/](http://www.mamp.info) (Mac OS X)
+* EasyPHP: [http://www.easyphp.org/](http://www.easyphp.org/) (Windows)
+* MAMP: [http://www.mamp.info/](http://www.mamp.info/) (Mac OS X)
 * WampServer: [http://www.wampserver.com/en/](http://www.wampserver.com/en/) (Windows)
 * XAMPP: [http://www.apachefriends.org/en/xampp.html](http://www.apachefriends.org/en/xampp.html) (Windows, Mac OS X, Linux, Solaris)
 
@@ -21,8 +21,8 @@ Before going on with this PrestaShop installation tutorial, make sure that all t
 
 *   **The web server should be up and running**. You should be able to access it through your browser, by typing "127.0.0.1" in the address bar.
 
-    [`http://127.0.0.1`](http://127.0.0.1) is the "localhost", meaning "your computer": it is a loopback address which directs the browser to your local web server.\
-    In effect, [`http://127.0.0.1`](http://127.0.0.1) and [`http://localhost`](http://localhost) are synonymous: you can use one or the other interchangeably, both send you to the root folder of your local web server.
+    [`http://127.0.0.1`](http://127.0.0.1/) is the "localhost", meaning "your computer": it is a loopback address which directs the browser to your local web server.\
+    In effect, [`http://127.0.0.1`](http://127.0.0.1/) and [`http://localhost`](http://localhost/) are synonymous: you can use one or the other interchangeably, both send you to the root folder of your local web server.
 
     Some web servers might not be able to start because their connexion ports (typically, port 80) are already used by another application.
 
@@ -34,7 +34,7 @@ Before going on with this PrestaShop installation tutorial, make sure that all t
 
 Once you have checked that the package is correctly installed and that all of its parts are running, you need to find the root folder of your local web server.
 
-That is the local folder where you will place your application's files, and can be compared to the root folder of your online server, only its content is accessed with [`http://127.0.0.1`](http://127.0.0.1).
+That is the local folder where you will place your application's files, and can be compared to the root folder of your online server, only its content is accessed with [`http://127.0.0.1`](http://127.0.0.1/).
 
 The actual local location of the folder depends greatly on the AMP package, and can be customized:
 
@@ -58,7 +58,7 @@ With all that clear and done, you can follow up on the rest of this Getting Star
 When you install PrestaShop locally, keep in mind that:
 
 * Files are not to be uploaded via an FTP software (such as Filezilla) to a web server: simply move them in the correct local folder, as indicated above.
-* You do not have to create a local domain name: PrestaShop is available through the loopback address indicated above, which is either [`http://localhost`](http://localhost) or [`http://127.0.0.1`](http://127.0.0.1) . PrestaShop itself is available at this address by adding its folder's name, for instance [`http://localhost/prestashop`](http://localhost/prestashop) or [`http://127.0.0.1/prestashop`](http://127.0.0.1/prestashop) if PrestaShop is in the `/prestashop/` subfolder of the local root folder. When accessing this address for the first time, you should be automatically redirected to PrestaShop's install, at either [`http://localhost/prestashop/install`](http://localhost/prestashop/install) or [`http://127.0.0.1/prestashop/install`](http://127.0.0.1/prestashop/install) .\
+* You do not have to create a local domain name: PrestaShop is available through the loopback address indicated above, which is either [`http://localhost`](http://localhost/) or [`http://127.0.0.1`](http://127.0.0.1/) . PrestaShop itself is available at this address by adding its folder's name, for instance [`http://localhost/prestashop`](http://localhost/prestashop) or [`http://127.0.0.1/prestashop`](http://127.0.0.1/prestashop) if PrestaShop is in the `/prestashop/` subfolder of the local root folder. When accessing this address for the first time, you should be automatically redirected to PrestaShop's install, at either [`http://localhost/prestashop/install`](http://localhost/prestashop/install) or [`http://127.0.0.1/prestashop/install`](http://127.0.0.1/prestashop/install) .\
 
 
 Have you read everything? Now follow the regular installation guide, starting directly at the "Creating a database for your shop" section: [Installing PrestaShop](installing-prestashop.md).

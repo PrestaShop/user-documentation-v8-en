@@ -11,7 +11,7 @@ By default, you have two carriers in your database:
 * Your own shop: This represents your physical store, where customers can supposedly come and pick up their products themselves. It has no price range or weight range set.
 * "My carrier": This is a sample carrier and should not be used in production. It has one price range (from $0 to $10,000) and one weight range (from 0 kg to 10,000 kg).
 
-It is up to you to remove these default carriers and add new ones for your customers. At the very least, you should edit the "My carrier" carrier and replace its data with that of a real carrier: name, details, and ranges. We do recommend that you delete the "My carrier" carrier, and that you use an existing carrier module in order to register you shipping partner in PrestaShop.
+It is up to you to remove these default carriers and add new ones for your customers. At the very least, you should edit the "My carrier" carrier and replace its data with that of a real carrier: name, details, and ranges. We do recommend that you delete the "My carrier" carrier, and that you use an existing carrier module in order to register your shipping partner in PrestaShop.
 
 Video - 6 tips for creating a delivery policy that attracts customers and builds loyalty
 
@@ -48,12 +48,12 @@ This is where you describe the carrier, giving information that the customer wil
 
 Let's examine all of the information you need to enter:
 
-* **Carrier name**. The name is public, so you should use the official name. If you have created one PrestaShop carrier per shipping services from a single carrier, the name will help you differentiate them. \
+* **Carrier name**. The name is public, so you should use the official name. If you have created one PrestaShop carrier per shipping service from a single carrier, the name will help you differentiate them. \
   You could also add a description of the service. For instance, you could fill in "PrestaShipping – 500 lbs and over".
-* **Transit time**. The estimated time it takes this carrier to deliver your products, written in plain language. This is displayed to customers during checkout. It will help them select their carrier according to the amount of time they are willing to wait to receive their shipment. Customers can often accept to pay more for a faster carrier.\
+* **Transit time**. The estimated time it takes this carrier to deliver your products, is written in plain language. This is displayed to customers during checkout. It will help them select their carrier according to the amount of time they are willing to wait to receive their shipment. Customers can often accept to pay more for a faster carrier.\
   You must fill this field in all the available languages, especially the default one.
-* **Speed grade**. Since the "Transit time" field can contain any text, it cannot be used to compare the carriers' transit times. The "Speed grade" setting enables you to give the carrier a grade, from 0 (very slow) to 9 (very fast). This is then used to sort carriers by their speed grade, and help customers choose the one they prefer.
-* **Logo**. Having a logo helps customers choose between different carriers more easily. PrestaShop will resize your image in order to fit in the checkout page.\
+* **Speed grade**. Since the "Transit time" field can contain any text, it cannot be used to compare the carriers' transit times. The "Speed grade" setting enables you to give the carrier a grade, from 0 (very slow) to 9 (very fast). This is then used to sort carriers by their speed grade and help customers choose the one they prefer.
+* **Logo**. Having a logo helps customers choose between different carriers more easily. PrestaShop will resize your image in order to fit on the checkout page.\
   The logo will appear in each panel of the Carrier Wizard, as a reminder of which carrier you are editing/creating.
 * **Tracking URL**. This field must be filled with the tracking URL provided by your carrier (if there exists one). Indicate "@" where the tracking number will appear. For example, France's postal service (La Poste) offers this URL: [`http://www.colissimo.fr/portail_colissimo/suivreResultat.do?parcelnumber=@`](http://www.colissimo.fr/portail\_colissimo/suivreResultat.do?parcelnumber=@). When customers finish their purchase, they will receive that URL with the "@" replaced by the tracking number provided by the carrier, making it possible to click that link and see where the delivery process is at.
 

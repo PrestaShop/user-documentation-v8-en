@@ -65,13 +65,13 @@ The downloaded file is a Zip archive. In order to continue with the process, **y
 If your operating system does not natively support Zip files, you can download and install a dedicated tool, such as:
 
 * Windows:
-  * 7-zip: [http://www.7-zip.org/](http://www.7-zip.org)
+  * 7-zip: [http://www.7-zip.org/](http://www.7-zip.org/)
   * WinZip: [http://www.winzip.com/win/en/index.htm](http://www.winzip.com/win/en/index.htm)
-  * WinRAR: [http://www.rarlab.com/](http://www.rarlab.com)
+  * WinRAR: [http://www.rarlab.com/](http://www.rarlab.com/)
 * Mac OS X:
-  * iZip: [http://www.izip.com/](http://www.izip.com)
+  * iZip: [http://www.izip.com/](http://www.izip.com/)
   * WinZip Mac: [http://www.winzip.com/mac/](http://www.winzip.com/mac/)
-  * Zipeg: [http://www.zipeg.com/](http://www.zipeg.com)
+  * Zipeg: [http://www.zipeg.com/](http://www.zipeg.com/)
 
 Using a Zip tool, extract the content of the archive to a known location on your hard-drive (such as on the Desktop again). **Do not upload the Zip file directly to your web server**.
 
@@ -87,7 +87,7 @@ The "Install\_PrestaShop.html" must not be uploaded on your web server.
 
 You should now have a hosting space at your disposal (if not, read the "What you need to get started" chapter of this guide), and a folder on your hard-drive with the uncompressed PrestaShop archive.
 
-This step makes you upload the PrestaShop files on your hosting space. This is done by connecting your computer to your server using a tool known as a "FTP client", which you should have installed while reading the "What you need to get started" chapter. We will be using the free FileZilla ([http://filezilla-project.org/](http://filezilla-project.org)).
+This step makes you upload the PrestaShop files on your hosting space. This is done by connecting your computer to your server using a tool known as a "FTP client", which you should have installed while reading the "What you need to get started" chapter. We will be using the free FileZilla ([http://filezilla-project.org/](http://filezilla-project.org/)).
 
 Connect to your hosting space using your FTP client, by using the connection details provided by your web host (if not, contact your host). Once connected, it is time to transfer the PrestaShop files from your computer to your server.
 
@@ -101,9 +101,9 @@ In the "Remote site" section (on the right), browse to the location where you wa
   * Some hosts may require you to place your files in a specific folder, such as `/htdocs`, `/public_html`, `/web`, `/www`, `/`[`yourdomainname.com`](http://yourdomainname.com), etc.
   * Other hosts' FTP server will simply log you directly into the proper upload space.
 * Your needs:
-  * If you want your shop to be the main website for your domain name (i.e., [http://www.example.com](http://www.example.com)), upload PrestaShop at the root folder of the upload space (which may depend on the host).
+  * If you want your shop to be the main website for your domain name (i.e., [http://www.example.com](http://www.example.com/)), upload PrestaShop at the root folder of the upload space (which may depend on the host).
   * If you want your shop to be in a sub-folder of your domain name ([http://www.example.com/shop](http://www.example.com/shop)), you must first create a folder through FileZilla (right-click and choose "Create directory"), then upload PrestaShop in that folder.
-  * If you want your shop to be in a sub-domain of your domain name ([http://shop.example.com](http://shop.example.com)), you must first create a sub-domain. This depends on your host: you might be able to do it simply by adding a new folder with your FTP client, or you might have to create the sub-domain through your host's administration panel. Read your host's support documentation first. Once created, browse to the sub-domain's folder, and upload PrestaShop there.
+  * If you want your shop to be in a sub-domain of your domain name ([http://shop.example.com](http://shop.example.com/)), you must first create a sub-domain. This depends on your host: you might be able to do it simply by adding a new folder with your FTP client, or you might have to create the sub-domain through your host's administration panel. Read your host's support documentation first. Once created, browse to the sub-domain's folder, and upload PrestaShop there.
 
 On FileZilla's left side, you should now have the local folder where you keep the PrestaShop files from the Zip archive, and on the right side, the destination location. If you haven't done it yet, uploading is simple: select the three files from the local folder (use Ctrl-A), and either drag & drop them to the remote folder, or right-click on the selection and choose "Upload" in the context menu.
 
@@ -111,7 +111,7 @@ On FileZilla's left side, you should now have the local folder where you keep th
 
 Before you can actually install PrestaShop, you need to make sure your MySQL server has a database ready for PrestaShop's data. If not, you must create one.
 
-Creating a database can be done using any database administration tool. We will be using the free phpMyAdmin tool ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net)), which should come pre-installed on most web hosting.
+Creating a database can be done using any database administration tool. We will be using the free phpMyAdmin tool ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net/)), which should come pre-installed on most web hosting.
 
 Some hosts prefer to have customers use a graphic control panel, such as cPanel, Plesk or a custom-made one. Make sure you read your host's documentation about handling MySQL databases, and create a database for your shop by following their specific explanations.
 
@@ -145,7 +145,7 @@ This page is a quick intro into the installation process. You can choose the lan
 
 ![](<../.gitbook/assets/53641236 (1).png>)
 
-You also get a link to the documentation site ([http://doc.prestashop.com/](http://doc.prestashop.com)), and a link to our Support offer. You can learn more about our support service by going to [http://support.prestashop.com/en/](http://support.prestashop.com/en/).
+You also get a link to the documentation site ([http://doc.prestashop.com/](http://doc.prestashop.com/)), and a link to our Support offer. You can learn more about our support service by going to [http://support.prestashop.com/en/](http://support.prestashop.com/en/).
 
 Select the language in which you wish the installer to be, then click the "Next" button. This will also set the default language for your PrestaShop installation – but other languages will also be available for you to enable.
 
@@ -261,7 +261,7 @@ This page contains a form that enables you to tell PrestaShop where the database
 
 Fill all the fields with the database connection information provided by your web-host:
 
-* **Database server address**. The hostname of your MySQL server. It can be tied to your domain name (i.e. [http://sql.example.com](http://sql.example.com)), tied to your web host (i.e. [http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com)), or simply be an IP address (i.e. 46.105.78.185).
+* **Database server address**. The hostname of your MySQL server. It can be tied to your domain name (i.e. [http://sql.example.com](http://sql.example.com/)), tied to your web host (i.e. [http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com/)), or simply be an IP address (i.e. 46.105.78.185).
 * **Database name**. The name of the database where you want PrestaShop to store its data. This is either an existing database on your MySQL server, or the one that you created using phpMyAdmin (or any other SQL tool) in the "Creating a database for your shop" section of this guide.
 * **Database login**. The name of the MySQL user that has access to your database.
 * **Database password**. The password of the MySQL user.
@@ -309,6 +309,6 @@ Finally, in order to close all potentially malicious doors, use your FTP client 
 
 **Congratulations! Installation is now complete.**
 
-Log in to the PrestaShop back office by going to your newly-renamed "admin" folder, and start filling your catalog with products, adding carriers and shipping costs, adding brands and suppliers, changing the theme, and generally configuring the many settings to suit your tastes and needs. See the user guide's "[First steps with PrestaShop 1.7](../user-guide/first-steps.md)" chapter for more information.
+Log in to the PrestaShop back office by going to your newly-renamed "admin" folder, and start filling your catalog with products, adding carriers and shipping costs, adding brands and suppliers, changing the theme, and generally configuring the many settings to suit your tastes and needs. See the user guide's "[First steps with PrestaShop V.8](../user-guide/first-steps.md)" chapter for more information.
 
 You should regularly back up your database and files, ideally on more than one computer, in case of problems related to hardware or security.

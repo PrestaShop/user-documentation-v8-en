@@ -44,7 +44,7 @@ Some fields have a little information popup available (represented by an "i" log
 
 Imported data file must be in text-file, using a CSV-based format and the accompanying `.csv` file extension. We recommend using a semicolon ";" as a field separator. If you textual data (product description and such) contains semicolons, you should either remove them, or choose another separator in the "Field separator" option.
 
-You can create a CSV file using any text editor (we recommend Notepad++: [http://notepad-plus-plus.org/](http://notepad-plus-plus.org)), but we do advise you to use a spreadsheet program, then save your work in the CSV format. Using a spreadsheet program enables you to have an easier and more visual grasp of your data, in comparison to the plain text file. You can use the commercial Microsoft Excel ([http://office.microsoft.com/en-us/excel/](http://office.microsoft.com/en-us/excel/) or the free [OpenOffice.org](http://openoffice.org) [http://www.openoffice.org/](http://www.openoffice.org) Calc.
+You can create a CSV file using any text editor (we recommend Notepad++: [http://notepad-plus-plus.org/](http://notepad-plus-plus.org/)), but we do advise you to use a spreadsheet program, then save your work in the CSV format. Using a spreadsheet program enables you to have an easier and more visual grasp of your data, in comparison to the plain text file. You can use the commercial Microsoft Excel ([http://office.microsoft.com/en-us/excel/](http://office.microsoft.com/en-us/excel/) or the free [OpenOffice.org](http://openoffice.org) [http://www.openoffice.org/](http://www.openoffice.org/) Calc.
 
 Here is a sample import file, with a list of products:
 

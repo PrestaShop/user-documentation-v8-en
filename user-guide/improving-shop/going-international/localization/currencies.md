@@ -101,4 +101,4 @@ A simple search on the internet is usually sufficient to find a currency exchang
 
 [https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD)
 
-For cryptocurrencies, you can visit the following websites: [https://coinmarketcap.com/](https://coinmarketcap.com) \
+For cryptocurrencies, you can visit the following websites: [https://coinmarketcap.com/](https://coinmarketcap.com/) \
