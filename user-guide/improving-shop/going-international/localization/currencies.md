@@ -80,7 +80,7 @@ If a product costs 15 euros, it will cost 18,30 dollars. (15\*1,22 = 18,3)&#x20;
 On the contrary, if a product costs 15 dollars, it will cost 12,30 euros. (15/1,22 = 12,3)
 
 {% hint style="info" %}
-Rates on PrestaShop are provided by the ECB ([https://www.ecb.europa.eu/home/html/index.en.html](https://www.ecb.europa.eu/home/html/index.en.html)) and updated every day. However, note that they might slightly differ from the current ones as these rates can fluctuate greatly in a short time.
+Rates on PrestaShop are provided by Fixer ([https://fixer.io/](https://fixer.io/)) and are updated every day. However, note that they might slightly differ from the current ones as these rates can fluctuate greatly in a short time.
 {% endhint %}
 
 Do not forget to regularly update the rates, by following these steps:&#x20;
