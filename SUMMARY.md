@@ -10,7 +10,6 @@
   * [Misc. information](getting-started/misc-information.md)
 * [User Guide](user-guide/README.md)
   * [Connecting to the PrestaShop back office](user-guide/connecting-back-office.md)
-  * [Discovering the Administration Area](user-guide/discovering-administration-area.md)
   * [First steps with PrestaShop V.8](user-guide/first-steps.md)
   * [Selling with PrestaShop](user-guide/selling/README.md)
     * [Managing your Orders](user-guide/selling/managing-orders/README.md)
@@ -128,3 +127,4 @@
     * [Sample Usages and Specifics](user-guide/managing-multiple-stores/sample-usages-and-specifics.md)
   * [Browsing the front office](user-guide/browsing-front-office.md)
   * [Complying with the GDPR](user-guide/gdpr.md)
+  * [Discovering the Administration Area](user-guide/discovering-administration-area.md)
