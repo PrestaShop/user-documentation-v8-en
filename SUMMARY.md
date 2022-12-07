@@ -53,7 +53,6 @@
         * [Module notifications](user-guide/improving-shop/managing-modules/modules-and-services/module-notifications.md)
         * [Modules Selection](user-guide/improving-shop/managing-modules/modules-and-services/modules-selection.md)
         * [Installed modules](user-guide/improving-shop/managing-modules/modules-and-services/installed-modules.md)
-      * [Module Catalog](user-guide/improving-shop/managing-modules/module-catalog.md)
     * [Customizing your store design](user-guide/improving-shop/customizing-store-design/README.md)
       * [Theme and Logo](user-guide/improving-shop/customizing-store-design/theme-and-logo.md)
       * [Theme Catalog](user-guide/improving-shop/customizing-store-design/theme-catalog.md)

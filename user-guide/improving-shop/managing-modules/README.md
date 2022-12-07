@@ -7,7 +7,7 @@ The range of actions is virtually unlimited: the extensibility of PrestaShop mak
 This chapter contains the following sections:
 
 * [Modules and Services](modules-and-services/)
-* [Modules Catalog](module-catalog.md)
+* [Modules Catalog](broken-reference)
 
 The "Modules" section of the back office is currently being reworked. Changes are expected from PrestaShop 1.7.5 to the next minor versions, and that is why we would rather not document it right now but wait for the whole rework to be over. Don't panic, as we want it to remain intuitive, you probably won't need help!
 
