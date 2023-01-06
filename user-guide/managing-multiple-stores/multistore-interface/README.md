@@ -4,7 +4,9 @@
 
 ### Understanding the multistore page organization
 
-When the multistore feature is enabled, a new page is available under the **Advanced Parameters** menu: the **Multistore** page.
+To access the Multistore page, you need to activate the feature in **Advanced Settings > General**.&#x20;
+
+A new page is then available in the **Advanced Settings** menu: the Multistore page.
 
 This page is divided into 3 sections:
 
