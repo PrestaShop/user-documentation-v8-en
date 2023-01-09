@@ -24,15 +24,15 @@ Divided into **6 sections**, the page provides you all the details about an orde
 * total price&#x20;
 * date and hour of validation
 
-![](<../../../../.gitbook/assets/image (2).png>)
+![](<../../../../.gitbook/assets/image (2) (1).png>)
 
 :arrow\_upper\_left: In the **top left-hand corner**, the **Customer section** gives you information about the customer and the private note, if any. You can even access the customer's personal file to see more details.
 
-![](<../../../../.gitbook/assets/image (5).png>)
+![](<../../../../.gitbook/assets/image (5) (1).png>)
 
 :arrow\_upper\_right: In the **top right-hand corner**, the **Products section** gives you access to various details on the ordered products.
 
-![](<../../../../.gitbook/assets/image (6).png>)
+![](<../../../../.gitbook/assets/image (6) (1).png>)
 
 :arrow\_down\_small: Just under the Products section, there is an **administrative section** that contains **four tabs** that give you access to the:&#x20;
 
@@ -41,11 +41,11 @@ Divided into **6 sections**, the page provides you all the details about an orde
 * shipping information&#x20;
 * merchandise returns
 
-![](<../../../../.gitbook/assets/image (17).png>)
+![](<../../../../.gitbook/assets/image (17) (1).png>)
 
 :arrow\_lower\_right: In **the bottom right-hand corner**, the **Payment section** gives you information about the payment details (date of the transaction, method used, total amount, etc.) You can also add a new payment.&#x20;
 
-![](<../../../../.gitbook/assets/image (4).png>)
+![](<../../../../.gitbook/assets/image (4) (1).png>)
 
 :arrow\_lower\_left: Finally, in **the bottom left-hand corner**, the **Messages section** allows you to send a message to the customer about their order, or leave a private message for your team.
 
