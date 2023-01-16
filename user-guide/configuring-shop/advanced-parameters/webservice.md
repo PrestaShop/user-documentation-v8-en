@@ -32,14 +32,14 @@ The webservice configuration is pretty easy:
 * **Enable PrestaShop's webservice**. If you do not want anyone to access your shop through third-party tools and applications, just keep it disabled.
 * **Enable CGI mode for PHP**. The CGI mode is a special setting for the Apache server, where you tell it to use PHP as a CGI script rather than an Apache module. While the CGI mode has a reputation of being more secure, it has been found to have a security flaw as recently as May 2012. Ask your web host for advice.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ## Enable PrestaShop webservice <a href="#webservice-configuration" id="webservice-configuration"></a>
 
 When enabling PrestaShop's webservice, the **status and URL of your store’s webservice** are displayed at the **top of the page** in _Advanced parameters > Webservice > Webservice status._ This feature helps troubleshoot common problems.
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 ## Perform partial updates <a href="#webservice-configuration" id="webservice-configuration"></a>
 
-You can **perform partial updates** on webservice endpoints using the [PATCH method](https://en.wikipedia.org/wiki/PATCH\_\(HTTP\)). This means integrations can update part of a ressource, instead of all the fields at once.
+You can **perform partial updates** on webservice endpoints using the [PATCH method](https://en.wikipedia.org/wiki/PATCH\_\(HTTP\)). This means integrations can update part of a resource, instead of all the fields at once.

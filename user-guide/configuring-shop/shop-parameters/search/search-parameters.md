@@ -38,7 +38,7 @@ Finally, the "Indexing" option enables you to have a product be indexed as soon 
 
 This section enables you to configure the behavior of your shop's search function:
 
-![](<../../../../.gitbook/assets/image (20) (1).png>)
+![](<../../../../.gitbook/assets/image (20).png>)
 
 * **Search within word:** This option improves search by allowing the customer to make queries that do not only match the start of the search word; for instance, "lou" for "blouse".
 * **Search exact end match:** With this option, the search can give results that will match exactly the end of the search word. For instance, if a customer searches "book", they will see "notebook", but not "bookcase"

@@ -4,9 +4,9 @@
 
 ### Understanding the multistore page organization
 
-To access the Multistore page, you need to [enable the feature](../#managingmultipleshops-enablingthemultistorefeature) in **Advanced Settings > General**.&#x20;
+To access the Multistore page, you need to [enable the feature](../#managingmultipleshops-enablingthemultistorefeature) in **Shop Parameters > General**.&#x20;
 
-A new page is then available in the **Advanced Settings** menu: the **Multistore page.**
+A new page is then available in the **Advanced Parameters** menu: the **Multistore page.**
 
 This page is divided into 3 sections:
 
@@ -46,13 +46,13 @@ The drop-down selector at the top of each page of the back office indicates the 
 
 The multistore interface evolves and the drop-down selector turns into a header on most of the pages. &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 The color of each store or group of stores can be customized on the **Advanced Parameters > Multistore** page. Depending on the store you are working on, the header will change color, allowing you to know at a glance what context you are in.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ### Make changes to a group of stores or to a specific store
 
@@ -84,7 +84,7 @@ If the box is checked next time you go to the page, it means that the parameter 
 
 For example, in the screenshot below, the box next to the maintenance text parameter is checked. This means that this parameter is customized in Store 1.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ### Keep track of the changes made on a single store
 
@@ -94,8 +94,8 @@ Thanks to the specific settings drop-down, if you make changes to a specific sto
 
 So, if you see this drop-down next to a parameter, it means that this parameter has been customized in at least one store. Deploy the drop-down to know which store(s) are concerned.
 
-![](<../../../.gitbook/assets/Untitled (2).png>)
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 **Customized**: The parameter was modified in the store.
 
-**Inherited**: The parameter is set in the same way as in all stores.
+**Inherited**: The parameter is set in the same way in all stores.

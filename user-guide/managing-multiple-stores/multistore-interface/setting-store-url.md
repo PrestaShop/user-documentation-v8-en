@@ -42,7 +42,7 @@ To set a URL for a store**:**
 
 **URL options:**
 
-![](<../../../.gitbook/assets/image (51).png>)
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 * **Shop:** Selected the store on which you want to set the URL.
 * **Main URL:** Switch the button to "Yes" if you want all the URLs of the store to redirect to the main URL.
@@ -50,7 +50,7 @@ To set a URL for a store**:**
 
 **Shop URL:**
 
-![](<../../../.gitbook/assets/image (50).png>)
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 *   **Domain:** Enter the store's domain name. You can indicate a sub-domain if needed. Just make sure it doesn't contain '`http://`', or any '`/`'.&#x20;
 
@@ -60,5 +60,5 @@ To set a URL for a store**:**
 *   **Virtual URL:** Thanks to URL rewriting, you can use this option if you want to create a store with a URL that doesn't exist on your server, without having to create a sub-folder. For example, if you want your store to be available with the URL `www.example.com/my-store/shoes/`, you have to set `shoes/` in this field, assuming that `my-store/` is your physical URL.&#x20;
 
     Friendly URLs must be enabled in **Shop Parameters >Traffic & SEO**. Note that this option only works for subfolder stores, not subdomain stores.&#x20;
-* **Final URL:** Here, you can get a preview of what the store's URL will look like, based on above settings.&#x20;
+* **Final URL:** Here, you can get a preview of what the store's URL will look like, based on the above settings.&#x20;
 

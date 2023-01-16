@@ -32,7 +32,7 @@ The header is divided into two parts.&#x20;
 
 The upper part of the header contains:
 
-![Upper part of the header](<../.gitbook/assets/image (29).png>)
+![Upper part of the header](<../.gitbook/assets/image (29) (1).png>)
 
 * **A link to the contact page**&#x20;
 * **A language selector:** if more than one language is available on the store, customers can choose in which language they want to see the store.&#x20;
@@ -72,7 +72,7 @@ The footer is divided into two parts.
 
 :arrow\_right:The upper part of the footer contains a subscription block for your newsletter, allowing customers to receive special offers. This subscription form is managed by the "Newsletter subscription" module.
 
-![Newsletter subscription block](<../.gitbook/assets/image (28).png>)
+![Newsletter subscription block](<../.gitbook/assets/image (28) (1).png>)
 
 {% hint style="info" %}
 Please note that sending the newsletter is your responsibility. With the "Newsletter" module you can generate a .csv file containing all registered customers and their e-mails. You will then be able to import this file into any emailing system.
@@ -125,7 +125,7 @@ The lower part of the footer contains 4 blocks giving access to very useful page
 
 #### The left column
 
-![In red, the "Category" block. In blue, the "Filter by" block.](<../.gitbook/assets/image (9).png>)
+![In red, the "Category" block. In blue, the "Filter by" block.](<../.gitbook/assets/image (9) (1).png>)
 
 A category is a hierarchical way of sorting products: it can contain an unlimited number of subcategories, which allows you to easily switch from general listings to more specific products by following a logical path.&#x20;
 
@@ -158,7 +158,7 @@ All product lists are identical on PrestaShop, regardless of the nature of the p
 * The name of the product
 * The price of the product
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (33) (1).png>)
 
 This presentation in a grid allows customers to see the main product information at a glance, therefore speeding up the decision-making process.
 
@@ -172,7 +172,7 @@ Products can be sorted by price (high to low or low to high), name (A to Z or Z 
 
 ### The product page
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
 The product page presents the information you entered from the Catalog > Products page of your back office. Depending on the theme used, a product page can be very complete, with detailed information, or simply present the essential information.
 
