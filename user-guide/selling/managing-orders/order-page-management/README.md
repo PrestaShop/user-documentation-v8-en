@@ -24,7 +24,7 @@ Divided into **6 sections**, the page provides you all the details about an orde
 * total price&#x20;
 * date and hour of validation
 
-![](<../../../../.gitbook/assets/image (2).png>)
+![](<../../../../.gitbook/assets/image (2) (1).png>)
 
 :arrow\_upper\_left: In the **top left-hand corner**, the **Customer section** gives you information about the customer and the private note, if any. You can even access the customer's personal file to see more details.
 
@@ -32,7 +32,7 @@ Divided into **6 sections**, the page provides you all the details about an orde
 
 :arrow\_upper\_right: In the **top right-hand corner**, the **Products section** gives you access to various details on the ordered products.
 
-![](<../../../../.gitbook/assets/image (6).png>)
+![](<../../../../.gitbook/assets/image (6) (1).png>)
 
 :arrow\_down\_small: Just under the Products section, there is an **administrative section** that contains **four tabs** that give you access to the:&#x20;
 
@@ -49,7 +49,7 @@ Divided into **6 sections**, the page provides you all the details about an orde
 
 :arrow\_lower\_left: Finally, in **the bottom left-hand corner**, the **Messages section** allows you to send a message to the customer about their order, or leave a private message for your team.
 
-![](<../../../../.gitbook/assets/image (7) (1).png>)
+![](<../../../../.gitbook/assets/image (7) (1) (1).png>)
 
 ## **In this section**
 

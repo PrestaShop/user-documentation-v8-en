@@ -17,7 +17,7 @@ The orders are organized by date, from newest to oldest.&#x20;
 
 Use the filters at the top of the table to narrow down your search and click on the “Search” button.
 
-![](https://lh6.googleusercontent.com/d2z7pDl22SCy0etaWt\_7qSVhAGw0AcDdiAPsrE37uqPjC3ArvZMso2IhIzN6j1mI1VnKEGSWhhW7Sd-qDRg\_NcWvlwlN9JjmE5iIWnZiAuEa6jzKqpQDYkz2vc-yVOBDampSzk-8)
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ## **Exporting an order**&#x20;
 
@@ -68,7 +68,7 @@ Changing the status from the order listing can also be very useful if you want t
 * Select “Change order status
 
 {% hint style="info" %}
-You may have noticed a color change of the order status: you have a good eye! We indeed changed the color for better readability when releasing the 1.7.7 version of PrestaShop.
+You may have noticed a color change of the order status: you have a good eye! The color has been changed for better readability upon release of  the 1.7.7 version of PrestaShop.
 {% endhint %}
 
 ## **Downloading the invoice and delivery slip**

@@ -46,13 +46,13 @@ The drop-down selector at the top of each page of the back office indicates the 
 
 The multistore interface evolves and the drop-down selector turns into a header on most of the pages. &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 The color of each store or group of stores can be customized on the **Advanced Parameters > Multistore** page. Depending on the store you are working on, the header will change color, allowing you to know at a glance what context you are in.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ### Make changes to a group of stores or to a specific store
 
@@ -84,7 +84,7 @@ If the box is checked next time you go to the page, it means that the parameter 
 
 For example, in the screenshot below, the box next to the maintenance text parameter is checked. This means that this parameter is customized in Store 1.
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 ### Keep track of the changes made on a single store
 
@@ -94,7 +94,7 @@ Thanks to the specific settings drop-down, if you make changes to a specific sto
 
 So, if you see this drop-down next to a parameter, it means that this parameter has been customized in at least one store. Deploy the drop-down to know which store(s) are concerned.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 **Customized**: The parameter was modified in the store.
 

@@ -42,7 +42,7 @@ The upper part of the header contains:
 
 The lower part of the header is larger, it contains:
 
-![Lower part of the header](<../.gitbook/assets/image (25) (1).png>)
+![Lower part of the header](<../.gitbook/assets/image (25) (1) (1).png>)
 
 * **The store logo:** by clicking on this logo, customers will be automatically redirected to the homepage of the store. Don't forget to change the default logo by adding your own from the Design > Theme & Logo page of the back office!
 * **The menu:** by default, the categories "Clothing", "Accessories" and "Art" are displayed, and subcategories appear on mouseover. To customize the menu with your own categories, you must configure the "Main Menu" module.&#x20;
@@ -72,7 +72,7 @@ The footer is divided into two parts.
 
 :arrow\_right:The upper part of the footer contains a subscription block for your newsletter, allowing customers to receive special offers. This subscription form is managed by the "Newsletter subscription" module.
 
-![Newsletter subscription block](<../.gitbook/assets/image (28) (1).png>)
+![Newsletter subscription block](<../.gitbook/assets/image (28).png>)
 
 {% hint style="info" %}
 Please note that sending the newsletter is your responsibility. With the "Newsletter" module you can generate a .csv file containing all registered customers and their e-mails. You will then be able to import this file into any emailing system.
@@ -158,13 +158,13 @@ All product lists are identical on PrestaShop, regardless of the nature of the p
 * The name of the product
 * The price of the product
 
-![](<../.gitbook/assets/image (33) (1).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 This presentation in a grid allows customers to see the main product information at a glance, therefore speeding up the decision-making process.
 
 On mouseover, customers can click on the magnifying glass to access a quick overview of the product. They will then have access, in addition to the information previously stated, to the product description, and will be able to add the product to their cart after having selected the attributes (if any) and entered the desired quantity.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 #### Products sorting
 
@@ -172,7 +172,7 @@ Products can be sorted by price (high to low or low to high), name (A to Z or Z 
 
 ### The product page
 
-![](<../.gitbook/assets/image (34) (1).png>)
+![](<../.gitbook/assets/image (34).png>)
 
 The product page presents the information you entered from the Catalog > Products page of your back office. Depending on the theme used, a product page can be very complete, with detailed information, or simply present the essential information.
 

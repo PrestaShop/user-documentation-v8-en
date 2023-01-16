@@ -42,7 +42,7 @@ These tabs allow you to **manage employee and customer sessions**. To delete a s
 
 To access the back office, the employee or customer will need to sign back in using their email and password.
 
-<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption><p>The <strong>Employee Sessions</strong> tab allows you to manage employee sessions.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (76) (1).png" alt=""><figcaption><p>The <strong>Employee Sessions</strong> tab allows you to manage employee sessions.</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption><p>The <strong>Customer Sessions</strong> tab allows you to manage customer sessions.</p></figcaption></figure>
 

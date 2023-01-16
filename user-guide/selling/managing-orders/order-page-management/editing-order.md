@@ -27,7 +27,7 @@ Any module impacting the order monitoring might extend this status list.
 
 In order to get a better view of the order's activity, every status change is recorded in the “Status” tab, as well as its author and the date/time of the update.
 
-![](<../../../../.gitbook/assets/image (1).png>)
+![](<../../../../.gitbook/assets/image (1) (1).png>)
 
 {% hint style="warning" %}
 It is very important to **update a status only when it has been clearly confirmed**. For example, do not mark an order as “Delivered” when you have only sent the package, use “Shipped” instead.&#x20;
@@ -107,7 +107,7 @@ If a customer asks you to modify one of these addresses, go to the Customer sect
 
 You can edit the existing address or select another address, from the list of addresses that were provided by the customer.
 
-![](<../../../../.gitbook/assets/image (10).png>)
+![](<../../../../.gitbook/assets/image (10) (1).png>)
 
 If the address you want to link to the order is not already registered in PrestaShop, you must create it first. To do this:
 
@@ -116,7 +116,7 @@ If the address you want to link to the order is not already registered in Presta
 * Fill in the form and save
 * Go back to the order details page and select the address in the drop-down list.
 
-![Adresses section of the Customer page](<../../../../.gitbook/assets/image (13) (1).png>)
+![Adresses section of the Customer page](<../../../../.gitbook/assets/image (13).png>)
 
 ## **Managing payments and discounts**
 

@@ -18,14 +18,12 @@ Here is a quick list of what you need to get started with the installation of Pr
 
     * Unix/Linux hosting.
     * Apache Web Server 2.2 or later or nginx Web Server.
-      * Apache module settings: \
-
+      * Apache module settings:&#x20;
         * `mod_rewrite` enabled,&#x20;
         * `mod_security` disabled,
         * `mod_auth_basic` enabled.
     * At least 256 Mb of RAM is dedicated to PHP. The more the better.
-* Access codes to your FTP server, your MySQL database\
-
+* Access codes to your FTP server, your MySQL database
   * These should be provided by your web host if you are not doing a local installation.
 * Any text editor.
 * Any FTP client.
@@ -47,7 +45,7 @@ PrestaShop is a web application: it needs to be installed on a web server in ord
 
 ### Registering a domain name
 
-Before downloading or installing anything, you need to provide a home for your PrestaShop online store. That is made of two components: a domain name, and a web server. A domain is theonline identifier for your website, such as [`example.com`](http://example.com), [`myonlineshop.net` ](http://myonlineshop.net)or [`agreatbrand.store`](https://agreatbrand.store/). It is the public face of your web server, and therefore of your store.
+Before downloading or installing anything, you need to provide a home for your PrestaShop online store. That is made of two components: a domain name, and a web server. A domain is the online identifier for your website, such as [`example.com`](http://example.com), [`myonlineshop.net` ](http://myonlineshop.net)or [`agreatbrand.store`](https://agreatbrand.store/). It is the public face of your web server, and therefore of your store.
 
 You need to buy a domain name for your store. You might get one when you get your web hosting in place: many web hosts offer a free domain with every new account. They might be free for a year, or for as long as you are a client of that web host. This makes it easy to get the full package (hosting+domain name) in one go. For more information about domains, see the list of independent registrars below or follow the link: [https://www.prestashop.com/en/domain](https://www.prestashop.com/en/domain).
 

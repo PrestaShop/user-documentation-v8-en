@@ -50,7 +50,7 @@ PrestaShop should now be installed and ready to be configured! Continue to the [
 
 You can download the latest version of PrestaShop at [http://www.prestashop.com/en/download](http://www.prestashop.com/en/download).
 
-![](<../.gitbook/assets/51840082 (4).png>)
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 You only have one download option: the latest stable version, ready for all kinds of online stores.
 
@@ -58,7 +58,7 @@ If you need to download any of the previous versions, go to this address: [https
 
 Note that it is never recommended to use any other version than the current stable one.
 
-Click on the "Download" button, and save the archive on your computer (such as on your Desktop). You should get a file named "prestashop\_1.7.0.0.zip" (or an equivalent, depending on the version numbers).
+Click on the "Download" button, and save the archive on your computer (such as on your Desktop). You should get a file named "prestashop\_1.7.8.8.zip" (or an equivalent, depending on the version numbers).
 
 The downloaded file is a Zip archive. In order to continue with the process, **you must uncompress the archive**.
 
@@ -73,11 +73,11 @@ If your operating system does not natively support Zip files, you can download a
   * WinZip Mac: [http://www.winzip.com/mac/](http://www.winzip.com/mac/)
   * Zipeg: [http://www.zipeg.com/](http://www.zipeg.com/)
 
-Using a Zip tool, extract the content of the archive to a known location on your hard-drive (such as on the Desktop again). **Do not upload the Zip file directly to your web server**.
+Using a Zip tool, extract the content of the archive to a known location on your hard drive (such as on the Desktop again). **Do not upload the Zip file directly to your web server**.
 
 The Zip archive has three items at its root :
 
-* The "prestashop.zip", which contains all the PrestaShop files that you will soon be uploading on your web server.
+* The "prestashop.zip", which contains all the PrestaShop files that you will soon be uploading to your web server.
 * The "Install\_PrestaShop.html" file, which opens this very page in your default browser.
 * The index.php file which launches the installation.
 
@@ -85,9 +85,9 @@ The "Install\_PrestaShop.html" must not be uploaded on your web server.
 
 ### Uploading PrestaShop
 
-You should now have a hosting space at your disposal (if not, read the "What you need to get started" chapter of this guide), and a folder on your hard-drive with the uncompressed PrestaShop archive.
+You should now have a hosting space at your disposal (if not, read the "What you need to get started" chapter of this guide), and a folder on your hard drive with the uncompressed PrestaShop archive.
 
-This step makes you upload the PrestaShop files on your hosting space. This is done by connecting your computer to your server using a tool known as a "FTP client", which you should have installed while reading the "What you need to get started" chapter. We will be using the free FileZilla ([http://filezilla-project.org/](http://filezilla-project.org/)).
+This step makes you upload the PrestaShop files on your hosting space. This is done by connecting your computer to your server using a tool known as an "FTP client", which you should have installed while reading the "What you need to get started" chapter. We will be using the free FileZilla ([http://filezilla-project.org/](http://filezilla-project.org/)).
 
 Connect to your hosting space using your FTP client, by using the connection details provided by your web host (if not, contact your host). Once connected, it is time to transfer the PrestaShop files from your computer to your server.
 
@@ -101,7 +101,7 @@ In the "Remote site" section (on the right), browse to the location where you wa
   * Some hosts may require you to place your files in a specific folder, such as `/htdocs`, `/public_html`, `/web`, `/www`, `/`[`yourdomainname.com`](http://yourdomainname.com), etc.
   * Other hosts' FTP server will simply log you directly into the proper upload space.
 * Your needs:
-  * If you want your shop to be the main website for your domain name (i.e., [http://www.example.com](http://www.example.com/)), upload PrestaShop at the root folder of the upload space (which may depend on the host).
+  * If you want your shop to be the main website for your domain name (i.e., [http://www.example.com](http://www.example.com/)), upload PrestaShop to the root folder of the upload space (which may depend on the host).
   * If you want your shop to be in a sub-folder of your domain name ([http://www.example.com/shop](http://www.example.com/shop)), you must first create a folder through FileZilla (right-click and choose "Create directory"), then upload PrestaShop in that folder.
   * If you want your shop to be in a sub-domain of your domain name ([http://shop.example.com](http://shop.example.com/)), you must first create a sub-domain. This depends on your host: you might be able to do it simply by adding a new folder with your FTP client, or you might have to create the sub-domain through your host's administration panel. Read your host's support documentation first. Once created, browse to the sub-domain's folder, and upload PrestaShop there.
 
@@ -113,13 +113,13 @@ Before you can actually install PrestaShop, you need to make sure your MySQL ser
 
 Creating a database can be done using any database administration tool. We will be using the free phpMyAdmin tool ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net/)), which should come pre-installed on most web hosting.
 
-Some hosts prefer to have customers use a graphic control panel, such as cPanel, Plesk or a custom-made one. Make sure you read your host's documentation about handling MySQL databases, and create a database for your shop by following their specific explanations.
+Some hosts prefer to have customers use a graphic control panel, such as cPanel, Plesk, or a custom-made one. Make sure you read your host's documentation about handling MySQL databases, and create a database for your shop by following their specific explanations.
 
 Connect to phpMyAdmin using your account credentials, which your host provided you with. It should be accessible through a standard URL, tied to your domain name, or host's domain name.
 
 ![](../.gitbook/assets/54264239.png)
 
-In the left column, you can see the databases currently available on your MySQL server. Some of them should be left alone, because they are either used by phpMyAdmin or by the host: `phpmyadmin`, `mysql`, `information_schema`, `performance_schema` and others. Read your host's documentation to know if one of these can be used as a default database.
+In the left column, you can see the databases currently available on your MySQL server. Some of them should be left alone because they are either used by phpMyAdmin or by the host: `phpmyadmin`, `mysql`, `information_schema`, `performance_schema` and others. Read your host's documentation to know if one of these can be used as a default database.
 
 Either way, you can create a brand new database by going in the "Database" tab and using the central form named "Create new database". Simply enter a unique name, and click "Create". The name of the database will be added to the list on the left. You can now use it to store PrestaShop's data.
 
@@ -127,13 +127,13 @@ Either way, you can create a brand new database by going in the "Database" tab a
 
 Now comes the part where it all comes together: installing PrestaShop.
 
-The installation process is quite easy, as it is streamlined by PrestaShop's auto-installer. You should be able to browse through it in handful of minutes. Make sure to read each page thoroughly so as not to miss any information.
+The installation process is quite easy, as it is streamlined by PrestaShop's auto-installer. You should be able to browse through it in a handful of minutes. Make sure to read each page thoroughly so as not to miss any information.
 
-To launch the installer, simply browse to PrestaShop's location on your web server: the script will automatically detect that PrestaShop is not yet installed, and will take you to the auto-installer. At the same time, this will unzip the prestashop.zip file that you had uploaded. Now all the PrestaShop files are available on your webserver.
+To launch the installer, simply browse to PrestaShop's location on your web server: the script will automatically detect that PrestaShop is not yet installed, and will take you to the auto-installer. At the same time, this will unzip the prestashop.zip file that you uploaded. Now all the PrestaShop files are available on your webserver.
 
 If you are making an installation on your own computer, this installation should be done in the PrestaShop folder on your local web server, which should be available at [`http://127.0.0.1/prestashop`](http://127.0.0.1/prestashop).
 
-From there on, you just have to read, click, and fill a few forms.
+From there on, you just have to read, click, and fill out a few forms.
 
 There are 6 steps. At the top of the page, the installation assistant gives you a visualization of where you are in the process: the gray circles turn into green check marks after each step is completed.
 
@@ -178,13 +178,13 @@ This page checks that everything is OK with your server configuration: PHP setti
 
 If anything goes wrong, the installer stops you here, enabling you to see the few technical details that need fixing, be it changing the PHP configuration or updating the file permissions.
 
-![](<../.gitbook/assets/39125010 (5).png>)
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 Here is a list of the checks that are performed during this third step:
 
 | Check                                                     | How/where to fix it?                                                                                      |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Is PHP 5.4 or later installed?                            | Web server                                                                                                |
+| Is PHP 5.6 or later installed?                            | Web server                                                                                                |
 | Can PrestaShop upload files?                              | php.ini file (`file_uploads`)                                                                             |
 | Can PrestaShop create new files and folders?              | File browser / FTP client / command line                                                                  |
 | Is the GD Library installed?                              | php.ini file (`extension=`[`php_gd2.so`](http://php\_gd2.so))                                             |
@@ -217,7 +217,7 @@ Permissions are the way a filesystem grants access rights to specific users or u
 
 Hence, if the installer shows that some files or folders do not have proper permission, you have to change these permissions yourself. This will require you to access your files on your web server, and therefore use your FTP client (such as FileZilla) or the command line.
 
-Log-in to your server account using your FTP client, browse to PrestaShop's folder, and find the folders that are marked by the installer as needing a permission change.
+Log in to your server account using your FTP client, browse to PrestaShop's folder, and find the folders that are marked by the installer as needing a permission change.
 
 CHMOD
 
@@ -262,16 +262,16 @@ This page contains a form that enables you to tell PrestaShop where the database
 Fill all the fields with the database connection information provided by your web-host:
 
 * **Database server address**. The hostname of your MySQL server. It can be tied to your domain name (i.e. [http://sql.example.com](http://sql.example.com/)), tied to your web host (i.e. [http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com/)), or simply be an IP address (i.e. 46.105.78.185).
-* **Database name**. The name of the database where you want PrestaShop to store its data. This is either an existing database on your MySQL server, or the one that you created using phpMyAdmin (or any other SQL tool) in the "Creating a database for your shop" section of this guide.
+* **Database name**. The name of the database where you want PrestaShop to store its data. This is either an existing database on your MySQL server or the one that you created using phpMyAdmin (or any other SQL tool) in the "Creating a database for your shop" section of this guide.
 * **Database login**. The name of the MySQL user that has access to your database.
 * **Database password**. The password of the MySQL user.
 * **Database engine**. The database engine is the core of your database server. InnoDB is the default one and you should use it, but the more technical among you might want to choose another engine. Generally, there is no need to change the default setting.
-* **Tables prefix**. The prefix for your database tables. "`ps_`" is the default, resulting in the PrestaShop SQL tables having names such as "`ps_cart`" or "`ps_customer`". We strongly recommend to customize your database prefix instead of using the default one. If you need to install more than one instance of PrestaShop on the same database, then you must use a different prefix for each installation. However, we do recommend that you create one database per installation of PrestaShop, if your web host allows it. Better yet: make one installation of PrestaShop, and enable the multistore feature in order to manage many stores from the same PrestaShop back-end.
+* **Tables prefix**. The prefix for your database tables. "`ps_`" is the default, resulting in the PrestaShop SQL tables having names such as "`ps_cart`" or "`ps_customer`". We strongly recommend customizing your database prefix instead of using the default one. If you need to install more than one instance of PrestaShop on the same database, then you must use a different prefix for each installation. However, we do recommend that you create one database per installation of PrestaShop, if your web host allows it. Better yet: make one installation of PrestaShop, and enable the multistore feature in order to manage many stores from the same PrestaShop back-end.
 * **Drop existing tables**. This is only available in "Dev mode". When re-installing PrestaShop, you can choose to drop the existing PrestaShop database tables in order to start on a clean slate.
 
 Click the "Test your database connection now!" button in order to check that you did use the correct server information.
 
-Click "Next": the install will start configuring your shop, creating and populating the database tables, etc. This might take a few minutes: please be patient and do not touch your browser!
+Click "Next": the installation will start configuring your shop, creating and populating the database tables, etc. This might take a few minutes: please be patient and do not touch your browser!
 
 ![](<../.gitbook/assets/39125014 (4) (1).png>)
 
@@ -302,7 +302,9 @@ An easy way to improve your installation's security is to delete some key files 
 
 Click on the "Manage your store" button in order to be taken to your administration area.
 
-Another way to secure your installation is to use a custom name for the administration folder: change the "admin" folder for something unique to you, such as "4dmin-1537" or "MySecReT4dm1n".\
+Another way to secure your installation is to use a custom name for the administration folder: change the "admin" folder for something unique to you, such as "4dmin-1537" or "MySecReT4dm1n".
+
+\
 **Write down the new name for your new "admin" folder**, because from now on you will access your administration pages using this address!
 
 Finally, in order to close all potentially malicious doors, use your FTP client to update the files and folders permissions to 664, or 666 if your host requires it. If it turns out low access rights prevent some modules to work, you should set permissions back to 755.

@@ -22,11 +22,11 @@ If you have no access to the `php.ini` file (which is often the case in shared h
 
 ## Activating PHP 5.6+
 
-To install PrestaShop, PHP 5.6+ must be activated. It is extended to PHP 7.2, but don't attempt to run PrestaShop using PHP 7.3, it won't work.
+To install PrestaShop 8, PHP 5.6+ must be activated. It is extended to PHP 7.2, but don't attempt to run PrestaShop using PHP 7.3, it won't work.
 
 Please do not hesitate to post a bug report concerning the tips needed to make PrestaShop run on your hosting service, on [GitHub](https://github.com/PrestaShop) (you will need an account). We will add them to this guide as we receive them.
 
-The following is a list of procedures of which we are currently aware of...
+The following is a list of procedures of which we are currently aware of.
 
 ### 1&1 IONOS
 
