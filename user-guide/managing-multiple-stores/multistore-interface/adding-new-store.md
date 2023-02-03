@@ -5,7 +5,7 @@ To add a new store, go to the **Advanced Parameters > Multistore** page, click o
 <figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 * **Shop name:** Enter a name for your store.
-* **Color:** From version 1.7.8.0, you can also set a different color for each of your stores. Depending on the store you are working on, the header will change color, allowing you to know at a glance what context you are in:
+* **Color:** You can also set a different color for each of your stores. Depending on the store you are working on, the header will change color, allowing you to know at a glance what context you are in:
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
@@ -25,11 +25,16 @@ You won't be able to move the store to another group later if you add it to a gr
 
 ### Importing data from another store
 
-You can select what data you want to import from a source store to this new store.
+You can select what data you want to import from a source store to this new store. To do so:
 
-To import data, start by selecting the source store from which you want to import data. Then, select the data to import. By default, all data items are selected. It is recommended to import all the modules, even if it means disabling some afterward, as the front office and major parts of the back office rely on modules.
+* **Select the source store** from which you want to import data.&#x20;
+* Then, **select the data to import**.&#x20;
+
+By default, all data items are selected. It is **recommended to import all modules**_,_ even if it means disabling some afterward. That's because the front office and major parts of the back office rely on modules.
 
 {% hint style="info" %}
-If you don't want to import any data, you can disable this feature. However, know that you will have to configure your store from scratch. Sharing data can save you time if both stores share some characteristics (employees or carriers, for example).&#x20;
+If you don't want to import any data, you can disable this feature. However, know that you will have to configure your store from scratch.&#x20;
+
+Sharing data can save you time if both stores share some characteristics (employees or carriers, for example).&#x20;
 {% endhint %}
 

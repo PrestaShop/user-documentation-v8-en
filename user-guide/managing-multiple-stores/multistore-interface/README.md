@@ -4,7 +4,9 @@
 
 ### Understanding the multistore page organization
 
-To access the Multistore page, you need to [enable the feature](../#managingmultipleshops-enablingthemultistorefeature) in **Shop Parameters > General**.&#x20;
+{% hint style="info" %}
+To access the Multistore page, you need to [enable the feature](../#managingmultipleshops-enablingthemultistorefeature) in **Shop Parameters > General** first.
+{% endhint %}
 
 A new page is then available in the **Advanced Parameters** menu: the **Multistore page.**
 
@@ -44,7 +46,7 @@ The drop-down selector at the top of each page of the back office indicates the 
 
 #### The header
 
-The multistore interface evolves and the drop-down selector turns into a header on most of the pages. &#x20;
+The multistore interface evolves and the drop-down Edit multistore page EN turns into a header on most of the pages. &#x20;
 
 <figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 

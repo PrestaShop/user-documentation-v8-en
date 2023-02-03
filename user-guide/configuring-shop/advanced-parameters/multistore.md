@@ -8,4 +8,4 @@ Turning your single-shop PrestaShop installation into a multi-shop one is very s
 2. Find the **"Enable Multistore"** option, select **"Yes"**.
 3. Save your changes.
 
-The "Advanced Parameters" menu will now feature the "Multistore" page, which is presented in detail in the "Managing multiple shops" chapter of this guide.
+The "Advanced Parameters" menu will now feature the "Multistore" page, which is presented in detail in the ["Managing multiple shops"](../../managing-multiple-stores/) chapter of this guide.

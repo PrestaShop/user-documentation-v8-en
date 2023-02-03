@@ -36,9 +36,9 @@ Alternatively, you can create an alias for your domain name that redirects to th
 
 To set a URL for a store**:**
 
-1. Select the store in the Multistore tree
-2. Click on the link "Click here to set a URL for this shop" in "Main URL" column of the table.
-3. Fill in the form&#x20;
+1. **Select the store** in the Multistore tree
+2. Click on the link **"Click here to set a URL for this shop" in "Main URL"** column of the table.
+3. **Fill in the form**&#x20;
 
 **URL options:**
 
