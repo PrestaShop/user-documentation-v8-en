@@ -19,7 +19,7 @@ In your back office, go the "Shop Parameters / General" page. Maintenance option
 * **Enable Store**. Simply set it to "No", and your front-end will display the maintenance page to your visitors, which simply states that your store will soon be back online.
 * **Maintenance IP**. This is where you must put your own IP address, so that you can still get access to your front page, and browse your store as if it was available to all. This is a must-do every time you put your store in maintenance mode, as you will always need to browse your front-end so as to make sure everything is in place as intended. \
   Simply click on the "Add my IP" button. You can add more IP addresses by separating them with commas.
-* **Custom maintenance text**. New in 1.7. You can now display a message of your own on the maintenance page, to inform your visitors when the site will be back for instance.\
+* **Custom maintenance text**. You can display a message of your own on the maintenance page, to inform your visitors when the site will be back for instance.\
   \
 
 
