@@ -76,7 +76,7 @@ To make changes:&#x20;
 Setting the multistore toggle to yes or checking a box makes the parameter(s) editable but doesn't change their value. It's up to you to make your adjustments and save.
 {% endhint %}
 
-#### Checkboxes (from version 1.7.8.0)
+#### Checkboxes
 
 Checkboxes are displayed when you are working in a single-store or group context. They allow you to modify a parameter for a specific store, or a group of stores and keep a record of this change.&#x20;
 
