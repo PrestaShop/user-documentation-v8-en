@@ -25,7 +25,7 @@ In your back office, go the "Shop Parameters / General" page. Maintenance option
 
 If you have already decided what your theme and products are, you can simply put your store in Catalog mode. This means that customers can browse your shop, but no price will be displayed, and they won't be able to add anything to their cart until you disable the Catalog mode.
 
-You can activate the Catalog mode by going to the "Shop Parameters / Products Settings" page, where it is the first option.
+You can activate the Catalog mode by going to the "Shop Parameters" > "Products Settings" page, where it is the first option.
 
 ![](<../.gitbook/assets/51185218 (3) (3) (3).png>)
 
@@ -125,8 +125,6 @@ You can edit these permissions this way: go to the "Permissions" tab, and select
 ### Configure your payment methods <a href="#firststepswithprestashop1.7-configureyourpaymentmethods" id="firststepswithprestashop1.7-configureyourpaymentmethods"></a>
 
 Your store is meant to earn money, and this can only become a reality if you use at least one payment module. Several modules are already available in the default install, which you can install and configure (from the "Installed Modules" page under the "Modules" menu, in the "Payments & Gateways" category), and create restrictions for them (in the "Preference" page under the "Payment" menu). Many payment modules require you to first set up an account on the service they were built for.
-
-You can also install other payment modules, downloaded from the Addons marketplace: [http://addons.prestashop.com/en/4-payments-gateways-prestashop-modules](http://addons.prestashop.com/en/4-payments-gateways-prestashop-modules)
 
 Check and bank wire are the only two payment methods that are enabled by default. If you choose to keep them, you **need** to configure them with your information: check order and address, account owner, and bank details (IBAN, BIC, etc.).
 
