@@ -116,7 +116,7 @@ If the address you want to link to the order is not already registered in Presta
 * Fill in the form and save
 * Go back to the order details page and select the address in the drop-down list.
 
-![Adresses section of the Customer page](<../../../../.gitbook/assets/image (13).png>)
+![Adresses section of the Customer page](<../../../../.gitbook/assets/image (13) (1).png>)
 
 ## **Managing payments and discounts**
 

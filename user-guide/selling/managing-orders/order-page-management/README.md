@@ -24,7 +24,7 @@ Divided into **6 sections**, the page provides you all the details about an orde
 * total price&#x20;
 * date and hour of validation
 
-![](<../../../../.gitbook/assets/image (2) (1).png>)
+![](<../../../../.gitbook/assets/image (2) (1) (1).png>)
 
 :arrow\_upper\_left: In the **top left-hand corner**, the **Customer section** gives you information about the customer and the private note, if any. You can even access the customer's personal file to see more details.
 

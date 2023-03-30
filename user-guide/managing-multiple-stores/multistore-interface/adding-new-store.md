@@ -11,7 +11,7 @@ To add a new store, go to the **Advanced Parameters > Multistore** page, click o
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Shop group:** Select the store group in which you want to add the new store. You can only select one group.&#x20;
 
