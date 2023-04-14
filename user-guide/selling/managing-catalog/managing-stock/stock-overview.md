@@ -34,7 +34,7 @@ At any time, these 3 notions of stock are linked by the following equation:
 
 _Physical stock - Reserved stock = Available stock_
 
-Editing __ the physical stock will also affect the available stock, and vice-versa.
+Editing the physical stock will also affect the available stock, and vice-versa.
 
 &#x20;By default, products are sorted by decreasing product\_id, meaning that the most recently created product will be on top. If there are more than 100 products and combinations, then the table is paginated.
 
@@ -74,7 +74,7 @@ The search bar looks for:
 * product’s name
 * product’s reference
 * supplier
-* **\[**_**beta as of 1.7.2.0**_**]** attributes’ values. This allows you to look for a specific attribute value like color. When typing ‘green’, you’ll see all products which share this color attribute value. This is still in beta though, and might not work with too short attribute values like with sizes: ‘S’, ‘M’, ‘L’.
+* attributes’ values. This allows you to look for a specific attribute value like color. When typing ‘green’, you’ll see all products which share this color attribute value. This is still in beta though, and might not work with too short attribute values like with sizes: ‘S’, ‘M’, ‘L’.
 
 ![](<../../../../.gitbook/assets/54266294 (3) (5) (3).gif>)
 
