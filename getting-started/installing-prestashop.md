@@ -1,7 +1,7 @@
 # Installing PrestaShop
 
 This chapter was written for those who intend to install PrestaShop on their online web server.\
-If you wish to install PrestaShop on your own computer, you should first follow the instructions on that page: [Installing PrestaShop on your computer](installing-prestashop-computer.md).
+If you wish to install PrestaShop on your own computer, you should first follow the instructions on that page: [Installing PrestaShop on your computer](installing-prestashop-computer.md)[.](https://docs.prestashop-project.org/v.8-documentation/v/english/getting-started/installing-prestashop-computer)
 
 If you have already read the instructions on that page, skip to the "Creating a database for your shop" section of this current page.
 
