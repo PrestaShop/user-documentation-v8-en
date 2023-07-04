@@ -1,6 +1,6 @@
 # Contributing to the documentation
 
-Just like PrestaShop itself, the [documentation](https://docs.prestashop-project.org/) is open to everyone for suggestions, ideas, and modifications. Anyone is welcome and even encouraged, to contribute to **translate**, **update**, or **write** the V.8 user documentation.
+Just like PrestaShop itself, the [documentation](https://docs.prestashop-project.org/) is open to everyone for suggestions, ideas, and modifications. Anyone is welcome and even encouraged, to contribute to **translate**, **update**, or **write** the PrestaShop 8 user documentation.
 
 ![](.gitbook/assets/build-puffin-writing.png)
 
