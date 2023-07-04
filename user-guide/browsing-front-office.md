@@ -68,7 +68,7 @@ You can also customize a banner or add a text block. Feel free to have a look at
 
 The footer is divided into two parts.
 
-![The footer](<../.gitbook/assets/image (27).png>)
+![The footer](<../.gitbook/assets/image (27) (1).png>)
 
 :arrow\_right:The upper part of the footer contains a subscription block for your newsletter, allowing customers to receive special offers. This subscription form is managed by the "Newsletter subscription" module.
 
@@ -145,7 +145,7 @@ Filtering their search allows customers to find the product they are looking for
 
 #### The category header
 
-![](<../.gitbook/assets/image (30) (1).png>)
+![](<../.gitbook/assets/image (30) (1) (1).png>)
 
 Categories have a header image and a description. You can configure this header from your back office on the Catalog > Categories page.&#x20;
 
@@ -158,7 +158,7 @@ All product lists are identical on PrestaShop, regardless of the nature of the p
 * The name of the product
 * The price of the product
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (33) (1).png>)
 
 This presentation in a grid allows customers to see the main product information at a glance, therefore speeding up the decision-making process.
 
@@ -194,7 +194,7 @@ For more information on the configuration of the product page, please visit the 
 
 From the header, customers can see how many items are in their cart. By clicking on the "Cart" button, customers can access the content of the cart and finalize their order.
 
-![The "Cart" page](<../.gitbook/assets/image (32).png>)
+![The "Cart" page](<../.gitbook/assets/image (32) (1).png>)
 
 A summary of the content of the cart is displayed. After checking that the content of the order is correct, customers can click on the "Proceed to checkout" button. They are then redirected to the checkout page.
 

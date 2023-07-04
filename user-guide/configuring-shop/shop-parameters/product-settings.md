@@ -4,7 +4,7 @@ This page contains the preferences pertaining to how your products are to be han
 
 ## General preferences <a href="#productsettings-generalpreferences" id="productsettings-generalpreferences"></a>
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 * **Catalog mode**. Enabling catalog mode turns your store into a simple gallery of products, with no way to buy the items whatsoever.
 * **Number of days for which the product is considered 'new'**. When you add a product to your store, it is considered new and it is available on the "New products" page. The field allows you to specify how many days the product will remain visible on this page. With this feature, you choose how to display and update your store's novelties. The "New products" page is usually most accessed by your regular customers.
@@ -15,7 +15,7 @@ This page contains the preferences pertaining to how your products are to be han
 
 ## Pagination preferences <a href="#productsettings-paginationpreferences" id="productsettings-paginationpreferences"></a>
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 * **Products per page**. Indicate how many products are displayed on the pages of your categories.
 * **Default order by**. Indicate the order of products in your store's categories. 6 choices are available:
@@ -31,7 +31,7 @@ This page contains the preferences pertaining to how your products are to be han
 
 ## Product page preferences <a href="#productsettings-productpagepreferences" id="productsettings-productpagepreferences"></a>
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 * **Display available quantities on the product page**. By enabling this feature, your visitors can see the quantities of each product available in stock. Displaying this information can be used to stimulate sales in the case where the quantity in stock is low. The quantities displayed are the selected attributes and combination.
 * **Display remaining quantities when quantity is lower than**. You can choose to display an alert when the remaining available stock for a product gets below a certain level. This option is particularly useful for promoting purchases. The text and placement of the alert depend on the theme; in the default theme, it is "Last items in stock", and is placed next to the "Add to cart" button.
@@ -44,7 +44,7 @@ This page contains the preferences pertaining to how your products are to be han
 
 ## Products stock preferences <a href="#productsettings-productsstockpreferences" id="productsettings-productsstockpreferences"></a>
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 * **Enable stock management**. This option gives you access to basic stock management options and features: you can set the current quantity of product, have PrestaShop lower it for each order, and "re-stock" for each canceled or returned order. By default, you should leave this feature enabled, as disabling it affects the entire inventory management of your store. Only if you do not have any physical inventory should you disable it – for instance, if you only have virtual products.
 *   **Default pack stock management**. When you sell packs of products, the way your stock is updated depends on this option. You have three possibilities:
@@ -68,7 +68,7 @@ This page contains the preferences pertaining to how your products are to be han
 
     &#x20;
 
-    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 If set to 0 however, the remaining quantities will not be shown to customers and the feature will be disabled. This will not show the "Last items in stock" message anymore.
 
@@ -80,4 +80,4 @@ If set to 0 however, the remaining quantities will not be shown to customers and
 * **Delivery time of out-of-stock products with allowed backorders**. Recommended to European merchants in order to comply with the legislation. The feature will be disabled if left empty.
 * **Display out-of-stock label on product listing pages.** This feature helps your customers to see at first glance if a product is available in your store by displaying an out-of-stock label next to your product's listing.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>

@@ -52,7 +52,7 @@ _A new column appears in the Products table, entitled “Partial refund”._
 
 Merchandise return requests from the customer are available in the Merchandise returns tab.&#x20;
 
-![Merchandise returns tab in the administrative section (Order page)](<../../../../.gitbook/assets/image (24).png>)
+![Merchandise returns tab in the administrative section (Order page)](<../../../../.gitbook/assets/image (24) (1).png>)
 
 **Follow the steps:**
 
@@ -65,7 +65,7 @@ _A new column appears in the Products table, entitled “Return products”._
 * Select the products and quantity returned
 * Choose one of the refund options\
   See “[Choosing a refund option](creating-returns-and-refunds.md#choosing-a-refund-option)” below for more details
-* Click on the “Return products” button to validate ****&#x20;
+* Click on the “Return products” button to validate&#x20;
 
 ## **‌Choosing a refund option**
 

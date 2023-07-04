@@ -13,8 +13,20 @@ The experimental product page is available on PrestaShop 1.7.8. This page benefi
 
 To make the experimental product page visible in your back office, enable the feature in **Advanced Parameters > Experimental Features** and save.
 
-![](<../../../.gitbook/assets/image (43).png>)
+![](<../../../.gitbook/assets/image (43) (1).png>)
 
 Then, go to **Catalog > Products**. You should notice some changes, specifically a new button: "New product on experimental page". Click on it to open the experimental product page.
 
 You can also edit an existing product on the experimental page, by selecting this option in the hamburger menu in the Actions column of the product listing.
+
+
+
+## New & Experimental features (PrestaShop 8.1)
+
+{% hint style="info" %}
+PrestaShop 8.1 features a new, reworked, [product page](../../selling/managing-catalog/new-product-page-prestashop-8.1.md).
+
+To use this new product page, you must enable it in the **News & Experimental** page on PrestaShop 8.1.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>

@@ -1,8 +1,18 @@
 # Managing Products
 
-You can manage the products in your shop using the "Products" page, in the "Catalog" menu.
+You can manage the products in your store using the **"Product"** page, in the **"Catalog"** menu.
 
-Sections in this chapter:
+{% hint style="info" %}
+**PrestaShop 8.1 benefits from a brand-new product page**: read the documentation here if you wish to learn more:
+{% endhint %}
+
+{% content-ref url="new-product-page-prestashop-8.1.md" %}
+[new-product-page-prestashop-8.1.md](new-product-page-prestashop-8.1.md)
+{% endcontent-ref %}
+
+
+
+## **Sections in this chapter:**
 
 * [Introduction to the product page](managing-products.md#ManagingProducts-Introductiontotheproductpage)
 * [Creating a product](managing-products.md#ManagingProducts-Creatingaproduct)
@@ -16,11 +26,11 @@ To create a new product, from the "Catalog" page, click on "New product" (or typ
 
 ### Tabs <a href="#managingproducts-tabs" id="managingproducts-tabs"></a>
 
-In PrestaShop 1.7, the product page is organized in tabs:
+In PrestaShop 8, the product page is organized into tabs:
 
-* **Basic settings**: it contains all you need to create a product quickly and easily. If however, you need to add more details to your product, then you should have a look at the others tabs.
-* **Quantities**, **Combinations** or **Virtual product**: define your product quantities and other stock-related options. When your product has combinations the tab will be renamed Combinations. This is where you manage all your combinations. On the other hand, if you have a virtual product, this is where you upload its associated file if any.
-* **Shipping**: give details that can have an impact on the delivery of the product.
+* **Basic settings**: it contains all you need to create a product quickly and easily. If however, you need to add more details to your product, then you should have a look at the other tabs.
+* **Quantities**, **Combinations,** or **Virtual product**: define your product quantities and other stock-related options. When your product has combinations the tab will be renamed Combinations. This is where you manage all your combinations. On the other hand, if you have a virtual product, this is where you upload its associated file if any.
+* **Shipping**: give details that can impact the delivery of the product.
 * **Pricing**: refine your pricing with specific prices or price per unit (among other pricing options).
 * **SEO**: manage the meta description or product URL to make sure it's optimized for search engines.
 * **Options**: additional functionalities to manage your product's visibility, specific references, attached files or suppliers. It is also here that you can set up the customization.
@@ -33,9 +43,9 @@ The first field to fill is the product name, which will appear in the search eng
 
 ![](<../../../.gitbook/assets/51185086 (2) (1).png>)
 
-You **must** give the product a name in at least the default language before you can save it. You won't be able to save until it has a name.
+You **must** give the product a name in at least the default language before you can save it. You won't be able to save it until it has a name.
 
-Make sure to translate each field in every language that your shop supports. In order to do that, click on the language selector next to the product type field, and choose the language in which you wish to edit the product
+Make sure to translate each field into every language that your store supports. In order to do that, click on the language selector next to the product type field, and choose the language in which you wish to edit the product
 
 ### Type of product <a href="#managingproducts-typeofproduct" id="managingproducts-typeofproduct"></a>
 
@@ -43,37 +53,32 @@ This second option is an essential one: indicate whether the product is a pack (
 
 ### Language <a href="#managingproducts-language" id="managingproducts-language"></a>
 
-You might have activated several languages in your shop, to sell in more countries. If you wish to engage with your customers abroad, all your content (product description, captions, etc.) should be translated in these languages.
+You might have activated several languages in your store , to sell in more countries. If you wish to engage with your customers abroad, all your content (product description, captions, etc.) should be translated in these languages.
 
-To translate your product content in another language, just select in which language you would like to work next to the type of product selector. The product page will update with the content available in the selected language. You can switch from one language to the other without having to save your work in-between. Just make sure you are editing the content in the right language.
+To translate your product content in another language, just select in which language you would like to work next to the type of product selector. The product page will update with the content available in the selected language. You can switch from one language to another without saving your work in-between. Just make sure you are editing the content in the right language.
 
-By default, the product page will display content in your shop's default language.
+By default, the product page will display content in your store's default language.
 
-To add new languages to your shop, go to the International section. You can either add just a language in "Translations" or add a localization pack in "Localization". You will find more information in the [international section of the documentation](http://doc.prestashop.com/display/PS17/Going+International).
+To add new languages to your store, go to the International section. You can either add just a language in "Translations" or add a localization pack in "Localization". You will find more information in the [international section of the documentation](http://doc.prestashop.com/display/PS17/Going+International).
 
 ### Global Buttons <a href="#managingproducts-globalbuttons" id="managingproducts-globalbuttons"></a>
 
 ![](<../../../.gitbook/assets/51185087 (3) (1).png>)
 
-*
-  *
-    *
-      *
-        *
-          * **Sales**. Redirects you to the "Product detail" page of the statistics dashboard ("Stats" menu), which gives you a graphic of both the visits to this product's page and also its sales.
-          * **Product list**. Displays a list of all your products to allow you to quickly navigate from a product to another.
-          * **Help**. Opens the contextual help in a column, with the page from the User Guide corresponding to the product page.
+* **Sales**. Redirects you to the "Product detail" page of the statistics dashboard ("Stats" menu), which gives you a graphic of both the visits to this product's page and also its sales.
+* **Product list**. Displays a list of all your products to allow you to quickly navigate from one product to another.
+* **Help**. Opens the contextual help in a column, with the page from the User Guide corresponding to the product page.
 
 At the bottom of the page, several actions are possible:
 
 * **Delete** (trash icon). Removes all the data for the current product and deletes it, including its images, combinations, features, etc.
 * **Preview**. Displays the front office page of your product. This is very handy, as it works even if the product is disabled.
-* **Online / Offline**. This is where you enable or disable your product. By default it is disabled, so your customers won't be able to see it in your shop.
-*   **Duplicate**. Save the current product, then creates an exact copy of the current product and takes you to the new product page. This is very useful when you'd rather use the current product's data as a template for another new product, and not have to create every data of the new product by hand. For instance, two products might be very different but could share the same associations, carriers or supplier settings.
+* **Online / Offline**. This is where you enable or disable your product. By default it is disabled, so your customers won't be able to see it in your store.
+*   **Duplicate**. Save the current product, then creates an exact copy of the current product and takes you to the new product page. This is very useful when you'd rather use the current product's data as a template for another new product, and not have to create every data of the new product by hand. For instance, two products might be very different but could share the same associations, carriers, or supplier settings.
 
     Don't over-duplicate!
 
-    If you need to create different versions of the same product, because of its variety of colors, capacity, size, etc., then you should create product combination for the current product rather than duplicate it X times. See the "Combinations" option in the "Basic settings" tab, which is explained in the "Creating a product with combinations" section of this chapter.
+    If you need to create different versions of the same product, because of its variety of colors, capacity, size, etc., then you should create a product combination for the current product rather than duplicate it X times. See the "Combinations" option in the "Basic settings" tab, which is explained in the "Creating a product with combinations" section of this chapter.
 * **Go to Catalog**. This saves any change you have made to any of the data for the current product and takes you back to the product list.
 * **Add new product.** This saves any change you have made to any of the data for the current product and opens a new page to create a new product.
 * **Save**. This saves any change you have made to any of the data for the current product and keeps you on the current tab. This is particularly useful when you want to switch tabs without losing your changes to the current tab, or in order to see your changes get applied immediately.&#x20;
@@ -93,7 +98,7 @@ Some keyboard shortcuts have been introduced in PrestaShop 1.7 to help you save 
 
 ## Creating a product <a href="#managingproducts-creatingaproduct" id="managingproducts-creatingaproduct"></a>
 
-The product page, which has been redesigned in PrestaShop 1.7, makes it easier to create a product thanks to enhanced tabs.
+The product page makes it easier to create a product thanks to enhanced tabs.
 
 ### Basic settings <a href="#managingproducts-basicsettings" id="managingproducts-basicsettings"></a>
 
@@ -113,7 +118,7 @@ Drag and drop your images directly from your folder, or click on "select files" 
 
 **Cover image**
 
-The uploaded images appear as thumbnails. The first one will be your default/cover image for the product. That cover image will also appear automatically on the product page of your shop.
+The uploaded images appear as thumbnails. The first one will be your default/cover image for the product. That cover image will also appear automatically on the product page of your store.
 
 You can change which image is your cover image by clicking on the image's thumbnail: the settings for this given image will appear. There you can check or uncheck "Cover image" to define whether the image should be the cover or not.
 
@@ -133,7 +138,7 @@ Once you have uploaded all your product images, you can modify their order by dr
 
 #### Summary and Description <a href="#managingproducts-summaryanddescription" id="managingproducts-summaryanddescription"></a>
 
-Describing your product well is essential, both for the customer (the more information, the better) and search engines (it will help your shop appear in more search requests).
+Describing your product well is essential, both for the customer (the more information, the better) and search engines (it will help your store appear in more search requests).
 
 At the bottom of the screen, the two description fields each serve different purposes:
 
@@ -154,9 +159,9 @@ Be aware that **contrary to the combinations, these values do not change, and ar
 
 **Adding a feature**
 
-Before adding a feature to a product, you must create it for general use in your shop. You should go to the "Attributes & Features" page of the "Catalog" menu for this.
+Before adding a feature to a product, you must create it for general use in your store. You should go to the "Attributes & Features" page of the "Catalog" menu for this.
 
-Feature and feature value creation are explained in details in the [dedicated section of the guide](managing-product-features.md).
+Feature and feature value creation are explained in detail in the [dedicated section of the guide](managing-product-features.md).
 
 ![](<../../../.gitbook/assets/51839148 (5) (4).png>)
 
@@ -164,21 +169,21 @@ Feature and feature value creation are explained in details in the [dedicated se
 
 We will assume here that you have already set all your features and feature values.
 
-When clicking on "Add a feature", a drop-down menu appears, listing all of your shop's features. Select which feature you want to add. Next, you can either assign one of the pre-defined values (as set when creating the feature) if there are any available or set a value manually in the "Customized value" field.&#x20;
+When clicking on "Add a feature", a drop-down menu appears, listing all of your store's features. Select which feature you want to add. Next, you can either assign one of the pre-defined values (as set when creating the feature) if there are any available or set a value manually in the "Customized value" field.&#x20;
 
 If no value is available for a feature, the mention "No result found" appears.
 
-If you choose to use a custom value, do not forget to set it for every language that your shop supports. Use the language code selector at the top of the page to change the language.
+If you choose to use a custom value, do not forget to set it for every language that your store supports. Use the language code selector at the top of the page to change the language.
 
 If there are pre-defined values available, they will appear in a dropdown list. Simply click it and choose the correct value.
 
 Once you have set all the relevant features, save your changes to see them immediately applied in the front-page.
 
-Remember: If a feature does not have any value assigned to it, it will not be taken into account for this product, and will not be visible in your shop.
+Remember: If a feature does not have any value assigned to it, it will not be taken into account for this product, and will not be visible in your store.
 
 #### Brand <a href="#managingproducts-brand" id="managingproducts-brand"></a>
 
-The same way you can add a feature, you can add a brand. Click on "Add a brand" and choose a brand in the drop-down menu.
+In the same way you can add a feature, you can add a brand. Click on "Add a brand" and choose a brand in the drop-down menu.
 
 If the brand you want isn't available in the drop-down menu, go to the "Brands & Suppliers" page to create a new brand.
 
@@ -188,7 +193,7 @@ A product can only be associated with one brand.&#x20;
 
 #### Related product <a href="#managingproducts-relatedproduct" id="managingproducts-relatedproduct"></a>
 
-The "Add a related product" field gives you the option of choosing relevant products to associate with this product, to suggest them to your customers when they visit the product's page (if the theme supports it). Click on "Add a related product", type in the first letters of product and select it. The product is then added at the bottom of the field.
+The "Add a related product" field gives you the option of choosing relevant products to associate with this product and to suggest them to your customers when they visit the product's page (if the theme supports it). Click on "Add a related product", type in the first letters of the product, and select it. The product is then added at the bottom of the field.
 
 ![](<../../../.gitbook/assets/51185097 (2) (3).png>)
 
@@ -199,14 +204,14 @@ An association goes one way only: the associated product will not feature an ass
 
 ![](<../../../.gitbook/assets/51185098 (3) (1).png>)
 
-You will often sell the same product under different versions: they share the same overall name, but they might differ by their color, their capacity, their screen size, and other attributes. Most of the time, these attributes come together: you could have the red version of the product available with either 1 Gb capacity or 2 Gb, or with 12'' screen or a 15'' screen. This is why PrestaShop calls these versions "combinations": your stock of products can be made of several variations of a single product, which in effect are simply its attributes combined in specific ways.
+You will often sell the same product under different versions: they share the same overall name, but they might differ by color, capacity, screen size, and other attributes. Most of the time, these attributes come together: you could have the red version of the product available with either 1 Gb capacity or 2 Gb, or with a 12'' screen or 15'' screen. This is why PrestaShop calls these versions "combinations": your stock of products can be made of several variations of a single product, which in effect are simply its attributes combined in specific ways.
 
 If you need combinations for your product, select "Product with combinations". The "Quantities" tab of the product page will be renamed "Combinations" and will allow you to create your various combinations.
 
 You cannot create combinations if you do not already have product attributes properly set in PrestaShop.\
-&#x20;Also, you should not create a combination for features that your customers should not be able to choose from.
+&#x20;Also, you should not create a combination of features that your customers should not be able to choose from.
 
-Attributes creation is done in the "Attributes & Features" page from the "Catalog" menu, and is explained in details in this [dedicated chapter of the documentation](managing-product-attributes.md).
+Attributes creation is done in the "Attributes & Features" page from the "Catalog" menu and is explained in detail in this [dedicated chapter of the documentation](managing-product-attributes.md).
 
 To find out about Combinations, read the [dedicated section at the end of this chapter](managing-products.md#ManagingProducts-Combinations).
 
@@ -224,9 +229,9 @@ More quantity options are available in the "Quantity tab".
 
 Define how much you want to sell this product.
 
-* **Price – Tax excluded**. This is where you should set your price. It is independent of calculations, tax and other prices.
+* **Price – Tax excluded**. This is where you should set your price. It is independent of calculations, tax, and other prices.
 * **Price – Tax included.** Displays the price of the product with taxes included. You can edit the value, and it will automatically update the "Tax excluded" field according to the tax rule that you chose.
-* **Tax rule**. The tax applicable to the product. Choose between the different rates that you have registered. When changing the tax rule, the tax included price will change accordingly.
+* **Tax rule**. The tax is applicable to the product. Choose between the different rates that you have registered. When changing the tax rule, the tax included price will change accordingly.
 
 More pricing options are available on the "Pricing" tab. Whether you change your price in the "Basic Settings" or "Pricing" tab is just the same, as the tabs are synchronized.
 
@@ -236,28 +241,28 @@ Tax rules can be managed in the "International" menu, "Taxes" page.
 
 ![](<../../../.gitbook/assets/51185100 (5) (1) (6).png>)
 
-The "Categories" section enables you to select in which category the product should appear. You can select more than one, but keep in mind that it is better for the customer if the category only contains equivalent and comparable products. Therefore, you should prevent from selecting root categories, and prefer child categories.\
-For instance, the "telephone" category can feature sub-categories of "brands" (Apple, Samsung, HTC, etc.) and as well as "characteristics" (dual sim, Android, etc.). It is up to you to indicate the category most useful to your customers.
+The "Categories" section enables you to select in which category the product should appear. You can select more than one, but keep in mind that it is better for the customer if the category only contains equivalent and comparable products. Therefore, you should prevent selecting root categories, and prefer child categories.\
+For instance, the "telephone" category can feature sub-categories of "brands" (Apple, Samsung, HTC, etc.) as well as "characteristics" (dual sim, Android, etc.). It is up to you to indicate the category most useful to your customers.
 
 **Associating existing categories**
 
-To associate a category to your product, you can either use the search bar, or expand the category list and select the one you want to associate.
+To associate a category to your product, you can either use the search bar or expand the category list and select the one you want to associate.
 
 **Using the search bar**. Type in the first letters of the category and the bar will display all the matching categories and the path to access it. Choose your category and click on it. It will be shown in the "Associated categories" section.
 
 **Using the category list**. By clicking on "Expand", you will see the category tree and from there you can select the categories you want to associate.
 
-In the list of associated categories, if you mouse over a specific category, you will see the path leading to the category. It can be helpful if you have several categories with the same name (like "Shoes" which can be under "Children" and "Women" categories).
+In the list of associated categories, if you mouse over a specific category, you will see the path leading to the category. It can be helpful if you have several categories with the same name (like "Shoes" which can be under the "Children" and "Women" categories).
 
 **Main category**
 
-The "main category" selector is useful when an article is filed under several categories. It serves mainly to clarify which category to use in case your customer arrives at your site from a search engine, since the name of the category will appear in the product's URL.
+The "main category" selector is useful when an article is filed under several categories. It serves mainly to clarify which category to use in case your customer arrives at your site from a search engine since the name of the category will appear in the product's URL.
 
 **Creating a new category**
 
 If you feel you need to add a category, save the current state of your product before clicking the "Create new category" button.&#x20;
 
-Click on "Create a category" : the category options will appear. Fill in the name of the category and select the parent category. By clicking on create, the new category will be created and it will automatically associated with your product.
+Click on "Create a category": and the category options will appear. Fill in the name of the category and select the parent category. By clicking on create, the new category will be created and it will automatically be associated with your product.
 
 Don't forget to go to the "Categories" page later to fill in the details for this new category. To read more about categories, [go to the related section of the documentation](managing-categories.md).
 
@@ -280,28 +285,28 @@ For a standard product you only have four fields:
 * **Quantity.** Define how many products are for sale. It is the same value as the one in "Basic settings".
 * **Stock location.** We know it is always useful to be able to know where to find a product. So be this field.
 * **Minimum quantity for sale.** You might prefer this product to be sold in bulk. Use this field to set the number of items to be sold in bulk. It means customers will be able to purchase this product only when they reach this minimum quantity.
-* **Stock alerts.** You also can set a rule for low stock products in this section. Indicate a threshold and check the box "Send me an email when the quantity is below or equals this level" to have an email sent to all the users who can run the stock page - permissions can be modified in [Advanced Parameters > Team](http://doc.prestashop.com/display/PS17/Team).
+* **Stock alerts.** You also can set a rule for low-stock products in this section. Indicate a threshold and check the box "Send me an email when the quantity is below or equals this level" to have an email sent to all the users who can run the stock page - permissions can be modified in [Advanced Parameters > Team](http://doc.prestashop.com/display/PS17/Team).
 
 #### Product with Combinations <a href="#managingproducts-productwithcombinations" id="managingproducts-productwithcombinations"></a>
 
 The way it works is quite easy: the page presents you with a table of all the combinations for the current product (if there are no combinations, the table simply has a single row). It is up to you to set the initial stock for all the combinations.
 
-For more information on product combinations, [read the dedicated section at the end of the page](managing-products.md).Packs and virtual product have different stock settings, you will find all you need at the end of this chapter.
+For more information on product combinations, [read the dedicated section at the end of the page](managing-products.md). Packs and virtual products have different stock settings, you will find all you need at the end of this chapter.
 
 #### **Availability preferences** <a href="#managingproducts-availabilitypreferences" id="managingproducts-availabilitypreferences"></a>
 
-**Out of stock behavior**
+**Out-of-stock behavior**
 
 The "Behavior when out of stock" option enables you to set PrestaShop behavior when the product is out of stock:
 
 * Deny orders (the product is not available for sale anymore).
 * Allow order (in essence, you are doing pre-sales).&#x20;
-* Use default behavior (Deny orders). This third and default option simple uses the global default setting ("Preferences" menu, "Products" page, "Product Stock" section, "Allow ordering of out-of-stock products" option).
+* Use default behavior (Deny orders). This third and default option simply uses the global default setting ("Preferences" menu, "Products" page, "Product Stock" section, "Allow ordering of out-of-stock products" option).
 
 **Labels**
 
-* **Label when in-stock**. Enables you to display a message to your visitors when your product is in stock, for example "Item available". It reassures them that your shop can immediately send them the product.
-* **Label when out of stock and back-order active**. Enables you to display a message to your visitors when your product is out of stock but they can still order it (as set using the "**When out of stock**" selector), for example "Pre-order now!". It reassures them that your shop will send them the product immediately once it is in stock.
+* **Label when in-stock**. Enables you to display a message to your visitors when your product is in stock, for example, "Item available". It reassures them that your shop can immediately send them the product.
+* **Label when out of stock and back-order active**. Enables you to display a message to your visitors when your product is out of stock but they can still order it (as set using the "**When out of stock**" selector), for example, "Pre-order now!". It reassures them that your shop will send them the product immediately once it is in stock.
 * **Availability date**. Indicate when the product will be back in stock.
 
 You can also configure the general settings applied to all of your products: the default option is to deny orders, but this can be modified under the "Products Settings" in the "Shop Parameters section" ("Allow ordering of out-of-stock products" option).
@@ -312,11 +317,11 @@ The "Shipping" tab enables you to give some precious details about your product'
 
 ![](<../../../.gitbook/assets/51185106 (3) (5) (3).png>)
 
-*   **Package dimension (width, height, depth & weight)**. You should strive to fill each field, because knowing the exact size and weight of a package is not only useful to you, but PrestaShop can also direct specific sizes/weights to specific carriers automatically, based on these settings. The order's final price will appear to the customer once PrestaShop (or the customer) has selected a carrier.&#x20;
+*   **Package dimension (width, height, depth & weight)**. You should strive to fill each field because knowing the exact size and weight of a package is not only useful to you, but PrestaShop can also direct specific sizes/weights to specific carriers automatically, based on these settings. The order's final price will appear to the customer once PrestaShop (or the customer) has selected a carrier.&#x20;
 
-    These values use the default weight, volume, distance and dimension units, as set in the "Localization" page of the "Localization" menu.
+    These values use the default weight, volume, distance, and dimension units, as set in the "Localization" page of the "Localization" menu.
 
-    These values do not have to be integers. If your products weight less than 1 lbs, you can simply use a period (.) to indicate the fractions:
+    These values do not have to be integers. If your products weigh less than 1 lb, you can simply use a period (.) to indicate the fractions:
 
     * 123 lbs
     * 1.23 lbs
@@ -329,7 +334,7 @@ The "Shipping" tab enables you to give some precious details about your product'
 
 ### **Pricing** <a href="#managingproducts-pricing" id="managingproducts-pricing"></a>
 
-The pricing tab makes it possible to refine your pricing strategy, either by using alternative prices (price per unit), or by creating some price rules specific to the product.
+The pricing tab makes it possible to refine your pricing strategy, either by using alternative prices (price per unit) or by creating some price rules specific to the product.
 
 #### **Retail price** <a href="#managingproducts-retailprice" id="managingproducts-retailprice"></a>
 
@@ -337,8 +342,8 @@ The price of your product before taxes.
 
 * **Price – tax excluded**. This is where you can set an arbitrary price, independent of calculations and regular prices. Keep this field at "0" to use the default price.
 * **Price – tax included.** Displays the price of the product with taxes included. You can edit the value, and it will automatically update the "Pre-tax retail price" field according to the tax rule that you chose.
-* **Price per unit (tax excl.)**. The unit price for the product at the time of the addition. This is for valuation purpose.
-* **Tax rule**. The tax applicable to the product. Choose between the different rates that you have registered. A link will redirect you to the Tax rule pages if you wish to make some changes. [Read more about tax rules in this section](http://doc.prestashop.com/display/PS17/Tax+Rules).
+* **Price per unit (tax excl.)**. The unit price for the product at the time of the addition. This is for valuation purposes.
+* **Tax rule**. The applicable tax to the product. Choose between the different rates that you have registered. A link will redirect you to the Tax rule pages if you wish to make some changes. [Read more about tax rules in this section](http://doc.prestashop.com/display/PS17/Tax+Rules).
 * **Display the "On sale!" flag on the product page and in the text found within the product listing.** Check that box to show that your product is on sale, both on the product page and in the text on the product listing. An "On sale" icon will appear under the product. You can modify this logo by changing the following file: `themes/default/img/onsale_en.gif`
 * **Final retail price**. This price, including the discount taken, will update as you type.
 
@@ -352,20 +357,20 @@ The cost price should be lower than your retail price.
 
 #### Specific prices: Managing Discounts <a href="#managingproducts-specificprices-managingdiscounts" id="managingproducts-specificprices-managingdiscounts"></a>
 
-You can change the total price of the product depending on the quantity of products your customer buys, the user group, the country, etc. This is done with the "Specific prices" section of the "Pricing" tab. Click on the "Add a specific price" button to reveal the creation form:
+You can change the total price of the product depending on the number of products your customer buys, the user group, the country, etc. This is done with the "Specific prices" section of the "Pricing" tab. Click on the "Add a specific price" button to reveal the creation form:
 
 ![](<../../../.gitbook/assets/51185109 (3) (7) (3).png>)
 
 This is a very easy way to create a discount price for this product (and all its combinations).
 
-* **For**. This enables you to be very specific about the various groups to which this price applies, including currencies, countries and even your customer groups (which we'll discuss in a later chapter).
-* **Customer**. You can choose to be even more specific and directly set at who the discount you are creating is targeted. Start typing the first letters of the clients' first name or last name, and select the ones you want.
+* **For**. This enables you to be very specific about the various groups to which this price applies, including currencies, countries, and even your customer groups (which we'll discuss in a later chapter).
+* **Customer**. You can choose to be even more specific and directly set at who the discount you are creating is targeted. Start typing the first letters of the client's first name or last name, and select the ones you want.
 * **Combinations**. You can choose to have this specific price apply to all of the product's combinations, or only one. If you wish to apply to more than one combination but not all of them, you will have to create a specific price for each combination.
 * **Available from/to**. Here you can define a range of dates between which the discount price is active. Clicking each selector will open a calendar, simplifying the process.
-* **Starting at \[] unit**. Contains the value from which the discount should be applied. Default is "1", which means any quantity. If you've selected one combination for which the specific price applies and that you define more than one unit, it means the customer will have to buy this quantity of this given combination to benefit from the discount.
+* **Starting at \[] unit**. Contains the value from which the discount should be applied. The default is "1", which means any quantity. If you've selected one combination for which the specific price applies and that you define more than one unit, it means the customer will have to buy this quantity of this given combination to benefit from the discount.
 * **Product price (tax excl.)**. This is where you can set an arbitrary price, independent of calculations and regular prices. This will override the retail price. To enable this field, you must unclick "Leave initial price" first.
 * **Leave initial price**. Check this box to reset the "Product price" field and prevent yourself from editing it.
-* **Apply a discount of**. Use the selector to set the type of discount (either a specific amount in the default currency, or a percentage of the default price). On the product sheet, the initial price will appear as crossed out next to the discounted price.
+* **Apply a discount of**. Use the selector to set the type of discount (either a specific amount in the default currency or a percentage of the default price). On the product sheet, the initial price will appear as crossed out next to the discounted price.
 
 Once you have chosen your values, click on "Apply": the summary of your discount settings appears below. The discount will be immediately visible on the store.\
 If you wish to delete a value, click on the trashcan icon in the table.
@@ -374,7 +379,7 @@ If you want to build more complex discounts, go read about the "Discounts" menu 
 
 #### **Priority management** <a href="#managingproducts-prioritymanagement" id="managingproducts-prioritymanagement"></a>
 
-A customer might fit into multiple prices or discount rules, even when you have set detailed prices and quantity discounts, with custom groups and shops (if in a multistore context). PrestaShop therefore uses a set of priorities in order to apply a single price rule to such customers. You might want the user group to be more important than the currency, for instance.
+A customer might fit into multiple prices or discount rules, even when you have set detailed prices and quantity discounts, with custom groups and shops (if in a multistore context). PrestaShop, therefore, uses a set of priorities in order to apply a single price rule to such customers. You might want the user group to be more important than the currency, for instance.
 
 You can change PrestaShop default settings using the "Priority Management" section.
 
@@ -391,7 +396,7 @@ A checkbox at the bottom enables you to update the settings for all products. If
 
 ### **SEO** <a href="#managingproducts-seo" id="managingproducts-seo"></a>
 
-To improve your product listing as well as increase your store's visibility we suggest that you carefully fill out the various SEO fields: meta titles, meta descriptions, and keywords and friendly URLs.
+To improve your product listing as well as increase your store's visibility we suggest that you carefully fill out the various SEO fields: meta titles, meta descriptions, keywords, and friendly URLs.
 
 "SEO" itself stands for "Search Engine Optimization. Read more on Wikipedia: [http://en.wikipedia.org/wiki/Search\_engine\_optimization](http://en.wikipedia.org/wiki/Search\_engine\_optimization)
 
@@ -403,13 +408,13 @@ To access the product's SEO information, go to the "SEO" tab.
 
 #### Search Engine Optimization <a href="#managingproducts-searchengineoptimization" id="managingproducts-searchengineoptimization"></a>
 
-The fields in this page enable you to directly optimize your catalog's visibility on search engines.
+The fields on this page enable you to directly optimize your catalog's visibility on search engines.
 
 * **Preview**. With PrestaShop 1.7.5 released, you can now get a real-time preview of your search engine result to help you see how your page would be displayed.
-* **Meta title**. This is the most important field, as the title that will appear on all search engines. Be very factual: you must convince the search engine user to click your link, not one from another site. Make sure the title is unique to this product within your site.
+* **Meta title**. This is the most important field, as the title will appear on all search engines. Be very factual: you must convince the search engine user to click your link, not one from another site. Make sure the title is unique to this product within your site.
   * Good example: "Levi's 501® Original Jeans - Tidal Blue - Original Fit".
   * Bad example: "Item #02769869B bestseller".
-* **Meta description**. A presentation of the product in just a couple lines (ideally, less than 155 characters), intended to capture a customer's interest. This will appear in results for some search engines, depending on the search request: some search engine might choose to display the searched keywords directly in the context of the page content. Make sure the description is unique to this product within your site.
+* **Meta description**. A presentation of the product in just a couple of lines (ideally, less than 155 characters), intended to capture a customer's interest. This will appear in results for some search engines, depending on the search request: some search engines might choose to display the searched keywords directly in the context of the page content. Make sure the description is unique to this product within your site.
 * **Friendly URL**. This is another extremely important field. It enables you to rewrite the web addresses of your products as you wish. For example, instead of having an address such as\
   [http://www.myprestashop.prestashop.com/index.php?id\_product=8\&controller=product](http://www.myprestashop.prestashop.com/index.php?id\_product=8\&controller=product)\
   you can have:\
@@ -425,7 +430,7 @@ You will find more information on the "SEO & URLs" preference page in the ["Traf
 
 #### &#x20;Redirection page <a href="#managingproducts-redirectionpage" id="managingproducts-redirectionpage"></a>
 
-When your product is offline, its product page will no longer available on your shop. You have to decide what you want to show to your visitors instead:
+When your product is offline, its product page will no longer be available in your shop. You have to decide what you want to show to your visitors instead:
 
 * **No redirection (404).** This will display a "404 error - Not found" page.
 * **Permanent redirection (301).** This will permanently redirect the visitor to another product or category page. The current URL of your product page will no longer be indexed by search engines: it will be replaced by the URL of the product or category page of your choice. Choose which page you would like to display instead. Remember, this is permanent, so make sure you don't need this URL anymore before activating the 301 redirection!
@@ -435,51 +440,51 @@ If you want to display a category page, you have to select what category you wan
 
 ### **Options** <a href="#managingproducts-options" id="managingproducts-options"></a>
 
-The "Options" tab provides additional settings to manage product references, suppliers, product customization, visibility and files.&#x20;
+The "Options" tab provides additional settings to manage product references, suppliers, product customization, visibility, and files.&#x20;
 
 #### **Visibility** <a href="#managingproducts-visibility" id="managingproducts-visibility"></a>
 
 You can choose to have the product available through different channels:
 
-* **Everywhere**. Customers can get to the product by browsing the catalog, search for the product's name, or directly using its URL.
+* **Everywhere**. Customers can get to the product by browsing the catalog, searching for the product's name, or directly using its URL.
 * **Catalog only**. Customers can get to the product by browsing the catalog or directly using its URL.
 * **Search only**. Customers can get to the product by searching for its name or directly using its URL.
 * **Nowhere**. Customers can only get to the product using its URL. They won't find it by browsing through the catalog or by searching for its name. This is great for creating private products, that only a few trusted visitors can access, even temporarily (you can change this setting at any time).
 
 **Options**. A couple of specific options.
 
-* **Available for order**. If you uncheck this box, customers will not be able to add this product to their cart. This makes it more like a single-product Catalog mode (in comparison with the "Catalog mode" preference).
+* **avoidingAvailable for order**. If you uncheck this box, customers will not be able to add this product to their cart. This makes it more like a single-product Catalog mode (in comparison with the "Catalog mode" preference).
 * **Show price**. If the "available for order" option above is unchecked, you can either choose to display the product's price nevertheless (even though visitors won't be able to buy it), or choose to not display it.
-* **Web only (not sold in your retail store)**. If your business does have brick-and-mortar stores, this option will prove invaluable when a product is only sold online, not in store – this prevents customers from checking a product price online, then come to your store hoping to buy it directly, and thus avoid shipping cost.
+* **Web-only (not sold in your retail store)**. If your business does have brick-and-mortar stores, this option will prove invaluable when a product is only sold online, not in-store – this prevents customers from checking a product's price online, then coming to your store hoping to buy it directly, and thus avoiding shipping costs.
 
 #### Tags <a href="#managingproducts-tags" id="managingproducts-tags"></a>
 
-Tags are terms and keywords that will help your customers easily find what they are looking for.  When they use the search bar to browse your catalog, they will type some specific keywords. Choose the most relevant keywords to your product, to make sure the product shows in results when a visitor search for it.
+Tags are terms and keywords that will help your customers easily find what they are looking for.  When they use the search bar to browse your catalog, they will type some specific keywords. Choose the most relevant keywords to your product, to make sure the product shows in results when a visitor searches for it.
 
-To add several tags, simply separate them by a comma. For example : "dinner plate, dinnerware, stoneware" for a dinner plate.
+To add several tags, simply separate them by a comma. For example: "dinner plate, dinnerware, stoneware" for a dinner plate.
 
 ![](<../../../.gitbook/assets/51185117 (3) (5) (4).png>)
 
-All the tags can be seen in the "Search" page, under the "Shop Parameters" menu. You will find more information on tag management in this [dedicated chapter](http://doc.prestashop.com/display/PS17/Tags).
+All the tags can be seen on the "Search" page, under the "Shop Parameters" menu. You will find more information on tag management in this [dedicated chapter](http://doc.prestashop.com/display/PS17/Tags).
 
-Products tags are not the same as page keywords: they have no direct impact on search engine placement.
+Product tags are not the same as page keywords: they have no direct impact on search engine placement.
 
 #### Condition & References <a href="#managingproducts-condition-and-references" id="managingproducts-condition-and-references"></a>
 
-**Condition**. Not all shops sell new product and some marketplaces require this information from you. This option enables you to indicate the condition of the product:
+**Condition**. Not all shops sell new products and some marketplaces require this information from you. This option enables you to indicate the condition of the product:
 
-* **New**. The product is brand new, sealed in its original packaging.
-* **Used**. The product has been sold at least once before, and probably used by someone else (second hand). It should come in its original packaging, which might be closed with tape.
+* **and New**. The product is brand new, and sealed in its original packaging.
+* **Used**. The product has been sold at least once before, and probably used by someone else (secondhand). It should come in its original packaging, which might be closed with tape.
 * **Refurbished**. The product has been returned for various reasons ("scratches, dents or other forms of cosmetic damage which do not affect the performance of the unit"). Read more on Wikipedia: [http://en.wikipedia.org/wiki/Refurbishment\_%28electronics%29](http://en.wikipedia.org/wiki/Refurbishment\_\(electronics\)).
 * **Reference code**. This is your own internal reference. It might be a number, or its reference from the storage location or its supplier, or anything that makes it unique.
 * **ISBN.** ISBN is used internationally to identify books and their various editions. If your products are books or entitled to have an ISBN number, enter it here.
-* **UPC barcode.** This standard for barcodes is mostly used in the United States, Canada, the United Kingdom, Australia, New Zealand.\
+* **UPC barcode.** This standard for barcodes is mostly used in the United States, Canada, the United Kingdom, Australia, and New Zealand.\
 
 * **EAN-13 or JAN barcode**. These are the numbers of the product's barcode, which are used worldwide in order to identify it. You can use either an EAN-13 or a JAN number.
   * An EAN-13 is the product's 13-digit international article number. Order it on [GS1](https://www.gs1.org/) as soon as your product is created to be able to sell it with Google Shopping, or on marketplaces. Read more on Wikipedia: [http://en.wikipedia.org/wiki/International\_Article\_Number\_%28EAN%29](http://en.wikipedia.org/wiki/International\_Article\_Number\_\(EAN\)).
-  * A JAN is specific to Japan, but is compatible with the international EAN. Read more on Wikipedia: [http://en.wikipedia.org/wiki/Japanese\_Article\_Number](http://en.wikipedia.org/wiki/Japanese\_Article\_Number).
-* **MPN.** The MPN (Manufacturer Part Number) is a unique manufacturer reference. It allows to easily match a product to the right manufacturer, which has multiple advantages for both the merchant and the customer. \
-  The merchants can easily differentiate similar products thanks to their identifier and manage product stock by manufacturer. The product can also be found in the search engine with the identifier. \
+  * A JAN is specific to Japan but is compatible with the international EAN. Read more on Wikipedia: [http://en.wikipedia.org/wiki/Japanese\_Article\_Number](http://en.wikipedia.org/wiki/Japanese\_Article\_Number).
+* **MPN.** The MPN (Manufacturer Part Number) is a unique manufacturer reference. It allows you to easily match a product to the right manufacturer, which has multiple advantages for both the merchant and the customer. \
+  The merchants can easily differentiate similar products thanks to their identifier and manage product stock by the manufacturer. The product can also be found in the search engine with the identifier. \
   The MPN is also useful for customers: the MPN can be indexed on Marketplaces and customers will therefore be able to find the product they are looking for faster. Customers are also sure to get the right product, which boosts their confidence!
 
 #### Customization <a href="#managingproducts-customization" id="managingproducts-customization"></a>
@@ -488,13 +493,13 @@ PrestaShop makes it possible for your customers to customize the product that th
 
 Example: You are a jewelry retailer and your customers have the possibility to engrave their jewelry with a text or an image. Your customers can submit the text and/or the image when they place their order.
 
-The advantage of this function is that it offers your customers a personal service, which they will without a doubt appreciate!
+The advantage of this function is that it offers your customers personal service, which they will without a doubt appreciate!
 
 Let's look at how to configure this function. Click on "Add a customization field" to indicate what type of context (file and/or text) can be personalized. You can put as many fields as you allow your customers to upload.
 
 ![](<../../../.gitbook/assets/51185118 (3) (9) (1).png>)
 
-For each customization field, you need to give two information:
+For each customization field, you need to give two pieces of information:
 
 * **Label**. Fill it with the appropriate public label: this will be an indicator for the customer, so be very specific about what you expect.
 * **Type**. Indicate whether you want the customer to type in some text, or to provide a file.\
@@ -564,7 +569,7 @@ A new tab will appear on the product's page, next to "Product Details", where yo
 
 If you need to remove an attachment from this product page, you simply have to unselect it in the "Attached files" table.
 
-You can view all of your store's attached files, add some more and remove some, by going to the "Files" page under the "Catalog" menu. This also makes it possible to use the files that you already uploaded for other products: if you need to apply the associated one file with many products, you will thus only have to upload it once.
+You can view all of your store's attached files, add some more and remove some, by going to the "Files" page under the "Catalog" menu. This also makes it possible to use the files that you already uploaded for other products: if you need to apply the associated file with many products, you will thus only have to upload it once.
 
 #### **Suppliers** <a href="#managingproducts-suppliers" id="managingproducts-suppliers"></a>
 
@@ -593,12 +598,12 @@ You should really check that these global settings are set as you wish.
 
 To enable product combinations, you must first choose the "Product with combinations" option from the "Basic Settings" tab. You will see the "Quantities" tab change to "Combinations", and this is where you will be able to manage your product combinations.
 
-Combinations cannot be created for pack of product or virtual products: it is only available for standard products.
+Combinations cannot be created for packs of products or virtual products: it is only available for standard products.
 
 You cannot create combinations if you do not already have product attributes properly set in PrestaShop.\
-&#x20;Also, you should not create combination for features that your customers should not be able to choose from.
+&#x20;Also, you should not create combinations for features that your customers should not be able to choose from.
 
-Attributes creation is done in the "Product Attributes" page from the "Catalog" menu, and is explained in details in the chapter of the same name of this guide.
+Attributes creation is done in the "Product Attributes" page from the "Catalog" menu and is explained in detail in the chapter of the same name of this guide.
 
 How your product attributes are combined into combinations is up to you, and PrestaShop gives you two methods to achieve this.
 
@@ -606,7 +611,7 @@ How your product attributes are combined into combinations is up to you, and Pre
 
 #### Manual method <a href="#managingproducts-manualmethod" id="managingproducts-manualmethod"></a>
 
-This method helps you create combinations one after the other. Therefore, it is to be reserved to either products with few combinations, or products with very specific combinations that can't be created reliably using the automatic method (see next section).
+This method helps you create combinations one after the other. Therefore, it is to be reserved for either products with few combinations, or products with very specific combinations that can't be created reliably using the automatic method (see next section).
 
 Adding a new variation to your product takes just a few steps.
 
@@ -615,27 +620,27 @@ Adding a new variation to your product takes just a few steps.
 For example, if you need to create a combination for a t-shirt, size M and color red, you should enter "size m color red". As you type in, you will see suggestions appearing below the bar, simply select the attributes and values you need.
 
 You can add as many attribute-value pairs as necessary to one combination.\
-You can only add one pair per attribute to one combination: it is impossible to have both "Color: Blue" and "Color: Red" in your pairs; if this is necessary, you will have to create new attributes, for instance "Primary color" and "Secondary color".
+You can only add one pair per attribute to one combination: it is impossible to have both "Color: Blue" and "Color: Red" in your pairs; if this is necessary, you will have to create new attributes, for instance, "Primary color" and "Secondary color".
 
 You can delete an attribute-value pair by clicking on the cross in its grey box.&#x20;
 
 &#x20;2\. When you have all the needed attributes, click on "Generate" on the right.
 
-&#x20;3\. The combination will appear in a table below.
+&#x20;3\. The combination will appear in the table below.
 
 ![](<../../../.gitbook/assets/51185209 (3) (5) (2).gif>)
 
 #### Automatic method <a href="#managingproducts-automaticmethod" id="managingproducts-automaticmethod"></a>
 
-If you have too many different products versions or varieties, you can use the "Product Combinations Generator." This tool allows you to automatically generate all of the combinations and possibilities.
+If you have too many different product versions or varieties, you can use the "Product Combinations Generator." This tool allows you to automatically generate all of the combinations and possibilities.
 
 Instead of typing each combination you want, you can use the selector on the right side of the page. It lists all the attributes and their corresponding values.
 
-Here's how you should do:
+Here's what you should do:
 
-1. For each attributes, tick the values you want to add as combinations. You can select several values for each attributes to save some time.
+1. For each attribute, tick the values you want to add as combinations. You can select several values for each attribute to save some time.
 2. It will automatically add the corresponding combinations in the bar on the left.
-3. If you're happy with you selection, click on "Generate": it will automatically create your combination, with **all the possible combinations**.
+3. If you're happy with your selection, click on "Generate": it will automatically create your combination, with **all the possible combinations**.
 
 For a single combination, you can edit its quantity directly in the table, edit it (by clicking on the pencil icon) or delete it (with the trash icon).
 
@@ -643,7 +648,7 @@ For a single combination, you can edit its quantity directly in the table, edit 
 
 #### Default combination <a href="#managingproducts-defaultcombination" id="managingproducts-defaultcombination"></a>
 
-When you have several combinations available, you should choose which combinations will be the default combination. It will be the combination your customers see when they arrive on the product sheet. If they want to purchase another combination, they will have to select it themselves (by either changing the color, size or any attribute you may have).
+When you have several combinations available, you should choose which combinations will be the default combination. It will be the combination your customers see when they arrive on the product sheet. If they want to purchase another combination, they will have to select it themselves (by either changing the color, size, or any attribute you may have).
 
 #### Editing a combination <a href="#managingproducts-editingacombination" id="managingproducts-editingacombination"></a>
 
@@ -653,12 +658,12 @@ Each combination can be further managed by clicking on the edit icon. It will op
   * **Set as default combination**. Check this box if you want the combination you are creating to actually be the main one for this product.
   * **Quantity**. Enter the quantity available for sale for this combination
   * **Available date**. If the combination is out of stock, you can indicate when it will be available again.
-  * **Minimum quantity for sale**. You might prefer this combination to only be sold in bulk. Use this field to set the number of items to be sold in bulk. It means customer will be able to purchase this product only when they reach this minimum quantity for this combination.
-  * **Reference and Specific references (ISBN, EAN-13 & UPC)**. If necessary, indicate the combination's reference, ISBN EAN-13 and/or UPC numbers into each field, as if you were creating a brand new product in PrestaShop. These numbers may be used by your warehouse or your carrier, so make sure to fill these fields, they are often essential to your business.&#x20;
+  * **Minimum quantity for sale**. You might prefer this combination to only be sold in bulk. Use this field to set the number of items to be sold in bulk. It means customers will be able to purchase this product only when they reach this minimum quantity for this combination.
+  * **Reference and Specific references (ISBN, EAN-13 & UPC)**. If necessary, indicate the combination's reference, ISBN EAN-13, and/or UPC numbers in each field, as if you were creating a brand new product in PrestaShop. These numbers may be used by your warehouse or your carrier, so make sure to fill these fields, they are often essential to your business.&#x20;
 * Price and impact\
 
   * **Cost price**. This field is useful if the original price of the product changes simply because this is a combination.
-  * **Impact on price/price per unit/weight**. If the combination is supposed to have an impact on the product's original price/weight/unit price, fill the field that appears with the value of that impact (e.g. "-2" if the price should be decreased by 2).
+  * **Impact on price/price per unit/weight**. If the combination is supposed to have an impact on the product's original price/weight/unit price, fill in the field that appears with the value of that impact (e.g. "-2" if the price should be decreased by 2).
 * **Image**. The images that are linked to the original product (as uploaded using the form in the "Images" tab on the left) are displayed. Check the box for the images that best represent this combination.
 
 Once you finished editing a combination, you can either:
@@ -775,4 +780,4 @@ Once you are done with the "Pack" tab, you can edit the content of all the other
 
 &#x20;Watch our short video with 12 tips on how to create a great product page:
 
-[![](<../../../.gitbook/assets/51839720 (7) (7) (5).png>)](https://www.youtube.com/watch?v=5k3ZdPo00KY)
+<figure><img src="../../../.gitbook/assets/51839720 (7) (7) (5).png" alt=""><figcaption></figcaption></figure>

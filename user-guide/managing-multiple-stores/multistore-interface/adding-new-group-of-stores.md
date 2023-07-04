@@ -10,7 +10,7 @@ To add a new group of stores, go to the **Advanced Parameters > Multistore** pag
 
 <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-* **Store group name:** Enter a name for this group of stores. **** This name is private: only you and your team will be able to see it. You can edit it at any time.
+* **Store group name:** Enter a name for this group of stores. This name is private: only you and your team will be able to see it. You can edit it at any time.
 * **Color:** You can also set a different color for each group of stores. Depending on the group you are working on, the header will change color. This allows you to know at a glance what context you are in.
 * **Share customers:** Enable this feature if you want to allow your customers to use the same email address and password to sign in to all the stores of a group.
 

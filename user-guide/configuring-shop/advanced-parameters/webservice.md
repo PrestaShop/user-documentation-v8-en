@@ -6,7 +6,7 @@ A web service is a method of communication between two electronic devices over a
 
 The page starts by listing the currently existing webservice keys in a table if there are any. A webservice key is a unique access that you grant to a developer, which can be used to tie a tool to your shop. Share them sparingly, as you might not always want everyone to access your data.
 
-<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Not any app can access your shop through the PrestaShop webservice: you decide which can, and what they are allowed to do. Every app has a unique connection key, with specific access rights.
 
@@ -21,7 +21,7 @@ The **"Add new webservice key"** button takes you to the webservice key creation
 
 Click **"Save"** when your key is ready.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Configuration <a href="#webservice-configuration" id="webservice-configuration"></a>
 

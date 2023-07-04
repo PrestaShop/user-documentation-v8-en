@@ -28,5 +28,5 @@ Normally, PrestaShop comes with all current countries in the database. But in th
 * **Active**. A disabled country will not be suggested as an option when a visitor wants to register and create a new account.
 * **Contains states**. Indicates whether the country has "states" or not. This adds a new field to the PrestaShop address form. Note that "states" can be regions, provinces, departments... anything that makes sense to that country's postal service.
 * **Do you need a tax identification number?**. A Tax Identification Number is an identification number used by the country's revenue service in the administration of tax laws. Not every country needs of even has such a number for business. Inquire about this with the country's revenue service.
-* **Display tax label (e.g. "Tax** incl**.")**. **** Choose whether the tax status (included or excluded) should be displayed next to the prices or not.
+* **Display tax label (e.g. "Tax** incl**.")**. Choose whether the tax status (included or excluded) should be displayed next to the prices or not.
 * **Shop association**. You can make the country only available to a selection of your shops, for instance shops that target a specific locale.

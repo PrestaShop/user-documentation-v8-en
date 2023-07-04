@@ -102,7 +102,7 @@ The third and last tab, "Actions", is where you choose what the discount actuall
   * _Percent (%)._ The rule applies to a percentage of the order total. For instance, let's say the order is valued at $200 before taxes. The rule has a value of 15%. Customers who benefit from this rule will only have to pay $170 (before taxes and shipping costs).
   * _Amount._ The rule applies a monetary discount on the order total. For instance, let's say the order is valued at $200 before taxes. The discount offers $20 off the purchase. Customers who benefit from this rule will only pay $180 (before shipping costs). You can choose whether taxes are applied to the discount or not.
   * _None._ The rule does not offer any discount on the order. Choosing this option makes the next section, "Apply a discount to", disappear.
-* **Exclude discounted products**. **** _New in PrestaShop 1.7!_ By default, the voucher applies to any kind of product, whether it is already discounted or not. By enabling this feature, the voucher you are creating will not be applied to a product or a combination if it already on sale.
+* **Exclude discounted products**. _New in PrestaShop 1.7!_ By default, the voucher applies to any kind of product, whether it is already discounted or not. By enabling this feature, the voucher you are creating will not be applied to a product or a combination if it already on sale.
 * **Send a free gift**. You can choose to offer a gift for some conditions (and skip the discount altogether). A field appears: type the first letters of the product, and choose from the list of matching names.
 
 Once everything has been saved, you can send your voucher code to your customers, or let the system handle the cart rules automatically, depending on your settings.

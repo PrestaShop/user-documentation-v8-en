@@ -50,7 +50,7 @@ PrestaShop should now be installed and ready to be configured! Continue to the [
 
 You can download the latest version of PrestaShop at [http://www.prestashop.com/en/download](http://www.prestashop.com/en/download).
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (2).png" alt=""><figcaption></figcaption></figure>
 
 You only have one download option: the latest stable version, ready for all kinds of online stores.
 
@@ -178,7 +178,7 @@ This page checks that everything is OK with your server configuration: PHP setti
 
 If anything goes wrong, the installer stops you here, enabling you to see the few technical details that need fixing, be it changing the PHP configuration or updating the file permissions.
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55) (2).png" alt=""><figcaption></figcaption></figure>
 
 Here is a list of the checks that are performed during this third step:
 

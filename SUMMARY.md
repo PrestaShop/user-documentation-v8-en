@@ -27,6 +27,7 @@
       * [Managing Stock](user-guide/selling/managing-catalog/managing-stock/README.md)
         * [Stock Overview](user-guide/selling/managing-catalog/managing-stock/stock-overview.md)
         * [Stock Movements](user-guide/selling/managing-catalog/managing-stock/stock-movements.md)
+      * [New product page (PrestaShop 8.1)](user-guide/selling/managing-catalog/new-product-page-prestashop-8.1.md)
     * [Managing your Customers](user-guide/selling/managing-customers/README.md)
       * [Your customers](user-guide/selling/managing-customers/your-customers.md)
       * [Customer addresses](user-guide/selling/managing-customers/customer-addresses.md)

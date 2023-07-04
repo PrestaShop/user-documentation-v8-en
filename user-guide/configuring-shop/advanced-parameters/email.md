@@ -60,13 +60,13 @@ You can choose to use only one of the two, or both. Both is the recommended way.
 
 DKIM signing can be enabled in Advanced Parameters > Emails.
 
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (63) (2).png" alt=""><figcaption></figcaption></figure>
 
 Enabling DKIM signing **will open a form,** and the DKIM domain, DKIM selector and DKIM private key fields will appear. You will need to manually fill in those fields to set up DKIM signing.&#x20;
 
 After filling in the fields, **make sure to save** the information using the Save button.
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Test your email configuration <a href="#email-testyouremailconfiguration" id="email-testyouremailconfiguration"></a>
 

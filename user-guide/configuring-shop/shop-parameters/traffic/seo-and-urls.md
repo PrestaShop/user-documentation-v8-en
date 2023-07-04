@@ -49,7 +49,7 @@ Click the "Add new page" button to reach the friendly URL creation form. It has 
 
 The main options for friendly URLs:
 
-*   **Friendly URL**. Change this option _if you know that your server ****_ can support URL rewriting. If not, leave it at "No".
+*   **Friendly URL**. Change this option _if you know that your server_ can support URL rewriting. If not, leave it at "No".
 
     You may see a message such as "_URL rewriting (mod\_rewrite) is not active on your server or it is not possible to check your server configuration. If you want to use Friendly URLs you must activate this mod_". In this case, PrestaShop cannot detect your server settings, but that does not mean the feature will not work. You must test it yourself.
 * **Accented URL**. PrestaShop can produce URL with special characters, for products with non-ASCII names. You can disable that option here.

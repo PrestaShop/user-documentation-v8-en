@@ -24,7 +24,7 @@ Passwords are rated from **0** (Extremely guessable) to **4** (Very unguessable)
 
 When creating an account, front office users receive real-time cues of their chosen password’s strength according to the back office password policy. A color-coded cue _–_ as well as a tooltip _–_ will help them understand if their password is strong enough.
 
-_**Note:** themes must be updated to support this feature. See_ [#themeandlogo-yourcurrenttheme](../../improving-shop/customizing-store-design/theme-and-logo.md#themeandlogo-yourcurrenttheme "mention")__
+_**Note:** themes must be updated to support this feature. See_ [#themeandlogo-yourcurrenttheme](../../improving-shop/customizing-store-design/theme-and-logo.md#themeandlogo-yourcurrenttheme "mention")
 
 | Cue color | Password length | Password strength |
 | :-------: | :-------------: | :---------------: |
@@ -32,9 +32,9 @@ _**Note:** themes must be updated to support this feature. See_ [#themeandlogo-y
 |     🟧    | Not long enough |       Strong      |
 |     🟩    |       Good      |       Strong      |
 
-|      An example of a weak password (🟥,🟧)     |      An example of a strong password (🟩)      |
-| :--------------------------------------------: | :--------------------------------------------: |
-| ![](<../../../.gitbook/assets/image (87).png>) | ![](<../../../.gitbook/assets/image (58).png>) |
+|      An example of a weak password (🟥,🟧)     |        An example of a strong password (🟩)        |
+| :--------------------------------------------: | :------------------------------------------------: |
+| ![](<../../../.gitbook/assets/image (87).png>) | ![](<../../../.gitbook/assets/image (58) (1).png>) |
 
 ## Manage employee and customer sessions
 
@@ -44,7 +44,7 @@ To access the back office, the employee or customer will need to sign back in us
 
 <figure><img src="../../../.gitbook/assets/image (76) (1).png" alt=""><figcaption><p>The <strong>Employee Sessions</strong> tab allows you to manage employee sessions.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption><p>The <strong>Customer Sessions</strong> tab allows you to manage customer sessions.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (81) (1).png" alt=""><figcaption><p>The <strong>Customer Sessions</strong> tab allows you to manage customer sessions.</p></figcaption></figure>
 
 ### Clear outdated Sessions
 

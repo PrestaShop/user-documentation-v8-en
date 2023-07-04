@@ -15,7 +15,7 @@ There are two places on the order page where you can update its status:
 
 Select the status you want in the drop-down list and click on the “Update status” button.&#x20;
 
-![](<../../../../.gitbook/assets/image (16).png>)
+![](<../../../../.gitbook/assets/image (16) (1).png>)
 
 You can choose between the following statuses:
 
@@ -107,7 +107,7 @@ If a customer asks you to modify one of these addresses, go to the Customer sect
 
 You can edit the existing address or select another address, from the list of addresses that were provided by the customer.
 
-![](<../../../../.gitbook/assets/image (10) (1).png>)
+![](<../../../../.gitbook/assets/image (10) (1) (1).png>)
 
 If the address you want to link to the order is not already registered in PrestaShop, you must create it first. To do this:
 

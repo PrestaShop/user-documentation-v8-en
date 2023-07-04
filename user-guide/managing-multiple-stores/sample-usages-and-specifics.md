@@ -14,7 +14,7 @@ You can, therefore, change the category's content once and for all from one plac
 
 **Categories**: A product can only appear in a given category of a store if it has been associated with this category in that store's context. In other words: if store A and store B have the C category in common, you can associate the P product to the C category for the A store's context; and product P will not appear in category C in store B:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 **Carriers**: You can manage the carriers' association on a per-store basis, a per-store-group basis or for all stores; but you cannot customize a carrier on a per-store basis. You must duplicate the carrier if you want to use the same carrier with different price ranges on two stores.
 

@@ -17,7 +17,7 @@ The orders are organized by date, from newest to oldest.&#x20;
 
 Use the filters at the top of the table to narrow down your search and click on the “Search” button.
 
-<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Exporting an order**&#x20;
 
@@ -35,7 +35,7 @@ You can preview an order’s details by clicking on the down arrow, next to the 
 * The carrier
 * The invoice details
 * The products in the cart
-* The total amount ****&#x20;
+* The total amount&#x20;
 
 To see more, click on the “Open details” button. This will redirect you to the order details page.&#x20;
 
@@ -57,7 +57,7 @@ To open the customer page in a new tab, make a right-click on their name, and cl
 
 ## **Changing the order status**
 
-&#x20;    ****     <img src="https://lh6.googleusercontent.com/6UrdsTFPXoizMX_PyjnMDRvnZ7yuqcdqRrboLt3v0W2XXalPe3lTD0Iuv4fbb-mVLzK0alGYtWtMQWmo7W5rlDsl03a42CyJjQgieEvfiV1c9ga1MXtFfiQGgkCLPXd-D9d1-tDa" alt="" data-size="original">
+&#x20;    <img src="https://lh6.googleusercontent.com/6UrdsTFPXoizMX_PyjnMDRvnZ7yuqcdqRrboLt3v0W2XXalPe3lTD0Iuv4fbb-mVLzK0alGYtWtMQWmo7W5rlDsl03a42CyJjQgieEvfiV1c9ga1MXtFfiQGgkCLPXd-D9d1-tDa" alt="" data-size="original">
 
 On the “Status” column of the table, click on the order’s status and select the new status from the list.&#x20;
 
