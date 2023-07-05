@@ -32,9 +32,9 @@ _**Note:** themes must be updated to support this feature. See_ [#themeandlogo-y
 |     🟧    | Not long enough |       Strong      |
 |     🟩    |       Good      |       Strong      |
 
-|      An example of a weak password (🟥,🟧)     |        An example of a strong password (🟩)        |
-| :--------------------------------------------: | :------------------------------------------------: |
-| ![](<../../../.gitbook/assets/image (87).png>) | ![](<../../../.gitbook/assets/image (58) (1).png>) |
+|        An example of a weak password (🟥,🟧)       |        An example of a strong password (🟩)        |
+| :------------------------------------------------: | :------------------------------------------------: |
+| ![](<../../../.gitbook/assets/image (87) (1).png>) | ![](<../../../.gitbook/assets/image (58) (1).png>) |
 
 ## Manage employee and customer sessions
 
@@ -50,4 +50,4 @@ To access the back office, the employee or customer will need to sign back in us
 
 The Clear button allows you to manually delete outdated sessions to reduce database clutter.
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72) (1).png" alt=""><figcaption></figcaption></figure>

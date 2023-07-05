@@ -86,7 +86,7 @@ If the box is checked next time you go to the page, it means that the parameter 
 
 For example, in the screenshot below, the box next to the maintenance text parameter is checked. This means that this parameter is customized in Store 1.
 
-<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (96) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Keep track of the changes made on a single store
 

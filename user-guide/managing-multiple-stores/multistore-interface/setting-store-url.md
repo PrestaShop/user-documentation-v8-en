@@ -50,7 +50,7 @@ To set a URL for a store**:**
 
 **Shop URL:**
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (2).png" alt=""><figcaption></figcaption></figure>
 
 *   **Domain:** Enter the store's domain name. You can indicate a sub-domain if needed. Just make sure it doesn't contain '`http://`', or any '`/`'.&#x20;
 

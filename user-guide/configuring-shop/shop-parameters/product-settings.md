@@ -68,7 +68,7 @@ This page contains the preferences pertaining to how your products are to be han
 
     &#x20;
 
-    <figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (70) (3).png" alt=""><figcaption></figcaption></figure>
 
 If set to 0 however, the remaining quantities will not be shown to customers and the feature will be disabled. This will not show the "Last items in stock" message anymore.
 

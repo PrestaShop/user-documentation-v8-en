@@ -2,7 +2,7 @@
 
 To add a new store, go to the **Advanced Parameters > Multistore** page, click on the **"Add a new shop"** button, and fill in the form.
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (94) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Shop name:** Enter a name for your store.
 * **Color:** You can also set a different color for each of your stores. Depending on the store you are working on, the header will change color, allowing you to know at a glance what context you are in:
