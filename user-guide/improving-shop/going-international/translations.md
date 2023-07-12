@@ -78,7 +78,7 @@ You can edit the text version of your email directly in the text field.
 Make sure to keep the variables (for example `{lastname}` or `{shop_name}`) in your translations. They will be replaced with the right value when the email is sent.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (49) (1) (1).png>)
+![](<../../../.gitbook/assets/image (49) (1).png>)
 
 ## Resetting translations
 

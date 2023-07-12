@@ -62,4 +62,4 @@ In this tab, you can view all your customers' actions related to their personal 
 
 In this tab, you will find a list of questions frequently asked by our merchants as well as answers provided by our module and GDPR experts.
 
-![](<../.gitbook/assets/image (49) (1).png>)
+![](<../.gitbook/assets/image (49).png>)

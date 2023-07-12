@@ -52,7 +52,7 @@ _A new column appears in the Products table, entitled “Partial refund”._
 
 Merchandise return requests from the customer are available in the Merchandise returns tab.&#x20;
 
-![Merchandise returns tab in the administrative section (Order page)](<../../../../.gitbook/assets/image (24) (1).png>)
+![Merchandise returns tab in the administrative section (Order page)](<../../../../.gitbook/assets/image (24).png>)
 
 **Follow the steps:**
 

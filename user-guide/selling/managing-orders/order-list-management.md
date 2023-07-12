@@ -17,7 +17,7 @@ The orders are organized by date, from newest to oldest.&#x20;
 
 Use the filters at the top of the table to narrow down your search and click on the “Search” button.
 
-<figure><img src="../../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ## **Exporting an order**&#x20;
 

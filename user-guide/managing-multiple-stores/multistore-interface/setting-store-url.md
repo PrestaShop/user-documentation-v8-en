@@ -42,7 +42,7 @@ To set a URL for a store**:**
 
 **URL options:**
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Shop:** Selected the store on which you want to set the URL.
 * **Main URL:** Switch the button to "Yes" if you want all the URLs of the store to redirect to the main URL.

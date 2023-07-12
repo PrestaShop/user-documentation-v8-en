@@ -21,7 +21,7 @@ The **"Add new webservice key"** button takes you to the webservice key creation
 
 Click **"Save"** when your key is ready.
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Configuration <a href="#webservice-configuration" id="webservice-configuration"></a>
 

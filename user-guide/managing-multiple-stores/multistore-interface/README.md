@@ -54,7 +54,7 @@ The multistore interface evolves and the drop-down Edit multistore page EN turns
 The color of each store or group of stores can be customized on the **Advanced Parameters > Multistore** page. Depending on the store you are working on, the header will change color, allowing you to know at a glance what context you are in.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ### Make changes to a group of stores or to a specific store
 
@@ -86,7 +86,7 @@ If the box is checked next time you go to the page, it means that the parameter 
 
 For example, in the screenshot below, the box next to the maintenance text parameter is checked. This means that this parameter is customized in Store 1.
 
-<figure><img src="../../../.gitbook/assets/image (96) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 ### Keep track of the changes made on a single store
 

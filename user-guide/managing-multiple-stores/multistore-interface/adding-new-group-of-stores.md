@@ -8,7 +8,7 @@ The settings of stores in a group can also be customized individually if needed.
 
 To add a new group of stores, go to the **Advanced Parameters > Multistore** page, click on the **"Add a new shop group"** button, and fill in the form.
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Store group name:** Enter a name for this group of stores. This name is private: only you and your team will be able to see it. You can edit it at any time.
 * **Color:** You can also set a different color for each group of stores. Depending on the group you are working on, the header will change color. This allows you to know at a glance what context you are in.

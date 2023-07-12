@@ -14,7 +14,7 @@ To change the default currency of your store:
 2. See the ‘Default currency’ feature in the Configuration section
 3. Select the currency you want to set as default
 
-![](<../../../../.gitbook/assets/image (2) (2) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (2) (2) (1).png>)
 
 If the currency you want to set as default is not available, you must add it whether by importing the localization pack of a country using this currency or by completing the “Add a new currency” form (See “Adding a new currency”).&#x20;
 

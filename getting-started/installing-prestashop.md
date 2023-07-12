@@ -1,190 +1,274 @@
 # Installing PrestaShop
 
-This chapter was written for those who intend to install PrestaShop on their online web server.\
-If you wish to install PrestaShop on your own computer, you should first follow the instructions on that page: [Installing PrestaShop on your computer](installing-prestashop-computer.md)[.](https://docs.prestashop-project.org/v.8-documentation/v/english/getting-started/installing-prestashop-computer)
+{% hint style="info" %}
+This chapter was written for those who intend to install PrestaShop on **their online web server.**
 
-If you have already read the instructions on that page, skip to the "Creating a database for your shop" section of this current page.
+\
+If you wish to install PrestaShop on your own computer, you should first follow the instructions on this page: [Installing PrestaShop on your computer](installing-prestashop-computer.md)[.](https://docs.prestashop-project.org/v.8-documentation/v/english/getting-started/installing-prestashop-computer)
 
-PrestaShop is very easy to install. Once all the files are on your web server, you should be able to start configuring your shop in no less than 5 minutes in most cases: the installation process is very simple, as the installer takes care of everything for you. Less experienced users might need between 10 and 20 minutes to complete the whole process.
 
-Before you get started, make sure you have all the requirements available: server space at a hosting provider, domain name, FTP client, text editor. Makes sure to follow the instructions in the "What you need to get started" page first:&#x20;
+
+If you have already read the instructions on that page, skip to the [**"Creating a database for your store"**](installing-prestashop.md#creating-a-database-for-your-store) section of this current page.
+{% endhint %}
+
+## Installation
+
+PrestaShop is very easy to install. Once you've uploaded all your files on your web server, you should be able to start configuring your store in no less than 5 minutes in most cases: the installation process is very simple because the installer takes care of everything for you.&#x20;
+
+Note that less experienced users might need between 10 and 20 minutes to complete the whole process.
+
+Before you get started, make sure you meet **all installation requirements:**&#x20;
+
+* **server space at a hosting provider,**&#x20;
+* **a domain name,**&#x20;
+* **an FTP client,**
+* **a text editor.**
+
+Everything you need is listed on the **"What you need to get started"** page, available here:&#x20;
 
 {% content-ref url="what-you-need-to-get-started.md" %}
 [what-you-need-to-get-started.md](what-you-need-to-get-started.md)
 {% endcontent-ref %}
 
-Our web hosting partner 1&1 IONOS offers a 1-click install in order to save you time and get you started even faster. Using these can drastically reduce the installation time for inexperienced users.
+Our web hosting partner **1&1 IONOS** offers a 1-click install in order to save you time and get you started even faster. Using these can drastically reduce the installation time for inexperienced users:
 
 * [1&1 IONOS Hosting](https://www.ionos.com/ecommerce-solutions/prestashop-hosting?ac=OM.US.USs96K414029T7073a)&#x20;
 
-Save time with our partner InMotion, get PrestaShop pre-installed. It allows users with few technical skills to quickly start working on a scalable solution.
+You can also save time with our partner **InMotion**, and get PrestaShop pre-installed. It allows users with few technical skills to quickly start working on a scalable solution.
 
 * [InMotion Hosting](https://inmotion-hosting.evyy.net/c/1322143/260033/4222?u=https%3A%2F%2Fwww.inmotionhosting.com%2Fprestashop-hosting)
 
 Those web hosts mostly use the following script libraries:
 
-* [SimpleScripts](https://www.simplescripts.com/script\_details/install:PrestaShop)
 * [Installatron](http://installatron.com/apps?locale=en#cmd=browser\&display=prestashop)
 * [Softaculous](http://www.softaculous.com/apps/ecommerce/PrestaShop)
 
-Some of these scripts even support 1-click update, which is invaluable.
-
-Other hosts have their own installation scripts. Check with your own host for more information.
+Some of these scripts even support 1-click updates. Other hosts have their own installation scripts — check with your own host for more information.
 
 ## Quick installation instructions
 
-Here's a quick set of instructions for those who are already comfortable with installing PHP/MySQL applications on a web server. If the lack of details bothers you, you will find detailed instructions in the next section of this chapter.
+Here's a quick set of instructions for those who are already comfortable with installing PHP/MySQL applications on a web server.&#x20;
 
-1. Download and unzip the PrestaShop package if you haven't already.
-2. Create a database for PrestaShop shop on your web server if it is possible. In case there is no MySQL user who has all privileges for accessing and modifying this database, create it as well.
-3. Upload the three PrestaShop files to the chosen location on your web server, including the .zip file (it will unzip itself afterward).
-4. Run the PrestaShop installation script by accessing the public URL for the chosen location in a web browser. This should be the URL where you uploaded the PrestaShop files.
-5. Follow the instructions on each screen of the installer.
-6. Once the installation is done, delete the `/install` folder and write down the new of the `/admin` folder, which has been generated in order to be unique to you, for security reasons.
+If you need more details, you can find detailed instructions in the next section of this chapter.
 
-PrestaShop should now be installed and ready to be configured! Continue to the [First steps with PrestaShop 1.6](http://doc.prestashop.com/display/PS16/First+steps+with+PrestaShop+1.6) chapter of the User Guide.
+1. **Download and unzip** the PrestaShop package if you haven't already.
+2. **Create a database** for your PrestaShop store on your web server if possible. If no MySQL user has all privileges for accessing and modifying this database, you will need to create them.
+3. **Upload** the three PrestaShop files to the chosen location on your web server, including the .zip file (it will unzip itself afterward).
+4. **Run** the PrestaShop installation script by accessing the public URL for the chosen location in a web browser. This should be the URL where you uploaded the PrestaShop files.
+5. **Follow** the installer's instructions.
+6. Once the installation is done, **delete the `/install` folder** and **write down a new name for your `/admin` folder,** which has been generated specifically for you (for security reasons).
+
+PrestaShop should now be installed and ready to be configured! Continue to the [First steps with PrestaShop 8](../user-guide/first-steps.md) chapter of the User Guide.
 
 ## Detailed instructions
 
 ### Downloading and unzipping the PrestaShop archive
 
-You can download the latest version of PrestaShop at [http://www.prestashop.com/en/download](http://www.prestashop.com/en/download).
+You can download the latest version of PrestaShop on GitHub, here: [https://github.com/PrestaShop/PrestaShop/releases](https://github.com/PrestaShop/PrestaShop/releases)&#x20;
 
-<figure><img src="../.gitbook/assets/image (42) (2).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+You do **not need a GitHub account** to download PrestaShop.
+{% endhint %}
 
-You only have one download option: the latest stable version, ready for all kinds of online stores.
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>PrestaShop 8.1.0's GitHub release page.</p></figcaption></figure>
 
-If you need to download any of the previous versions, go to this address: [https://www.prestashop.com/en/developers-versions#previous-version](https://www.prestashop.com/en/developers-versions#previous-version).
+Here you can download the **latest stable version**, ready for all kinds of online stores.
 
-Note that it is never recommended to use any other version than the current stable one.
+{% hint style="info" %}
+If you need to download any of the previous versions, scroll down the GitHub release page and find the version you wish to download.&#x20;
 
-Click on the "Download" button, and save the archive on your computer (such as on your Desktop). You should get a file named "prestashop\_1.7.8.8.zip" (or an equivalent, depending on the version numbers).
+Note that **it is not recommended to use any other version than the current stable one.**
+{% endhint %}
 
-The downloaded file is a Zip archive. In order to continue with the process, **you must uncompress the archive**.
+**Click** on the version you wish to download, expand the **"Assets"** section, and save the .zip archive on your computer (on your Desktop, for example):
+
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>PrestaShop 8.0.4's release page. The Assets section is at the bottom of the Releases page.</p></figcaption></figure>
+
+You should get a file named "prestaShop\_8.0\_4.zip" (or an equivalent, depending on the version you download).
+
+The downloaded file is a zip archive. In order to continue, **you must uncompress the archive**.
 
 If your operating system does not natively support Zip files, you can download and install a dedicated tool, such as:
 
-* Windows:
-  * 7-zip: [http://www.7-zip.org/](http://www.7-zip.org/)
-  * WinZip: [http://www.winzip.com/win/en/index.htm](http://www.winzip.com/win/en/index.htm)
-  * WinRAR: [http://www.rarlab.com/](http://www.rarlab.com/)
-* Mac OS X:
-  * iZip: [http://www.izip.com/](http://www.izip.com/)
-  * WinZip Mac: [http://www.winzip.com/mac/](http://www.winzip.com/mac/)
-  * Zipeg: [http://www.zipeg.com/](http://www.zipeg.com/)
+| Windows                                                                                                               | MacOS                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <p><strong>7-Zip</strong></p><p><a href="http://www.7-zip.org/">http://www.7-zip.org/</a></p>                         | <p><strong>iZip</strong><br><a href="http://www.izip.com/">http://www.izip.com/</a></p>               |
+| <p><strong>WinZip</strong><br><a href="http://www.winzip.com/win/en/index.htm">http://www.winzip.com/win/</a></p>     | <p><strong>WinZip</strong><br><a href="http://www.winzip.com/mac/">http://www.winzip.com/mac/</a></p> |
+| <p><strong>WinRAR</strong><br><a href="https://www.win-rar.com/start.html?&#x26;L=10">https://www.win-rar.com</a></p> |                                                                                                       |
 
-Using a Zip tool, extract the content of the archive to a known location on your hard drive (such as on the Desktop again). **Do not upload the Zip file directly to your web server**.
+Extract the content of the archive using your Zip utility to the location of your choice on your hard drive. You can extract it on your desktop if you wish.
+
+{% hint style="warning" %}
+**Do not upload the Zip file directly to your web server**.
+{% endhint %}
 
 The Zip archive has three items at its root :
 
-* The "prestashop.zip", which contains all the PrestaShop files that you will soon be uploading to your web server.
-* The "Install\_PrestaShop.html" file, which opens this very page in your default browser.
-* The index.php file which launches the installation.
+* **The "prestashop.zip":** which contains all the PrestaShop files that you will soon be uploading to your web server.
+* **The "Install\_PrestaShop.html" file:** opens the same page in your default browser.
+* **The index.php file:** launches the installation.
 
-The "Install\_PrestaShop.html" must not be uploaded on your web server.
+{% hint style="info" %}
+"Install\_PrestaShop.html" **must not be uploaded on your web server.**
+{% endhint %}
 
 ### Uploading PrestaShop
 
-You should now have a hosting space at your disposal (if not, read the "What you need to get started" chapter of this guide), and a folder on your hard drive with the uncompressed PrestaShop archive.
+You should now have a hosting space at your disposal and a folder on your hard drive with the uncompressed PrestaShop archive.
 
-This step makes you upload the PrestaShop files on your hosting space. This is done by connecting your computer to your server using a tool known as an "FTP client", which you should have installed while reading the "What you need to get started" chapter. We will be using the free FileZilla ([http://filezilla-project.org/](http://filezilla-project.org/)).
+This step helps you upload the PrestaShop files on your hosting space. This is done by **connecting your computer to your server using a tool known as an "FTP client",** which you should have installed already.&#x20;
 
-Connect to your hosting space using your FTP client, by using the connection details provided by your web host (if not, contact your host). Once connected, it is time to transfer the PrestaShop files from your computer to your server.
+For this example, we will use FileZilla Client, a free FTP client, available here: [http://filezilla-project.org](http://filezilla-project.org/).
 
-In FileZilla (or any other FTP client), browse your local folders until you find the one that contains the PrestaShop files. Keep it open in the "Local site" section on the left.
+1. **Connect to your hosting space** using your FTP client, by using the connection details provided by your web host (if not, contact your host).&#x20;
+2. Once connected, **transfer the PrestaShop files** from your computer to your server.
+3. In your FTP client, **browse your local folders** until you find the one that contains the PrestaShop files, and **keep it open** in the "Local site" section on the left, like this:
 
-![](<../.gitbook/assets/53641235 (3).png>)
+![PrestaShop has been uploaded to FileZilla. It's open in the "Local site" section.](<../.gitbook/assets/53641235 (3).png>)
 
-In the "Remote site" section (on the right), browse to the location where you want PrestaShop to be publicly available (root of the domain, sub-folder, sub-domain...). This can change a lot, depending on both your host and your needs:
+4. In the "Remote site" section (on the right), **browse to the location where you want PrestaShop to be publicly available** (at the root of the domain, sub-folder, sub-domain, etc). This can change a lot, depending on both your host and your needs:
 
-* Your host:
-  * Some hosts may require you to place your files in a specific folder, such as `/htdocs`, `/public_html`, `/web`, `/www`, `/`[`yourdomainname.com`](http://yourdomainname.com), etc.
-  * Other hosts' FTP server will simply log you directly into the proper upload space.
-* Your needs:
-  * If you want your shop to be the main website for your domain name (i.e., [http://www.example.com](http://www.example.com/)), upload PrestaShop to the root folder of the upload space (which may depend on the host).
-  * If you want your shop to be in a sub-folder of your domain name ([http://www.example.com/shop](http://www.example.com/shop)), you must first create a folder through FileZilla (right-click and choose "Create directory"), then upload PrestaShop in that folder.
-  * If you want your shop to be in a sub-domain of your domain name ([http://shop.example.com](http://shop.example.com/)), you must first create a sub-domain. This depends on your host: you might be able to do it simply by adding a new folder with your FTP client, or you might have to create the sub-domain through your host's administration panel. Read your host's support documentation first. Once created, browse to the sub-domain's folder, and upload PrestaShop there.
+#### **Your host:**
 
-On FileZilla's left side, you should now have the local folder where you keep the PrestaShop files from the Zip archive, and on the right side, the destination location. If you haven't done it yet, uploading is simple: select the three files from the local folder (use Ctrl-A), and either drag & drop them to the remote folder, or right-click on the selection and choose "Upload" in the context menu.
+* Some hosts may require you to place your files in a specific folder, such as `/htdocs`, `/public_html`, `/web`, `/www`, `/`[`yourdomainname.com`](http://yourdomainname.com), etc.
+* Other hosts' FTP server will simply log you directly into the proper upload space.
 
-### Creating a database for your shop
+#### **Your needs**
 
-Before you can actually install PrestaShop, you need to make sure your MySQL server has a database ready for PrestaShop's data. If not, you must create one.
+* If you want your store to be **the main website for your domain name** (i.e., [http://www.example.com](http://www.example.com/)):
+  * **Upload PrestaShop to the root folder** of the upload space (which may depend on the host).
+* If you want your store to be **in a sub-folder of your domain name** (i.e., [http://www.example.com/store](http://www.example.com/shop)):
+  * **Create a folder** through FileZilla (right-click and choose "Create directory"), then **upload PrestaShop in that folder.**
+* If you want your store to be **in a sub-domain of your domain name** (i.e., [http://store.example.com](http://shop.example.com/))
+  1. &#x20;**Create a sub-domain.**&#x20;
+  2. Once created, **browse to the sub-domain's folder**, and **upload PrestaShop there**.
 
-Creating a database can be done using any database administration tool. We will be using the free phpMyAdmin tool ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net/)), which should come pre-installed on most web hosting.
+{% hint style="info" %}
+This step depends on your host.&#x20;
 
-Some hosts prefer to have customers use a graphic control panel, such as cPanel, Plesk, or a custom-made one. Make sure you read your host's documentation about handling MySQL databases, and create a database for your shop by following their specific explanations.
+You might be able to create a sub-domain by adding a new folder with your FTP client, or you might have to create the sub-domain through your host's administration panel.&#x20;
 
-Connect to phpMyAdmin using your account credentials, which your host provided you with. It should be accessible through a standard URL, tied to your domain name, or host's domain name.
+Read your host's support documentation first.
+{% endhint %}
 
-![](../.gitbook/assets/54264239.png)
+On FileZilla's left side, you should now have the local folder where you keep the PrestaShop files previously extracted from the Zip archive. On the right side, you'll find the destination location.&#x20;
 
-In the left column, you can see the databases currently available on your MySQL server. Some of them should be left alone because they are either used by phpMyAdmin or by the host: `phpmyadmin`, `mysql`, `information_schema`, `performance_schema` and others. Read your host's documentation to know if one of these can be used as a default database.
+If you haven't uploaded it yet, it's very simple:&#x20;
 
-Either way, you can create a brand new database by going in the "Database" tab and using the central form named "Create new database". Simply enter a unique name, and click "Create". The name of the database will be added to the list on the left. You can now use it to store PrestaShop's data.
+1. **Select** the three files from the local folder (you can use Ctrl+A),&#x20;
+2. Either **drag & drop** your three files to the remote folder or **right-click** on the selection and choose **"Upload"** in the context menu.
+
+### Creating a database for your store
+
+Before you install PrestaShop, you need to make sure your MySQL server has a database ready for PrestaShop's data. If not, **you must create one.**
+
+Creating a database can be done using any database administration tool. We will be using the free phpMyAdmin tool ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net/)). It should come pre-installed on most web hosting services.
+
+{% hint style="info" %}
+Some hosts prefer customers to use a graphic control panel, such as cPanel, Plesk, or a custom-made one. Make sure you read your host's documentation about handling MySQL databases, and create a database for your store by following their specific explanations.
+{% endhint %}
+
+**To create a database, connect to phpMyAdmin** using your account credentials, which your host provided you with. It should be accessible through a standard URL, tied to your domain name, or the host's domain name.
+
+![phpMyAdmin's Dabatases page.](../.gitbook/assets/54264239.png)
+
+In the left column, you can see the databases currently available on your MySQL server.&#x20;
+
+{% hint style="info" %}
+Some of them should be left alone because they are either used by phpMyAdmin or by the host, like **`phpmyadmin, mysql, information_schema, performance_schema`** and others.&#x20;
+
+Read your host's documentation to know if one of these can be used as a default database.
+{% endhint %}
+
+1. To **create a brand new database,** go to the "Database" tab and use the central form untitled **"Create new database"**.&#x20;
+2. Simply **enter a unique name**, and click **"Create"**. The name of the database will be added to the list on the left. You can now use your database to store PrestaShop's data.
 
 ### Launching the auto-installer
 
-Now comes the part where it all comes together: installing PrestaShop.
+Here comes the part where it all comes together: installing PrestaShop.
 
 The installation process is quite easy, as it is streamlined by PrestaShop's auto-installer. You should be able to browse through it in a handful of minutes. Make sure to read each page thoroughly so as not to miss any information.
 
-To launch the installer, simply browse to PrestaShop's location on your web server: the script will automatically detect that PrestaShop is not yet installed, and will take you to the auto-installer. At the same time, this will unzip the prestashop.zip file that you uploaded. Now all the PrestaShop files are available on your webserver.
+To launch the installer:
+
+1. **Browse to PrestaShop's location** on your web server: the script will automatically detect that PrestaShop is not yet installed, and will take you to the auto-installer.&#x20;
+2. At the same time, this will unzip the prestashop.zip file that you uploaded.&#x20;
+3. Now all the PrestaShop files are available on your webserver.
+
+{% hint style="info" %}
+Did you encounter any issues while trying to install PrestaShop? Find help using the Support page, available here: [https://www.prestashop-project.org/support/](https://www.prestashop-project.org/support/)
+{% endhint %}
 
 If you are making an installation on your own computer, this installation should be done in the PrestaShop folder on your local web server, which should be available at [`http://127.0.0.1/prestashop`](http://127.0.0.1/prestashop).
 
 From there on, you just have to read, click, and fill out a few forms.
 
-There are 6 steps. At the top of the page, the installation assistant gives you a visualization of where you are in the process: the gray circles turn into green check marks after each step is completed.
+There are **6 steps**. At the top of the page, the installation assistant gives you a visualization of where you are in the process: the gray circles turn into green check marks after each step is completed.
 
 ![](<../.gitbook/assets/39125004 (5) (5).png>)
 
-**Step 1: Welcome page**
+## **Step 1: Welcome page**
 
-This page is a quick intro into the installation process. You can choose the language in which the installer will display its instructions.
+This page is a quick intro to the installation process. You can choose the language in which the installer will display its instructions.
 
-![](<../.gitbook/assets/53641236 (1).png>)
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption><p>PrestaShop's Installation Assistant, step 1: Welcome to the PrestaShop Installer.</p></figcaption></figure>
 
-You also get a link to the documentation site ([http://doc.prestashop.com/](http://doc.prestashop.com/)), and a link to our Support offer. You can learn more about our support service by going to [http://support.prestashop.com/en/](http://support.prestashop.com/en/).
+**Select the language** in which you wish the installer to be, then click the **Next** button.&#x20;
 
-Select the language in which you wish the installer to be, then click the "Next" button. This will also set the default language for your PrestaShop installation – but other languages will also be available for you to enable.
+This will also **set the default language for your PrestaShop** installation. Other languages will also be available for you to enable later on.
 
-**Step 2: PrestaShop's licenses**
+{% hint style="info" %}
+You also get a link to the documentation site ([https://docs.prestashop-project.org](https://docs.prestashop-project.org/v.8-documentation/v/english/)), and a link to our Support offer.&#x20;
 
-This second page is a simple requirement: PrestaShop is free and distributed under a certain set of open-source licenses. You simply cannot use this software if you disagree with the terms of the licenses, and this step requires you to explicitly acknowledge them.
+You can learn more about our support service by going to [https://prestashop.com/support/](https://prestashop.com/support/).
+{% endhint %}
 
-Read PrestaShop's licenses:
+## **Step 2: PrestaShop's licenses**
 
-* _Open Software License 3.0_ for PrestaShop itself, which you can also read at [http://www.opensource.org/licenses/OSL-3.0](http://www.opensource.org/licenses/OSL-3.0).&#x20;
-* _Academic Free License 3.0_ for the modules and themes, which you can also read at [http://opensource.org/licenses/AFL-3.0](http://opensource.org/licenses/AFL-3.0).
+This second page is a simple requirement. PrestaShop is free and distributed under a certain set of open-source licenses. You simply cannot use this software if you disagree with the terms of the licenses, and this step requires you to explicitly acknowledge them.
 
-![](<../.gitbook/assets/39125007 (4) (1).png>)
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p> PrestaShop's Installation Assistant, step 2: License Agreements.</p></figcaption></figure>
 
-You must agree to both licenses in order to install PrestaShop.
+**You must agree to both licenses** in order to install PrestaShop.
 
-To access the next step, you must check the "I agree to the above terms and conditions" box, then click "Next". If you do not explicitly agree to the licenses, you cannot install PrestaShop: the "Next" button will not even be clickable.
+To access the next step, you must check the **"I agree to the above terms and conditions"** box, then click **Next.**&#x20;
 
-**Step 3 & 4: System compatibility & Store information**
+If you do not explicitly agree to the licenses, you cannot install PrestaShop as you will not be able to click on the Next button.
 
-The third page makes a quick check of all the server parameters on your host. In most cases, you will not see this page, because if nothing wrong is found, you are taken directly to the fourth page, "Store information". If so, you can still go have a look at the third page by clicking on the "System compatibility" link in the left sidebar.
+{% hint style="info" %}
+Learn more about PrestaShop's licenses:
 
-If something does go wrong during the server check that happens in the third step, the installer displays the "System compatibility" page, where you can see all the checks that failed.
+* _**Open Software License 3.0**_ for PrestaShop itself, which you can also read at [http://www.opensource.org/licenses/OSL-3.0](http://www.opensource.org/licenses/OSL-3.0).&#x20;
+* _**Academic Free License 3.0**_ for the modules and themes, which you can also read at [http://opensource.org/licenses/AFL-3.0](http://opensource.org/licenses/AFL-3.0).
+{% endhint %}
 
-**System compatibility**
+## **Step 3: System compatibility**
+
+The third page makes a quick check of all the server parameters on your host.&#x20;
+
+In most cases, you will not see this page, because if nothing wrong is found, you are directly taken to the fourth page ("Store information"). If so, you can still go have a look at the third page by clicking on the "System compatibility" link in the left sidebar.
+
+{% hint style="info" %}
+If something goes wrong during the server check that happens in the third step, the installer displays the "System compatibility" page, where you can see all the checks that failed.
+{% endhint %}
+
+### **System compatibility**
 
 This page checks that everything is OK with your server configuration: PHP settings, permissions on files and folders, third-party tools, etc.
 
-![](<../.gitbook/assets/39125008 (4) (3).png>)
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p> PrestaShop's Installation Assistant, step 3: Checking system compatibility.</p></figcaption></figure>
 
-If anything goes wrong, the installer stops you here, enabling you to see the few technical details that need fixing, be it changing the PHP configuration or updating the file permissions.
+{% hint style="info" %}
+If anything goes wrong, the installer stops you here: you can see the few technical details that need fixing, be it changing the PHP configuration or updating the file permissions.
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/image (55) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p> PrestaShop's Installaton Assistant, step 3: System compatibility failed.</p></figcaption></figure>
 
 Here is a list of the checks that are performed during this third step:
 
-| Check                                                     | How/where to fix it?                                                                                      |
+| PrestaShop checks:                                        | How can I fix it? (check for...)                                                                          |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Is PHP 5.6 or later installed?                            | Web server                                                                                                |
+| Is PHP 5.6 or later installed?                            | webserver                                                                                                 |
 | Can PrestaShop upload files?                              | php.ini file (`file_uploads`)                                                                             |
 | Can PrestaShop create new files and folders?              | File browser / FTP client / command line                                                                  |
 | Is the GD Library installed?                              | php.ini file (`extension=`[`php_gd2.so`](http://php\_gd2.so))                                             |
@@ -211,106 +295,183 @@ Here is a list of the checks that are performed during this third step:
 | Is the Dom extension loaded?                              | `--enable-dom` compile time option                                                                        |
 | Is the PDO MySQL extension loaded?                        | php.ini file (`extension=`[`php_pdo_mysql.so`](http://php\_pdo\_mysql.so))                                |
 
-While changing the PHP configuration can only be done on a case-by-case basis depending on your level of access to your server, and therefore can only be explained in full details, updating the file permissions is easier to explain.
+### Updating file permissions
+
+{% hint style="info" %}
+Changing the PHP configuration can only be done on a case-by-case basis (depending on your level of access to your server) and therefore can't be explained in full detail.&#x20;
+{% endhint %}
+
+Updating the file permissions, however, is easier to explain:
 
 Permissions are the way a filesystem grants access rights to specific users or user groups, controlling their ability to view or make changes to files and folders. The installer needs to make several changes to the files that you uploaded, and if the filesystem does not allow for these changes through proper permissions, then the installer cannot complete its process.
 
-Hence, if the installer shows that some files or folders do not have proper permission, you have to change these permissions yourself. This will require you to access your files on your web server, and therefore use your FTP client (such as FileZilla) or the command line.
+If the installer shows that some files or folders do not have the right permissions, you have to change these permissions yourself. This will require you to access your files on your web server, and therefore use your FTP client (such as FileZilla) or the command line.
 
-Log in to your server account using your FTP client, browse to PrestaShop's folder, and find the folders that are marked by the installer as needing a permission change.
+**To update your file permissions,**&#x20;
 
-CHMOD
+1. **Log in** to your server account using your FTP client
+2. **Browse** to PrestaShop's folder, and find the folders that are marked by the installer as **needing a permission change.**
 
-Changing file/folder permission on a Unix/Linux system is called a "CHMOD", after the command of the same name (see: [http://en.wikipedia.org/wiki/Chmod](http://en.wikipedia.org/wiki/Chmod) – you can find an explanation of file permissions here: [http://www.elated.com/articles/understanding-permissions/](http://www.elated.com/articles/understanding-permissions/)).\
-Giving files or folders a "write permission" is called "doing a CHMOD 755" or "a CHMOD 775", depending on the host.
+### Updating CHMOD
 
-Some hosts might require you to use CHMOD 777, although it is not recommended for anything more than a one-time need.\
-If you have to use CHMOD 777 in order to install PrestaShop, make sure to switch to a safer setting (for instance, 775 for folders and 664 for files) once you are done installing.\
+Changing file or folder permission on a Unix/Linux system is called a **"CHMOD"**. It's named after the command of the same name (see: [http://en.wikipedia.org/wiki/Chmod](http://en.wikipedia.org/wiki/Chmod)).
+
+If you wish to learn more, you can find an explanation on file permissions here: [http://www.elated.com/articles/understanding-permissions/](http://www.elated.com/articles/understanding-permissions/)\
+
+
+Giving files or folders a "write permission" is called " a "CHMOD 775". The name can sometimes vary depending on your host.
+
+{% hint style="info" %}
+Some hosts might require you to use CHMOD 777, although it is not recommended for anything more than a one-time need.
+
+\
+If you have to use CHMOD 777 in order to install PrestaShop, make sure to switch to a safer setting (for instance, 775 for folders and 664 for files) once you are done installing.&#x20;
+
+
+
 Read your host's documentation carefully.
+{% endhint %}
 
-Thanks to FileZilla (and most FTP clients), you do not have to use any Unix command. Most FTP clients make it possible to change permissions easily and graphically: once you have found a file or folder that needs such a change, right-click on it, and in the context menu choose "File permissions...". It will open a small window.
+Thanks to FileZilla (and most FTP clients), you do not have to use any Unix command. Most FTP clients make it possible to change permissions easily and graphically.
 
-![](<../.gitbook/assets/23038066 (2) (2) (1).png>)
+Once you have found a file or folder that needs such a change,&#x20;
 
-Depending on your server configuration (which you don't always have a hand at), you will need to check both the "Read" and "Execute" columns of boxes, and at least the "Owner" and "Group" rows for the "Write" column. Some hosts might require you to have the public "Write" box checked, but be careful with that: it is rarely a good thing to have anyone on your server be able to edit the content of your PrestaShop installation.
+* **Right-click on it**, and in the context menu choose **"File permissions"**. It will open a small window.
 
-Some folders might need to have all their files and sub-folders change permissions too. In that case, check the "Recurse into subdirectories" box.
+![FileZilla's "Change file attributes" page.](<../.gitbook/assets/23038066 (2) (2) (1).png>)
 
-While changing permissions in your FTP client, you should regularly check that you have made the correct changes by running the installer's compatibility checks again: click the installer's "Refresh these settings" button as often as necessary.\
-Once all indicators are green, you can click "Next". If you cannot have them all green, at least make sure the installer displays the "PrestaShop compatibility with your system environment has been verified!" message at the top of the page.
+Depending on your server configuration (which you can't always edit), you will need to check both the **"Read"** and **"Execute"** columns of boxes, and at least the **"Owner"** and **"Group"** rows for the **"Write"** column.&#x20;
 
-**Store information**
+{% hint style="danger" %}
+Some hosts might require you to have the public "Write" box checked.&#x20;
 
-This is where you can start customizing your shop: give it a name, indicate its main activity, and indicate the personal information for the shop owner (which has legal binding in most countries)...
+Be careful with that: **it is rarely a good thing to give anyone permission to edit your PrestaShop installation's  content.**
+{% endhint %}
 
-Do not use a colon in your store's name, as it might prevent some feature from working (for instance, e-mail sending might fail).
+Some folders might need to have all their files and sub-folders change permissions too. In that case, check the **"Recurse into subdirectories"** box.
 
-You can replace the colon with a dash if you need to have two sections in the title. For instance, use "MyStore – The best place for items to buy" instead of "MyStore: The best place for items to buy".
+While changing permissions in your FTP client, you should regularly check that you have made the correct changes by running the installer's compatibility checks again. Click the installer's **"Refresh these settings"** button as often as necessary. **Once all indicators are green**, you can click **"Next"**.&#x20;
 
-![](../.gitbook/assets/53641237.png)
+If you cannot have them all green, at least make sure the installer displays the **"PrestaShop compatibility with your system environment has been verified!"** message at the top of the page.
 
-This is also where you choose the password to log in to the administration panel of your shop - choose wisely so that you will remember it, but make sure it is secure too!
+## **Step 4: Store information**
 
-Click "Next" to continue.
+This is where you can start customizing your store. You can give it a name, choose its main activity, and indicate the personal information of the store owner (which has legal bindings in most countries).
 
-**Step 5: System configuration**
+{% hint style="warning" %}
+**Do not use a colon in your store's name,** as it might prevent some features from working (for instance, e-mail sending might fail).
 
-This page contains a form that enables you to tell PrestaShop where the database server is, and which database it should use, along with a few other details. All this information should have been provided to you by your web host.
+You can replace the colon with **a dash** if you need to have two sections in the title.&#x20;
 
-![](<../.gitbook/assets/39125013 (4).png>)
+For instance, use "MyStore – The best place for items to buy" instead of "MyStore: The best place for items to buy".
+{% endhint %}
 
-Fill all the fields with the database connection information provided by your web-host:
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p> PrestaShop's Installation Assistant, step 4: Information about your Store.</p></figcaption></figure>
 
-* **Database server address**. The hostname of your MySQL server. It can be tied to your domain name (i.e. [http://sql.example.com](http://sql.example.com/)), tied to your web host (i.e. [http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com/)), or simply be an IP address (i.e. 46.105.78.185).
-* **Database name**. The name of the database where you want PrestaShop to store its data. This is either an existing database on your MySQL server or the one that you created using phpMyAdmin (or any other SQL tool) in the "Creating a database for your shop" section of this guide.
-* **Database login**. The name of the MySQL user that has access to your database.
-* **Database password**. The password of the MySQL user.
-* **Database engine**. The database engine is the core of your database server. InnoDB is the default one and you should use it, but the more technical among you might want to choose another engine. Generally, there is no need to change the default setting.
-* **Tables prefix**. The prefix for your database tables. "`ps_`" is the default, resulting in the PrestaShop SQL tables having names such as "`ps_cart`" or "`ps_customer`". We strongly recommend customizing your database prefix instead of using the default one. If you need to install more than one instance of PrestaShop on the same database, then you must use a different prefix for each installation. However, we do recommend that you create one database per installation of PrestaShop, if your web host allows it. Better yet: make one installation of PrestaShop, and enable the multistore feature in order to manage many stores from the same PrestaShop back-end.
-* **Drop existing tables**. This is only available in "Dev mode". When re-installing PrestaShop, you can choose to drop the existing PrestaShop database tables in order to start on a clean slate.
+This is also where you choose the password to log in to the administration panel of your store - choose wisely so that you will remember it, but make sure it is secure too!
 
-Click the "Test your database connection now!" button in order to check that you did use the correct server information.
+Click **"Next"** to continue.
 
-Click "Next": the installation will start configuring your shop, creating and populating the database tables, etc. This might take a few minutes: please be patient and do not touch your browser!
+## **Step 5: System configuration**
 
-![](<../.gitbook/assets/39125014 (4) (1).png>)
+This page contains a form that enables you to tell PrestaShop where the database server is, which database it should use, and some other details.&#x20;
+
+All these details should be provided to you by your webhost.
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p> PrestaShop's Installation Assistant, step 5: Database configuration.</p></figcaption></figure>
+
+**Fill all the fields** with the database connection information provided by your web host:
+
+* **Database server address:** The hostname of your MySQL server. It can be tied to your domain name (i.e. [http://sql.example.com](http://sql.example.com/)), tied to your web host (i.e. [http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com/)), or simply be an IP address (i.e. 46.105.78.185).
+* **Database name:** The name of the database where you want PrestaShop to store its data. This is either an existing database on your MySQL server or the one that you created using phpMyAdmin (or any other SQL tool) in the ["Creating a database for your shop"](installing-prestashop.md#creating-a-database-for-your-store) section of this guide.
+* **Database login:** The name of the MySQL user that has access to your database.
+* **Database password:** The user's MySQL password.
+* **Tables prefix:** The prefix for your database tables. The default prefix is "`ps_`", resulting in the PrestaShop SQL tables having names such as "`ps_cart`" or "`ps_customer`".
+
+{% hint style="info" %}
+**We strongly recommend customizing your database prefix instead of using the default one.**&#x20;
+
+If you need to install more than one instance of PrestaShop on the same database, then **you must use a different prefix for each installation**. However, we do recommend that you create one database per installation of PrestaShop if your web host allows it.&#x20;
+
+Better yet: make one installation of PrestaShop, and enable the [multistore feature](../user-guide/configuring-shop/advanced-parameters/multistore.md) in order to manage many stores from the same PrestaShop back-end.
+{% endhint %}
+
+* **Drop existing tables:** This is only available in "Dev mode". When re-installing PrestaShop, you can choose to drop the existing PrestaShop database tables in order to start with a clean slate.
+
+1. Click the **"Test your database connection now!"** button in order to check that you used the correct server information.
+2. Click **"Next".** The installation assistant will start configuring your store, creating and populating the database tables, etc.&#x20;
+
+This might take a few minutes, don't close this window.
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p> PrestaShop's Installation Assistant, step 6:  Database tables creation.</p></figcaption></figure>
 
 The installer does the following:
 
-* Create the `settings.inc.php` file, and fill it with your settings.
-* Create the database tables.
-* Create the default shop with its default languages.
-* Populate the database tables.
-* Configure the shop's information.
-* Install the default modules.
-* Install the demonstration data (products, categories, user, CMS pages, etc.).
-* Install the theme.
+* Create the **`settings.inc.php`** file, and fill it with your settings.
+* Create the **database tables.**
+* Create the **default store** with its default languages.
+* Populate the **database tables.**
+* Configure the **store's information.**
+* Install the **default modules**.
+* Install **demo data** (products, categories, user, CMS pages, etc.).
+* Install the **theme.**
 
-Once it is done, your shop is installed and ready to be configured!
+Once it is done, your store is installed and ready to be configured!
 
-### Completing the installation
+## Completing the installation
 
-As you can read right on the final page of the installation process, there are a couple of last actions to perform before you can leave the installer.
+As you can read right on the final page of the installation process, **there are a couple of last actions left before you can leave the installer.**
 
-![](<../.gitbook/assets/39125016 (4) (4).png>)
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p> PrestaShop's Installation Assistant, final step: Installation complete.</p></figcaption></figure>
 
-An easy way to improve your installation's security is to delete some key files and folders. This is done using your FTP client, directly on the server. The items to delete are:
+An easy way to improve your installation's security is to delete some key files and folders. This is done using your FTP client, directly on the server.&#x20;
 
-* The "/install" folder (imperative).
-* The "/docs" folder (optional), unless you need to test the import tool with the sample import files that this folder contains.
-* The "[README.md](http://readme.md)" file (optional).
+The items you can delete are:
 
-Click on the "Manage your store" button in order to be taken to your administration area.
+* The "/install" folder **(you must delete this folder).**
+* The "/docs" folder _**(you can delete this folder)**_, unless you need to test the import tool with the sample import files that this folder contains.
+* The "[README.md](https://www.makeareadme.com/)" file _**(you can delete this folder**_**)**.
 
+Click on the **"Manage your store"** button to access your administration area.
+
+{% hint style="info" %}
 Another way to secure your installation is to use a custom name for the administration folder: change the "admin" folder for something unique to you, such as "4dmin-1537" or "MySecReT4dm1n".
+{% endhint %}
 
 \
-**Write down the new name for your new "admin" folder**, because from now on you will access your administration pages using this address!
+**Write down the new name for your new "admin" folder:** from now on, you will access your administration pages using this address.
 
-Finally, in order to close all potentially malicious doors, use your FTP client to update the files and folders permissions to 664, or 666 if your host requires it. If it turns out low access rights prevent some modules to work, you should set permissions back to 755.
+Finally, to shut any potentially malicious doors, use your FTP client to update the files and folders permissions to 664, or 666 if your host requires it.&#x20;
 
-**Congratulations! Installation is now complete.**
+If it turns out low access rights prevent some modules to work, you should set permissions back to 755.
 
-Log in to the PrestaShop back office by going to your newly-renamed "admin" folder, and start filling your catalog with products, adding carriers and shipping costs, adding brands and suppliers, changing the theme, and generally configuring the many settings to suit your tastes and needs. See the user guide's "[First steps with PrestaShop V.8](../user-guide/first-steps.md)" chapter for more information.
+## **Congratulations, your PrestaShop installation is now complete!**
 
-You should regularly back up your database and files, ideally on more than one computer, in case of problems related to hardware or security.
+To continue customizing your PrestaShop store, **log in to the PrestaShop back office** by going to your newly-renamed "admin" folder. &#x20;
+
+You're free to:
+
+* &#x20;[Fill your catalog with products](https://docs.prestashop-project.org/v.8-documentation/v/english/user-guide/selling/managing-catalog/managing-products),[ ](https://docs.prestashop-project.org/v.8-documentation/v/english/user-guide/improving-shop/managing-shipping/carriers)
+* Add [carriers](https://docs.prestashop-project.org/v.8-documentation/v/english/user-guide/improving-shop/managing-shipping/carriers) and [shipping costs](https://docs.prestashop-project.org/v.8-documentation/v/english/user-guide/improving-shop/managing-shipping),&#x20;
+* Add [brands](https://docs.prestashop-project.org/v.8-documentation/v/english/user-guide/selling/managing-catalog/managing-brands) and [suppliers](https://docs.prestashop-project.org/v.8-documentation/v/english/user-guide/selling/managing-catalog/managing-suppliers),&#x20;
+* Change your [theme](https://docs.prestashop-project.org/v.8-documentation/v/english/user-guide/improving-shop/customizing-store-design/theme-and-logo).
+
+And configure the many settings to suit your tastes and needs. See the user guide's "[First steps with PrestaShop 8](../user-guide/first-steps.md)" chapter for more information.
+
+{% hint style="warning" %}
+You should regularly[ **back up your database and files**](https://devdocs.prestashop-project.org/8/basics/keeping-up-to-date/backup/), ideally on more than one computer, in case of problems related to hardware or security.
+{% endhint %}
+
+
+
+
+
+{% hint style="success" %}
+_This page has been recently updated!_
+
+**🗣 What did you think of this article? Let us know!**&#x20;
+
+Your feedback helps us improve PrestaShop's documentation for everyone! 🙌
+
+You can use the emojis on the bottom right of this article to let us know what you think about this article ⬇️
+{% endhint %}

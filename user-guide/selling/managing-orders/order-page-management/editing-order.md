@@ -15,7 +15,7 @@ There are two places on the order page where you can update its status:
 
 Select the status you want in the drop-down list and click on the “Update status” button.&#x20;
 
-![](<../../../../.gitbook/assets/image (16) (1).png>)
+![](<../../../../.gitbook/assets/image (16) (2).png>)
 
 You can choose between the following statuses:
 
@@ -27,7 +27,7 @@ Any module impacting the order monitoring might extend this status list.
 
 In order to get a better view of the order's activity, every status change is recorded in the “Status” tab, as well as its author and the date/time of the update.
 
-![](<../../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../../.gitbook/assets/image (1) (1) (1).png>)
 
 {% hint style="warning" %}
 It is very important to **update a status only when it has been clearly confirmed**. For example, do not mark an order as “Delivered” when you have only sent the package, use “Shipped” instead.&#x20;
@@ -107,7 +107,7 @@ If a customer asks you to modify one of these addresses, go to the Customer sect
 
 You can edit the existing address or select another address, from the list of addresses that were provided by the customer.
 
-![](<../../../../.gitbook/assets/image (10) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (10) (1).png>)
 
 If the address you want to link to the order is not already registered in PrestaShop, you must create it first. To do this:
 
@@ -130,7 +130,7 @@ To register a new payment, go to the Payments section of the order page.
 * Select the invoice on which you want this payment to appear
 * Click on the "Add" button to save&#x20;
 
-![](<../../../../.gitbook/assets/image (19) (1).png>)
+![](<../../../../.gitbook/assets/image (19) (1) (1).png>)
 
 ### **Adding a discount**
 

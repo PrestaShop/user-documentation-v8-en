@@ -2,11 +2,17 @@
 
 ## Getting started with PrestaShop 8 <a href="#gettingstarted-gettingstartedwithprestashop1.7" id="gettingstarted-gettingstartedwithprestashop1.7"></a>
 
-This guide was written to help you download and install PrestaShop 8.
+This guide was written to help you download and install **PrestaShop 8.**
 
-Every step of the process is detailed, with tips and indications to help you get the most of PrestaShop. Make sure to read the instructions at least once before proceeding with the installation.
+Every step of the process is detailed, with tips and indications to help you get the most out of PrestaShop. Make sure to read the instructions at least once before proceeding with the installation.
 
-The presented chapters should be read one after the other: for instance, the "What you need to get started" chapter should be read first. No instruction should be skipped, as having the correct environment for your installation of PrestaShop is essential for its health and its growth.
+{% hint style="info" %}
+The presented chapters should be read one after the other: for instance, the chapter ["What you need to get started"](what-you-need-to-get-started.md) should be read first.&#x20;
+
+**No instruction should be skipped,** as having the correct environment for your installation of PrestaShop is essential for its health and its growth.
+{% endhint %}
+
+You will find the following pages in this chapter:
 
 * [What you need to get started](what-you-need-to-get-started.md)
 * [Installing PrestaShop](installing-prestashop.md)

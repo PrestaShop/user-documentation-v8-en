@@ -16,7 +16,7 @@ Are you a merchant? In which language would you like to translate, update, or wr
 
 PrestaShop's Product Content Manager will onboard you and will give you access to the documentation as an editor. You will have to sign in with either a Gmail, GitHub, or GitBook account. Click here to[ create a GitBook account](https://app.gitbook.com/join).
 
-### Contributing on GitHub <img src=".gitbook/assets/image (54) (1).png" alt="" data-size="line">
+### Contributing on GitHub <img src=".gitbook/assets/image (54).png" alt="" data-size="line">
 
 Each documentation is synchronized with a repository on GitHub. Both interfaces are open to contributions. Click on your language to visit the corresponding repository: [English ](https://github.com/PrestaShop/user-documentation-en), [French ](https://github.com/PrestaShop/user-documentation-fr), [Spanish ](https://github.com/PrestaShop/user-documentation-es), [Italian ](https://github.com/PrestaShop/user-documentation-it), [Dutch ](https://github.com/PrestaShop/user-documentation-nl), [Farsi](https://github.com/PrestaShop/user-documentation-fa).
 

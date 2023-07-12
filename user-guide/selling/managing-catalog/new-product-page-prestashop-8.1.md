@@ -4,7 +4,7 @@
 To use the new product page, you must enable it in the [New & experimental features](../../configuring-shop/advanced-parameters/experimental-features.md) page on PrestaShop 8.1:
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (96) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Adding a new product
 
@@ -12,7 +12,7 @@ To add a new product to your catalog, click on **"Add new product"** from the **
 
 A new window opens, displaying the **4 different types of products** you can add to your store. Selecting a specific type of product will change the different tabs displayed on the product creation page:
 
-<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Standard product:** _A physical product that needs to be shipped._ The **Stocks** tab will be shown. Note that you **cannot add combinations to a standard product**.
 * **Product with combinations:** _A product with different variations (size, color, etc.) from which customers can choose._ The **Combinations** tab will be shown and the Stocks tab will disappear.&#x20;
@@ -26,7 +26,7 @@ If you've selected the wrong product type, you can quickly change its type:
 * Click on the **product type** (under the product name field)
 * A window asking you to **select the new product type** is displayed:
 
-<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (80) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note that by changing your product type, **all combinations will be deleted** and **your stocks will be reset.**
@@ -49,7 +49,7 @@ To select all combinations for each attribute, **click on the checkbox** on the 
 {% hint style="info" %}
 You can also manually search for an attribute using the **"Search for attributes..."** field to find specific attributes.&#x20;
 
-![](<../../../.gitbook/assets/image (58).png>)
+![](<../../../.gitbook/assets/image (58) (1).png>)
 
 This feature can be useful if your catalog has a lot of different attributes.
 {% endhint %}
@@ -68,7 +68,7 @@ When using **multistore mode**, you can generate attributes for all stores by ch
 
 PrestaShop 8.1 introduces combinations filters on the **"Combinations" > "Manage product combinations"** page, allowing you to quickly manage combinations in your store:
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Bulk actions
 
@@ -88,7 +88,7 @@ Then, click on the dropdown list for each category (for example, "Retail price")
 
 You can then enable the field using the slider button (enable/disable) and **type in your desired value.**
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (94) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 By default, the set value for **every field is 0.**
@@ -102,7 +102,7 @@ This way, changes will only be applied to **your selected combinations.**
 
 You can remove attributes in bulk by selecting multiple elements at once through filters or checkmarks, then click on **"Bulk actions" > "Delete X combinations"**&#x20;
 
-![](<../../../.gitbook/assets/image (87).png>)
+![](<../../../.gitbook/assets/image (87) (1).png>)
 
 A window is displayed asking you to **confirm your choice.**
 
@@ -112,7 +112,7 @@ A window is displayed asking you to **confirm your choice.**
 The new product page now includes a pagination feature. It allows you to easily browse through your store's products and display up to 100 items per page.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 With the implementation of the pagination feature, page loading time has been greatly reduced. This means you can have as many combinations as you want and you don't have to worry about your back office's performance.
 
@@ -131,7 +131,7 @@ To add a new tax rule to your retail price:
 
 The product's retail price (tax included) will automatically be calculated for your product.
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (65) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **I can't find a specific tax rule in the list.**
@@ -140,7 +140,7 @@ You can add tax rules for specific countries by clicking on "**Manage tax rules"
 
 You can also by [import a new localization pack](../../improving-shop/going-international/localization/localization-settings.md#localizationsettings-importalocalizationpack)'s taxes from the [Localization](../../improving-shop/going-international/localization/) page:
 
-![](<../../../.gitbook/assets/image (51).png>)
+![](<../../../.gitbook/assets/image (51) (1).png>)
 {% endhint %}
 
 ### Summary
@@ -169,7 +169,7 @@ Toggle the **"Display retail price per unit"** feature to display the retail pri
 
 You can now replace a product image. Simply select the image you wish to replace and click on the **"Replace selection"** button. Select an image on your computer and **make sure to save your changes.**
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Replacing images in bulk
 
@@ -183,7 +183,7 @@ It is now possible to replace a product image in bulk. You don't need to worry a
 
 You can now **select the image** you wish to associate with your combinations.
 
-<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Deleting images in bulk
 
@@ -191,7 +191,7 @@ It's now possible to delete product images in bulk.
 
 To do so, select the images you wish to delete and click on the **"Delete selection"** button:
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Stocks
 
@@ -209,13 +209,13 @@ Clients sometimes buy products while you're updating your stocks. An incorrect s
 
 To have a better look at your stock, a preview of the last 5 stock movements is displayed under the **"Recent stock movements"** tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 These stock movements also include order stock movements (the sales and product returns in between 2 stock movements). &#x20;
 
 Stock movement of customer orders is now regrouped to have a better summary of your stocks.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Header
 

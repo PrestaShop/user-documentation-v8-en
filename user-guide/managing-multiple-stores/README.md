@@ -16,7 +16,7 @@ This feature is especially useful if you are in one of the following cases:
 
 <div align="left">
 
-<img src="../../.gitbook/assets/image (44) (1).png" alt=" ">
+<img src="../../.gitbook/assets/image (44).png" alt=" ">
 
 </div>
 
