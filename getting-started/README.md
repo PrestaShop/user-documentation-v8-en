@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/banner8 (1).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Getting started
 
 ## Getting started with PrestaShop 8 <a href="#gettingstarted-gettingstartedwithprestashop1.7" id="gettingstarted-gettingstartedwithprestashop1.7"></a>
