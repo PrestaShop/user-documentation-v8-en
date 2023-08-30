@@ -1,3 +1,7 @@
+---
+description: This page lists additional information you may need to install PrestaShop 8.
+---
+
 # Misc. information
 
 ## Keep a test version at hand!
