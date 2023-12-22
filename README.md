@@ -2,7 +2,7 @@
 
 Just like PrestaShop itself, the [documentation](https://docs.prestashop-project.org/) is open to everyone for suggestions, ideas, and modifications. Anyone is welcome and even encouraged, to contribute to **translate**, **update**, or **write** the PrestaShop 8 user documentation.
 
-![](.gitbook/assets/build-puffin-writing.png)
+<figure><img src=".gitbook/assets/Web image-PhotoAdobeStock_511091438_HD.jpg" alt=""><figcaption></figcaption></figure>
 
 GitBook and GitHub are synchronized: if you change the content of any page on GitBook, your edits will be pushed to the GitHub repository. Conversely, commits pushed to GitHub are imported on GitBook.&#x20;
 
