@@ -91,7 +91,7 @@ If you would instead get your domain name from an independent registrar, here ar
 * **Gandi:** [http://en.gandi.net](http://en.gandi.net/)
 * **Namecheap:** [http://www.namecheap.com](http://www.namecheap.com/)
 * **GoDaddy:** [https://www.godaddy.com](https://www.godaddy.com/)
-* **1&1 IONOS:** [https://www.ionos.com](https://www.ionos.com/)
+* **IONOS:** [https://www.ionos.com](https://www.ionos.com/)
 {% endhint %}
 
 ### Finding a host
