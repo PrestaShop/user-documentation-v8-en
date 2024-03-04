@@ -220,7 +220,7 @@ This page is a quick intro to the installation process. You can choose the langu
 This will also **set the default language for your PrestaShop** installation. Other languages will also be available for you to enable later on.
 
 {% hint style="info" %}
-You also get a link to the documentation site ([https://docs.prestashop-project.org](https://docs.prestashop-project.org/v.8-documentation/v/english/)) and a link to our project's blog.&#x20;
+You also get a link to the documentation site ([https://docs.prestashop-project.org/welcome/](https://docs.prestashop-project.org/welcome/)) and a link to our project's blog.&#x20;
 
 You can visit the project's blog by going to [https://build.prestashop-project.org/](https://build.prestashop-project.org/).
 {% endhint %}
