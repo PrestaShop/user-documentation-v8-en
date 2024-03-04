@@ -30,9 +30,9 @@ Everything you need is listed on the **"What you need to get started"** page, av
 [what-you-need-to-get-started.md](what-you-need-to-get-started.md)
 {% endcontent-ref %}
 
-Our web hosting partner **1&1 IONOS** offers a 1-click install in order to save you time and get you started even faster. Using these can drastically reduce the installation time for inexperienced users:
+Our web hosting partner **IONOS** offers a 1-click install in order to save you time and get you started even faster. Using these can drastically reduce the installation time for inexperienced users:
 
-* [1&1 IONOS Hosting](https://www.ionos.com/ecommerce-solutions/prestashop-hosting?ac=OM.US.USs96K414029T7073a)&#x20;
+* [IONOS Hosting](https://www.ionos.com/ecommerce-solutions/prestashop-hosting?ac=OM.US.USs96K414029T7073a)&#x20;
 
 You can also save time with our partner **InMotion**, and get PrestaShop pre-installed. It allows users with few technical skills to quickly start working on a scalable solution.
 
