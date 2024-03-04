@@ -13,13 +13,13 @@ If you have already read the instructions on that page, skip to the [**"Creating
 
 ## Installation
 
-PrestaShop is very easy to install. Once you've uploaded all your files on your web server, you should be able to start configuring your store in no less than 5 minutes in most cases: the installation process is very simple because the installer takes care of everything for you.&#x20;
+PrestaShop should not be hard to install. Once you've uploaded all your files on your web server, you should be able to start configuring your store in no less than 5 minutes in most cases: the installation process is very simple because the installer takes care of everything for you.&#x20;
 
 Note that less experienced users might need between 10 and 20 minutes to complete the whole process.
 
 Before you get started, make sure you meet **all installation requirements:**&#x20;
 
-* **server space at a hosting provider,**&#x20;
+* **you have enough server space at a hosting provider,**&#x20;
 * **a domain name,**&#x20;
 * **an FTP client,**
 * **a text editor.**
@@ -45,6 +45,10 @@ Those web hosts mostly use the following script libraries:
 
 Some of these scripts even support 1-click updates. Other hosts have their own installation scripts — check with your own host for more information.
 
+{% hint style="info" %}
+Be careful with 1-click updates provided by tools from hosting companies. It is recommended to check them on the copy of your store first.
+{% endhint %}
+
 ## Quick installation instructions
 
 Here's a quick set of instructions for those who are already comfortable with installing PHP/MySQL applications on a web server.&#x20;
@@ -53,8 +57,8 @@ If you need more details, you can find detailed instructions in the next section
 
 1. **Download and unzip** the PrestaShop package if you haven't already.
 2. **Create a database** for your PrestaShop store on your web server if possible. If no MySQL user has all privileges for accessing and modifying this database, you will need to create them.
-3. **Upload** the three PrestaShop files to the chosen location on your web server, including the .zip file (it will unzip itself afterward).
-4. **Run** the PrestaShop installation script by accessing the public URL for the chosen location in a web browser. This should be the URL where you uploaded the PrestaShop files.
+3. **Upload** all available PrestaShop files to the chosen location on your web server, including the .zip file (it will unzip itself afterward).
+4. **Run** the PrestaShop installation script by accessing the public URL for the chosen location in a web browser. This should be the URL where your uploaded PrestaShop files are available.
 5. **Follow** the installer's instructions.
 6. Once the installation is done, **delete the `/install` folder** and **write down a new name for your `/admin` folder,** which has been generated specifically for you (for security reasons).
 
@@ -72,19 +76,19 @@ You do **not need a GitHub account** to download PrestaShop.
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>PrestaShop 8.1.0's GitHub release page.</p></figcaption></figure>
 
-Here you can download the **latest stable version**, ready for all kinds of online stores.
+Here, you can download the latest stable version, which is ready for all kinds of online stores.
 
 {% hint style="info" %}
 If you need to download any of the previous versions, scroll down the GitHub release page and find the version you wish to download.&#x20;
 
-Note that **it is not recommended to use any other version than the current stable one.**
+To benefit from the latest features and security fixes, it is **highly recommended** to use the current stable version (marked as "Latest") and avoid any other versions.
 {% endhint %}
 
 **Click** on the version you wish to download, expand the **"Assets"** section, and save the .zip archive on your computer (on your Desktop, for example):
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>PrestaShop 8.0.4's release page. The Assets section is at the bottom of the Releases page.</p></figcaption></figure>
 
-You should get a file named "prestaShop\_8.0\_4.zip" (or an equivalent, depending on the version you download).
+You should get a file named "prestashop\_X.Y.Z.zip" (prestashop\_8.1.0.zip for example, or an equivalent, depending on the version you download).
 
 The downloaded file is a zip archive. In order to continue, **you must uncompress the archive**.
 
@@ -94,15 +98,15 @@ If your operating system does not natively support Zip files, you can download a
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | <p><strong>7-Zip</strong></p><p><a href="http://www.7-zip.org/">http://www.7-zip.org/</a></p>                         | <p><strong>iZip</strong><br><a href="http://www.izip.com/">http://www.izip.com/</a></p>               |
 | <p><strong>WinZip</strong><br><a href="http://www.winzip.com/win/en/index.htm">http://www.winzip.com/win/</a></p>     | <p><strong>WinZip</strong><br><a href="http://www.winzip.com/mac/">http://www.winzip.com/mac/</a></p> |
-| <p><strong>WinRAR</strong><br><a href="https://www.win-rar.com/start.html?&#x26;L=10">https://www.win-rar.com</a></p> |                                                                                                       |
+| <p><strong>WinRAR</strong><br><a href="https://www.win-rar.com/start.html?&#x26;L=10">https://www.win-rar.com</a></p> | The recent MacOS versions allow you to unzip files natively.                                          |
 
 Extract the content of the archive using your Zip utility to the location of your choice on your hard drive. You can extract it on your desktop if you wish.
 
 {% hint style="warning" %}
-**Do not upload the Zip file directly to your web server**.
+**Do not upload a file named "prestashop\_X.Y.Z.zip"  directly to your web server**. **You must unzip it first.**
 {% endhint %}
 
-The Zip archive has three items at its root :
+The Zip archive has a few items at its root :
 
 * **The "prestashop.zip":** which contains all the PrestaShop files that you will soon be uploading to your web server.
 * **The "Install\_PrestaShop.html" file:** opens the same page in your default browser.
@@ -124,21 +128,21 @@ For this example, we will use FileZilla Client, a free FTP client, available her
 2. Once connected, **transfer the PrestaShop files** from your computer to your server.
 3. In your FTP client, **browse your local folders** until you find the one that contains the PrestaShop files, and **keep it open** in the "Local site" section on the left, like this:
 
-![PrestaShop has been uploaded to FileZilla. It's open in the "Local site" section.](<../.gitbook/assets/53641235 (3).png>)
+![Local PrestaShop files visible in FileZilla. It's open in the "Local site" section.](<../.gitbook/assets/53641235 (3).png>)
 
 4. In the "Remote site" section (on the right), **browse to the location where you want PrestaShop to be publicly available** (at the root of the domain, sub-folder, sub-domain, etc). This can change a lot, depending on both your host and your needs:
 
 #### **Your host:**
 
-* Some hosts may require you to place your files in a specific folder, such as `/htdocs`, `/public_html`, `/web`, `/www`, `/`[`yourdomainname.com`](http://yourdomainname.com), etc.
-* Other hosts' FTP server will simply log you directly into the proper upload space.
+* Some hosts may require you to place your files in a specific folder, such as `/htdocs`, `/public_html`, `/web`, `/www`, `/`[`yourdomainname.com`](http://yourdomainname.com), /domains/yourdomainname.com/public\_html/, etc.
+* Other hosts' FTP servers will simply log you directly into the proper upload space.
 
 #### **Your needs**
 
 * If you want your store to be **the main website for your domain name** (i.e., [http://www.example.com](http://www.example.com/)):
   * **Upload PrestaShop to the root folder** of the upload space (which may depend on the host).
 * If you want your store to be **in a sub-folder of your domain name** (i.e., [http://www.example.com/store](http://www.example.com/shop)):
-  * **Create a folder** through FileZilla (right-click and choose "Create directory"), then **upload PrestaShop in that folder.**
+  * **Create a folder** through FileZilla (right-click and choose "Create directory"), then **upload PrestaShop to that folder.**
 * If you want your store to be **in a sub-domain of your domain name** (i.e., [http://store.example.com](http://shop.example.com/))
   1. &#x20;**Create a sub-domain.**&#x20;
   2. Once created, **browse to the sub-domain's folder**, and **upload PrestaShop there**.
@@ -153,19 +157,19 @@ Read your host's support documentation first.
 
 On FileZilla's left side, you should now have the local folder where you keep the PrestaShop files previously extracted from the Zip archive. On the right side, you'll find the destination location.&#x20;
 
-If you haven't uploaded it yet, it's very simple:&#x20;
+If you haven't uploaded it yet, it should be straightforward:&#x20;
 
-1. **Select** the three files from the local folder (you can use Ctrl+A),&#x20;
+1. **Select** all PrestaShop release files from the local folder (you can use Ctrl+A),&#x20;
 2. Either **drag & drop** your three files to the remote folder or **right-click** on the selection and choose **"Upload"** in the context menu.
 
 ### Creating a database for your store
 
-Before you install PrestaShop, you need to make sure your MySQL server has a database ready for PrestaShop's data. If not, **you must create one.**
+Before you install PrestaShop, you need to make sure your MySQL/MariaDB server has a database ready for PrestaShop's data. If not, **you must create one.**
 
 Creating a database can be done using any database administration tool. We will be using the free phpMyAdmin tool ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net/)). It should come pre-installed on most web hosting services.
 
 {% hint style="info" %}
-Some hosts prefer customers to use a graphic control panel, such as cPanel, Plesk, or a custom-made one. Make sure you read your host's documentation about handling MySQL databases, and create a database for your store by following their specific explanations.
+Some hosts prefer customers to use a graphic control panel, such as cPanel, Plesk, DirectAdmin, or a custom-made one. Make sure you read your host's documentation about handling MySQL databases, and create a database for your store by following their specific explanations.
 {% endhint %}
 
 **To create a database, connect to phpMyAdmin** using your account credentials, which your host provided you with. It should be accessible through a standard URL, tied to your domain name, or the host's domain name.
@@ -187,7 +191,7 @@ Read your host's documentation to know if one of these can be used as a default 
 
 Here comes the part where it all comes together: installing PrestaShop.
 
-The installation process is quite easy, as it is streamlined by PrestaShop's auto-installer. You should be able to browse through it in a handful of minutes. Make sure to read each page thoroughly so as not to miss any information.
+The installation process is quite fast and straightforward, as it is streamlined by PrestaShop's auto-installer. You should be able to browse through it in a handful of minutes. Make sure to read each page thoroughly so as not to miss any information.
 
 To launch the installer:
 
@@ -198,8 +202,6 @@ To launch the installer:
 {% hint style="info" %}
 Did you encounter any issues while trying to install PrestaShop? Find help using the Support page, available here: [https://www.prestashop-project.org/support/](https://www.prestashop-project.org/support/)
 {% endhint %}
-
-If you are making an installation on your own computer, this installation should be done in the PrestaShop folder on your local web server, which should be available at [`http://127.0.0.1/prestashop`](http://127.0.0.1/prestashop).
 
 From there on, you just have to read, click, and fill out a few forms.
 
@@ -218,9 +220,9 @@ This page is a quick intro to the installation process. You can choose the langu
 This will also **set the default language for your PrestaShop** installation. Other languages will also be available for you to enable later on.
 
 {% hint style="info" %}
-You also get a link to the documentation site ([https://docs.prestashop-project.org](https://docs.prestashop-project.org/v.8-documentation/v/english/)), and a link to our Support offer.&#x20;
+You also get a link to the documentation site ([https://docs.prestashop-project.org](https://docs.prestashop-project.org/v.8-documentation/v/english/)) and a link to our project's blog.&#x20;
 
-You can learn more about our support service by going to [https://prestashop.com/support/](https://prestashop.com/support/).
+You can visit the project's blog by going to [https://build.prestashop-project.org/](https://build.prestashop-project.org/).
 {% endhint %}
 
 ## **Step 2: PrestaShop's licenses**
@@ -266,46 +268,51 @@ If anything goes wrong, the installer stops you here: you can see the few techni
 
 Here is a list of the checks that are performed during this third step:
 
-| PrestaShop checks:                                        | How can I fix it? (check for...)                                                                          |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Is PHP 5.6 or later installed?                            | webserver                                                                                                 |
-| Can PrestaShop upload files?                              | php.ini file (`file_uploads`)                                                                             |
-| Can PrestaShop create new files and folders?              | File browser / FTP client / command line                                                                  |
-| Is the GD Library installed?                              | php.ini file (`extension=`[`php_gd2.so`](http://php\_gd2.so))                                             |
-| Is MySQL support is on?                                   | php.ini file (`extension=`[`php_pdo_mysql.so`](http://php\_pdo\_mysql.so))                                |
-| Recursive write permission on \~/config/                  | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/cache/                   | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/log/                     | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/img/                     | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/mails/                   | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/modules/                 | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/override/                | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/themes/default/lang/     | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/themes/default/pdf/lang/ | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/themes/default/cache/    | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/translations/            | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/upload/                  | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/download/                | File browser / FTP client / command line                                                                  |
-| Recursive write permission on \~/sitemap.xml              | File browser / FTP client / command line                                                                  |
-| Can PrestaShop open external URLs?                        | [php.in](http://php.in) file (`allow_url_fopen`)                                                          |
-| Is PHP's "register global" option off?                    | php.ini file (`register_globals`)                                                                         |
-| Is GZIP compression activated?                            | .htaccess file                                                                                            |
-| Is the Mcrypt extension available?                        | php.ini file (see [http://php.net/manual/en/mcrypt.setup.php](http://php.net/manual/en/mcrypt.setup.php)) |
-| Is PHP's "magic quotes" option deactivated?               | php.ini file (`magic_quotes_gpc`)                                                                         |
-| Is the Dom extension loaded?                              | `--enable-dom` compile time option                                                                        |
-| Is the PDO MySQL extension loaded?                        | php.ini file (`extension=`[`php_pdo_mysql.so`](http://php\_pdo\_mysql.so))                                |
+| PrestaShop checks:                                                     | How can I fix it? (check for...)                                                                          |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Is the minimum or newer compatible PHP version installed?              | webserver                                                                                                 |
+| Can PrestaShop upload files?                                           | php.ini file (`file_uploads`)                                                                             |
+| Can PrestaShop create new files and folders?                           | File browser / FTP client / command line                                                                  |
+| Is the GD Library installed?                                           | php.ini file (`extension=`[`php_gd2.so`](http://php\_gd2.so))                                             |
+| Is MySQL support is on?                                                | php.ini file (`extension=`[`php_pdo_mysql.so`](http://php\_pdo\_mysql.so))                                |
+| Recursive write permission on \~/config/                               | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/cache/                                | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/log/                                  | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/img/                                  | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/mails/                                | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/modules/                              | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/override/                             | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/themes/default\_theme\_name/lang/     | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/themes/default\_theme\_name/pdf/lang/ | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/themes/default\_theme\_name/cache/    | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/translations/                         | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/upload/                               | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/download/                             | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/app/config/                           | File browser / FTP client / command line                                                                  |
+| Recursive write permission on \~/app/Resources/translations/           | File browser / FTP client / command line                                                                  |
+| Can PrestaShop open external URLs?                                     | [php.in](http://php.in) file (`allow_url_fopen`)                                                          |
+| Is PHP's "register global" option off?                                 | php.ini file (`register_globals`)                                                                         |
+| Is GZIP compression activated?                                         | .htaccess file                                                                                            |
+| Is the Mcrypt extension available?                                     | php.ini file (see [http://php.net/manual/en/mcrypt.setup.php](http://php.net/manual/en/mcrypt.setup.php)) |
+| Is PHP's "magic quotes" option deactivated?                            | php.ini file (`magic_quotes_gpc`)                                                                         |
+| Is the Dom extension loaded?                                           | `--enable-dom` compile time option                                                                        |
+| Is the PDO MySQL extension loaded?                                     | php.ini file (`extension=`[`php_pdo_mysql.so`](http://php\_pdo\_mysql.so))                                |
 
 ### Updating file permissions
 
 {% hint style="info" %}
-Changing the PHP configuration can only be done on a case-by-case basis (depending on your level of access to your server) and therefore can't be explained in full detail.&#x20;
+Changing the PHP configuration can only be done on a case-by-case basis (depending on your level of access to your server) and, therefore, can't be explained in full detail. If your server doesn't meet requirements consider contacting hosting support.
+{% endhint %}
+
+{% hint style="warning" %}
+On most servers, you shouldn't be forced to change any permissions. Contact hosting support first to consult the configuration if you must do it.
 {% endhint %}
 
 Updating the file permissions, however, is easier to explain:
 
 Permissions are the way a filesystem grants access rights to specific users or user groups, controlling their ability to view or make changes to files and folders. The installer needs to make several changes to the files that you uploaded, and if the filesystem does not allow for these changes through proper permissions, then the installer cannot complete its process.
 
-If the installer shows that some files or folders do not have the right permissions, you have to change these permissions yourself. This will require you to access your files on your web server, and therefore use your FTP client (such as FileZilla) or the command line.
+If the installer shows that some files or folders do not have the right permissions, you have to change these permissions yourself. This will require you to access your files on your web server and, therefore, use your FTP client (such as FileZilla) or the command line.
 
 **To update your file permissions,**&#x20;
 
@@ -322,7 +329,7 @@ If you wish to learn more, you can find an explanation on file permissions here:
 Giving files or folders a "write permission" is called " a "CHMOD 775". The name can sometimes vary depending on your host.
 
 {% hint style="info" %}
-Some hosts might require you to use CHMOD 777, although it is not recommended for anything more than a one-time need.
+Some hosts might require you to use CHMOD 777, although **it is not recommended** for anything more than a one-time need.
 
 \
 If you have to use CHMOD 777 in order to install PrestaShop, make sure to switch to a safer setting (for instance, 775 for folders and 664 for files) once you are done installing.&#x20;
@@ -345,7 +352,7 @@ Depending on your server configuration (which you can't always edit), you will n
 {% hint style="danger" %}
 Some hosts might require you to have the public "Write" box checked.&#x20;
 
-Be careful with that: **it is rarely a good thing to give anyone permission to edit your PrestaShop installation's  content.**
+Be careful with that: **it is rarely a good thing to give anyone permission to edit your PrestaShop installation's content.**
 {% endhint %}
 
 Some folders might need to have all their files and sub-folders change permissions too. In that case, check the **"Recurse into subdirectories"** box.
@@ -372,7 +379,13 @@ This is also where you choose the password to log in to the administration panel
 
 Click **"Next"** to continue.
 
-## **Step 5: System configuration**
+## Step 5: Content of your store
+
+This page provides a form that allows you to choose which modules to install with your store and opt-in or out of demo products.
+
+<figure><img src="../.gitbook/assets/Installer-content-of-your-store.jpeg" alt=""><figcaption></figcaption></figure>
+
+## **Step 6: System configuration**
 
 This page contains a form that enables you to tell PrestaShop where the database server is, which database it should use, and some other details.&#x20;
 
@@ -393,7 +406,7 @@ All these details should be provided to you by your webhost.
 
 If you need to install more than one instance of PrestaShop on the same database, then **you must use a different prefix for each installation**. However, we do recommend that you create one database per installation of PrestaShop if your web host allows it.&#x20;
 
-Better yet: make one installation of PrestaShop, and enable the [multistore feature](../user-guide/configuring-shop/advanced-parameters/multistore.md) in order to manage many stores from the same PrestaShop back-end.
+Better yet: make one installation of PrestaShop, and enable the [multistore feature](../user-guide/configuring-shop/advanced-parameters/multistore.md) in order to manage many stores from the same PrestaShop back office.
 {% endhint %}
 
 * **Drop existing tables:** This is only available in "Dev mode". When re-installing PrestaShop, you can choose to drop the existing PrestaShop database tables in order to start with a clean slate.
@@ -407,13 +420,13 @@ This might take a few minutes, don't close this window.
 
 The installer does the following:
 
-* Create the **`settings.inc.php`** file, and fill it with your settings.
+* Create the configuration files and fill them with your settings.
 * Create the **database tables.**
 * Create the **default store** with its default languages.
 * Populate the **database tables.**
 * Configure the **store's information.**
-* Install the **default modules**.
-* Install **demo data** (products, categories, user, CMS pages, etc.).
+* Install the **selected modules**.
+* Install **demo data** (if you opt-in to it, products, categories, customers, CMS pages, etc.).
 * Install the **theme.**
 
 Once it is done, your store is installed and ready to be configured!
@@ -430,12 +443,12 @@ The items you can delete are:
 
 * The "/install" folder **(you must delete this folder).**
 * The "/docs" folder _**(you can delete this folder)**_, unless you need to test the import tool with the sample import files that this folder contains.
-* The "[README.md](https://www.makeareadme.com/)" file _**(you can delete this folder**_**)**.
+* The "[README.md](https://www.makeareadme.com/)" file _**(you can delete this file**_**)**.
 
 Click on the **"Manage your store"** button to access your administration area.
 
 {% hint style="info" %}
-Another way to secure your installation is to use a custom name for the administration folder: change the "admin" folder for something unique to you, such as "4dmin-1537" or "MySecReT4dm1n".
+Another way to secure your installation is to use a custom name for the administration folder: change the "admin" folder for something unique to you, such as "4dmin-1537" or "MySecUReD4dm1n".
 {% endhint %}
 
 \
@@ -443,7 +456,7 @@ Another way to secure your installation is to use a custom name for the administ
 
 Finally, to shut any potentially malicious doors, use your FTP client to update the files and folders permissions to 664, or 666 if your host requires it.&#x20;
 
-If it turns out low access rights prevent some modules to work, you should set permissions back to 755.
+If it turns out low access rights prevent some modules from working, you should set permissions back to 755.
 
 ## **Congratulations, your PrestaShop installation is now complete!**
 
@@ -461,10 +474,6 @@ And configure the many settings to suit your tastes and needs. See the user guid
 {% hint style="warning" %}
 You should regularly[ **back up your database and files**](https://devdocs.prestashop-project.org/8/basics/keeping-up-to-date/backup/), ideally on more than one computer, in case of problems related to hardware or security.
 {% endhint %}
-
-
-
-
 
 {% hint style="success" %}
 _This page has been recently updated!_
