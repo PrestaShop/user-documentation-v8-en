@@ -105,7 +105,7 @@ You can find the list of the PrestaShop hosting partners [here](https://prestash
 {% hint style="info" %}
 When choosing your host, remember **it must provide you with support for:**
 
-* **PHP 7.1+**, which is the programming language with which PrestaShop is written,&#x20;
+* **PHP 7.2+**, which is the programming language with which PrestaShop is written,&#x20;
 * **MySQL 5.6+**, which is the database system where PrestaShop stores all its data.&#x20;
 
 Note that there are more requirements. see the **"Technical requirements"** section below.
@@ -123,7 +123,7 @@ No matter which hosting service you choose, **the following components will be i
 
 * **System**: Unix, Linux, or Windows (Unix is highly recommended).
 * **Web server**: Apache Web server 2.2 or later.
-* **PHP:** 7.1 or later.&#x20;
+* **PHP:** 7.2 or later.&#x20;
 * **MySQL:** 5.6 or later.
 * **Server RAM:** At least `256MB`of RAM.
 
